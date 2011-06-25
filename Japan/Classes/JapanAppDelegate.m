@@ -3,17 +3,15 @@
 //  Japan
 //
 //  Created by Fenimore, Michael on 6/24/11.
-//  Copyright 2011 __MyCompanyName__. All rights reserved.
+//  Copyright 2011 __MichaelFenimore__. All rights reserved.
 //
 
 #import "JapanAppDelegate.h"
-#import "RootViewController.h"
-
+#import "View.h"
 
 @implementation JapanAppDelegate
 
 @synthesize window;
-@synthesize navigationController;
 
 
 #pragma mark -
@@ -22,11 +20,13 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {    
     
     // Override point for customization after application launch.
-    
-    // Set the navigation controller as the window's root view controller and display.
-    self.window.rootViewController = self.navigationController;
+	UIScreen *theScreen = [UIScreen mainScreen];
+	view = [[View alloc] initWithFrame: theScreen.applicationFrame];
+	window = [[UIWindow alloc] initWithFrame: theScreen.bounds];
+	
+	[window addSubview: view];
     [self.window makeKeyAndVisible];
-
+    
     return YES;
 }
 
@@ -80,11 +80,10 @@
 
 
 - (void)dealloc {
-	[navigationController release];
-	[window release];
-	[super dealloc];
+    [window release];
+	[view release];
+    [super dealloc];
 }
 
 
 @end
-

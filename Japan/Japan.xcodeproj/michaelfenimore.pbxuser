@@ -1,12 +1,26 @@
 // !$*UTF8*$!
 {
+	1D3623240D0F684500981E51 /* JapanAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {625, 540}}";
+			sepNavSelRange = "{352, 0}";
+			sepNavVisRange = "{0, 352}";
+		};
+	};
+	1D3623250D0F684500981E51 /* JapanAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1170}}";
+			sepNavSelRange = "{752, 0}";
+			sepNavVisRange = "{0, 1340}";
+		};
+	};
 	1D6058900D05DD3D006BFB54 /* Japan */ = {
 		activeExec = 0;
 		executables = (
-			240CC44513B67DE8007DAA65 /* Japan */,
+			240CC48413B68B2D007DAA65 /* Japan */,
 		);
 	};
-	240CC44513B67DE8007DAA65 /* Japan */ = {
+	240CC48413B68B2D007DAA65 /* Japan */ = {
 		isa = PBXExecutable;
 		activeArgIndices = (
 		);
@@ -22,6 +36,7 @@
 		dataTipSortType = 0;
 		debuggerPlugin = GDBDebugging;
 		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
 		enableDebugStr = 1;
 		environmentEntries = (
 		);
@@ -33,7 +48,7 @@
 		sourceDirectories = (
 		);
 	};
-	240CC45413B67DF6007DAA65 /* Source Control */ = {
+	240CC48B13B68B32007DAA65 /* Source Control */ = {
 		isa = PBXSourceControlManager;
 		fallbackIsa = XCSourceControlManager;
 		isSCMEnabled = 0;
@@ -43,17 +58,117 @@
 			};
 		};
 	};
-	240CC45513B67DF6007DAA65 /* Code sense */ = {
+	240CC48C13B68B32007DAA65 /* Code sense */ = {
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
 	};
+	240CC49F13B68B8C007DAA65 /* View.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1149, 771}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 197}";
+		};
+	};
+	240CC4A013B68B8C007DAA65 /* View.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1149, 2080}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1528}";
+		};
+	};
+	240CC4AF13B68D0E007DAA65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 240CC49F13B68B8C007DAA65 /* View.h */;
+		name = "View.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 197;
+		vrLoc = 0;
+	};
+	240CC4B013B68D0E007DAA65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 240CC4A013B68B8C007DAA65 /* View.m */;
+		name = "View.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1528;
+		vrLoc = 0;
+	};
+	240CC4B113B68D0E007DAA65 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 240CC4A513B68BD1007DAA65 /* japan72.png */;
+	};
+	240CC4B213B68D0E007DAA65 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 240CC4A613B68BD1007DAA65 /* japan114.png */;
+	};
+	240CC4B313B68D0E007DAA65 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Japan-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/michaelfenimore/Documents/nyu-iphone/Japan/Japan-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	240CC4D613B68EE3007DAA65 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 240CC4A413B68BD1007DAA65 /* japan57.png */;
+	};
+	240CC4D713B68EE3007DAA65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 382;
+		vrLoc = 0;
+	};
+	240CC4D813B68EE3007DAA65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* JapanAppDelegate.m */;
+		name = "JapanAppDelegate.m: 31";
+		rLen = 0;
+		rLoc = 752;
+		rType = 0;
+		vrLen = 1340;
+		vrLoc = 0;
+	};
+	240CC4D913B68EE3007DAA65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* JapanAppDelegate.h */;
+		name = "JapanAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 352;
+		vrLoc = 0;
+	};
+	240CC4DA13B68EE3007DAA65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* JapanAppDelegate.h */;
+		name = "JapanAppDelegate.h: 19";
+		rLen = 0;
+		rLoc = 352;
+		rType = 0;
+		vrLen = 352;
+		vrLoc = 0;
+	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
 		activeBuildConfigurationName = Debug;
-		activeExecutable = 240CC44513B67DE8007DAA65 /* Japan */;
+		activeExecutable = 240CC48413B68B2D007DAA65 /* Japan */;
 		activeTarget = 1D6058900D05DD3D006BFB54 /* Japan */;
-		codeSenseManager = 240CC45513B67DF6007DAA65 /* Code sense */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Japan */,
+		);
+		codeSenseManager = 240CC48C13B68B32007DAA65 /* Code sense */;
 		executables = (
-			240CC44513B67DE8007DAA65 /* Japan */,
+			240CC48413B68B2D007DAA65 /* Japan */,
 		);
 		perUserDictionary = {
 			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
@@ -61,9 +176,9 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					971,
+					447,
 					20,
-					48.16259765625,
+					48,
 					43,
 					43,
 					20,
@@ -78,11 +193,30 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 330726888;
-			PBXWorkspaceStateSaveDate = 330726888;
+			PBXPerProjectTemplateStateSaveDate = 330730897;
+			PBXWorkspaceStateSaveDate = 330730897;
 		};
-		sourceControlManager = 240CC45413B67DF6007DAA65 /* Source Control */;
+		perUserProjectItems = {
+			240CC4AF13B68D0E007DAA65 /* PBXTextBookmark */ = 240CC4AF13B68D0E007DAA65 /* PBXTextBookmark */;
+			240CC4B013B68D0E007DAA65 /* PBXTextBookmark */ = 240CC4B013B68D0E007DAA65 /* PBXTextBookmark */;
+			240CC4B113B68D0E007DAA65 /* PBXBookmark */ = 240CC4B113B68D0E007DAA65 /* PBXBookmark */;
+			240CC4B213B68D0E007DAA65 /* PBXBookmark */ = 240CC4B213B68D0E007DAA65 /* PBXBookmark */;
+			240CC4B313B68D0E007DAA65 /* PlistBookmark */ = 240CC4B313B68D0E007DAA65 /* PlistBookmark */;
+			240CC4D613B68EE3007DAA65 /* PBXBookmark */ = 240CC4D613B68EE3007DAA65 /* PBXBookmark */;
+			240CC4D713B68EE3007DAA65 /* PBXTextBookmark */ = 240CC4D713B68EE3007DAA65 /* PBXTextBookmark */;
+			240CC4D813B68EE3007DAA65 /* PBXTextBookmark */ = 240CC4D813B68EE3007DAA65 /* PBXTextBookmark */;
+			240CC4D913B68EE3007DAA65 /* PBXTextBookmark */ = 240CC4D913B68EE3007DAA65 /* PBXTextBookmark */;
+			240CC4DA13B68EE3007DAA65 /* PBXTextBookmark */ = 240CC4DA13B68EE3007DAA65 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 240CC48B13B68B32007DAA65 /* Source Control */;
 		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {625, 540}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 382}";
 		};
 	};
 }

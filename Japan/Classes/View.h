@@ -1,5 +1,5 @@
 //
-//  RootViewController.h
+//  View.h
 //  Japan
 //
 //  Created by Fenimore, Michael on 6/24/11.
@@ -8,7 +8,9 @@
 
 #import <UIKit/UIKit.h>
 
-@interface RootViewController : UITableViewController {
+
+@interface View : UIView {
+
 }
 
 @end
