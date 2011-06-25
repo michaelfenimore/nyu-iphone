@@ -1,0 +1,185 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* JapanAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1105}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1266}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Japan */ = {
+		activeExec = 0;
+		executables = (
+			AD22445813B51EF70031298D /* Japan */,
+		);
+	};
+	28A0AAE50D9B0CCF005BE974 /* Japan_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {992, 524}}";
+			sepNavSelRange = "{316, 0}";
+			sepNavVisRange = "{0, 316}";
+		};
+	};
+	28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {992, 524}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 238}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = AD22445813B51EF70031298D /* Japan */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Japan */;
+		codeSenseManager = AD22446813B51EFF0031298D /* Code sense */;
+		executables = (
+			AD22445813B51EF70031298D /* Japan */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					814,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 330637047;
+			PBXWorkspaceStateSaveDate = 330637047;
+		};
+		perUserProjectItems = {
+			AD22446F13B5244D0031298D /* PBXTextBookmark */ = AD22446F13B5244D0031298D /* PBXTextBookmark */;
+			AD22447013B5244D0031298D /* PBXTextBookmark */ = AD22447013B5244D0031298D /* PBXTextBookmark */;
+			AD22447113B5244D0031298D /* PlistBookmark */ = AD22447113B5244D0031298D /* PlistBookmark */;
+			AD22447213B5244D0031298D /* PBXTextBookmark */ = AD22447213B5244D0031298D /* PBXTextBookmark */;
+			AD22447313B5244D0031298D /* PBXTextBookmark */ = AD22447313B5244D0031298D /* PBXTextBookmark */;
+			AD22447413B5244D0031298D /* PBXTextBookmark */ = AD22447413B5244D0031298D /* PBXTextBookmark */;
+		};
+		sourceControlManager = AD22446713B51EFF0031298D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {992, 524}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 364}";
+		};
+	};
+	AD22445813B51EF70031298D /* Japan */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Japan;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	AD22446713B51EFF0031298D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	AD22446813B51EFF0031298D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	AD22446F13B5244D0031298D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* JapanAppDelegate.m */;
+		name = "JapanAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1266;
+		vrLoc = 0;
+	};
+	AD22447013B5244D0031298D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 238;
+		vrLoc = 0;
+	};
+	AD22447113B5244D0031298D /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Japan-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Developer/iPhone Applications/Japan/Japan-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	AD22447213B5244D0031298D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 364;
+		vrLoc = 0;
+	};
+	AD22447313B5244D0031298D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28A0AAE50D9B0CCF005BE974 /* Japan_Prefix.pch */;
+		name = "Japan_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 316;
+		vrLoc = 0;
+	};
+	AD22447413B5244D0031298D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28A0AAE50D9B0CCF005BE974 /* Japan_Prefix.pch */;
+		name = "Japan_Prefix.pch: 15";
+		rLen = 0;
+		rLoc = 316;
+		rType = 0;
+		vrLen = 316;
+		vrLoc = 0;
+	};
+}
