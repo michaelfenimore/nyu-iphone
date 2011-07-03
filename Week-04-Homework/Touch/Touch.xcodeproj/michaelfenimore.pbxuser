@@ -1,0 +1,105 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* TouchAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {932, 746}}";
+			sepNavSelRange = "{261, 0}";
+			sepNavVisRange = "{0, 351}";
+		};
+	};
+	1D3623250D0F684500981E51 /* TouchAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2244, 1215}}";
+			sepNavSelRange = "{635, 0}";
+			sepNavVisRange = "{0, 1730}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Touch */ = {
+		activeExec = 0;
+		executables = (
+			24D342C213C0CD530013E08E /* Touch */,
+		);
+	};
+	24D342C213C0CD530013E08E /* Touch */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Touch;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	24D342CD13C0CD720013E08E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	24D342CE13C0CD720013E08E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	24D342D013C0CDF40013E08E /* View.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {932, 1140}}";
+			sepNavSelRange = "{175, 0}";
+			sepNavVisRange = "{0, 1392}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 24D342C213C0CD530013E08E /* Touch */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Touch */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Touch */,
+		);
+		codeSenseManager = 24D342CE13C0CD720013E08E /* Code sense */;
+		executables = (
+			24D342C213C0CD530013E08E /* Touch */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 331402579;
+			PBXWorkspaceStateSaveDate = 331402579;
+		};
+		sourceControlManager = 24D342CD13C0CD720013E08E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {932, 746}}";
+			sepNavSelRange = "{376, 0}";
+			sepNavVisRange = "{0, 376}";
+		};
+	};
+	ADBDF09113BE1E54008395C3 /* View.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {932, 746}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 214}";
+		};
+	};
+}
