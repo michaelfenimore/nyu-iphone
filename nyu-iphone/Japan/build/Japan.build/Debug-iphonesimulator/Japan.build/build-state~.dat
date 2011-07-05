@@ -1,295 +1,0 @@
-TJapan
-v7
-r0
-t330642882.225177
-cCheck dependencies
-cProcessInfoPlistFile "/Developer/iPhone Applications/Japan/Japan/build/Debug-iphonesimulator/Japan.app/Info.plist" Japan-Info.plist
-cCompileXIB "/Developer/iPhone Applications/Japan/Japan/MainWindow.xib"
-cCpResource build/Debug-iphonesimulator/Japan.app/japan57.png japan57.png
-cCpResource build/Debug-iphonesimulator/Japan.app/japan72.png japan72.png
-cCpResource build/Debug-iphonesimulator/Japan.app/japan114.png japan114.png
-cProcessPCH /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Japan_Prefix-bvingwnhcdrrafbbwyzfzzttrtuh/Japan_Prefix.pch.gch Japan_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Japan.build/Debug-iphonesimulator/Japan.build/Objects-normal/i386/main.o "/Developer/iPhone Applications/Japan/Japan/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Japan.build/Debug-iphonesimulator/Japan.build/Objects-normal/i386/JapanAppDelegate.o "/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Japan.build/Debug-iphonesimulator/Japan.build/Objects-normal/i386/View.o "/Developer/iPhone Applications/Japan/Japan/Classes/View.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
-c000000004D5C9B4E0000000000000110
-t1297914702
-s272
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004D54CFFA00000000002999B0
-t1297403898
-s2726320
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004D54CFE5000000000029DA70
-t1297403877
-s2742896
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004D54CFB80000000000001466
-t1297403832
-s5222
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004D5615B40000000000000AA1
-t1297487284
-s2721
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004D5616030000000000766870
-t1297487363
-s7759984
-
-N/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.h
-c000000004E04F642000000000000015F
-t1308948034
-s351
-i<UIKit/UIKit.h>
-
-N/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m
-c000000004E04F94E0000000000000AB4
-t1308948814
-s2740
-i"JapanAppDelegate.h"
-i"View"
-
-N/Developer/iPhone Applications/Japan/Japan/Classes/View.h
-c000000004E04F66300000000000000C5
-t1308948067
-s197
-i<UIKit/UIKit.h>
-
-N/Developer/iPhone Applications/Japan/Japan/Classes/View.m
-c000000004E04FE34000000000000050E
-t1308950068
-s1294
-i"View.h"
-
-N/Developer/iPhone Applications/Japan/Japan/Japan_Prefix.pch
-c000000004E04ECE300000000000000B3
-t1308945635
-s179
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Developer/iPhone Applications/Japan/Japan/MainWindow.xib
-c000000004E04ECE300000000000020FE
-t1308945635
-s8446
-
-N/Developer/iPhone Applications/Japan/Japan/build/Debug-iphonesimulator/Japan.app
-t2
-s0
-
-N/Developer/iPhone Applications/Japan/Japan/build/Debug-iphonesimulator/Japan.app.dSYM
-t2
-s0
-
-N/Developer/iPhone Applications/Japan/Japan/build/Debug-iphonesimulator/Japan.app/Info.plist
-t1308950078
-s659
-
-N/Developer/iPhone Applications/Japan/Japan/build/Debug-iphonesimulator/Japan.app/Japan
-t2
-s0
-
-N/Developer/iPhone Applications/Japan/Japan/build/Debug-iphonesimulator/Japan.app/MainWindow.nib
-t1308950079
-s1529
-
-N/Developer/iPhone Applications/Japan/Japan/build/Debug-iphonesimulator/Japan.app/PkgInfo
-t1308950078
-s8
-
-N/Developer/iPhone Applications/Japan/Japan/build/Debug-iphonesimulator/Japan.app/japan114.png
-t1308950078
-s1455
-
-N/Developer/iPhone Applications/Japan/Japan/build/Debug-iphonesimulator/Japan.app/japan57.png
-t1308950078
-s1825
-
-N/Developer/iPhone Applications/Japan/Japan/build/Debug-iphonesimulator/Japan.app/japan72.png
-t1308950078
-s1895
-
-N/Developer/iPhone Applications/Japan/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/Objects-normal/i386/Japan.LinkFileList
-c000000004E04FE3E000000000000017A
-t1308950078
-s378
-
-N/Developer/iPhone Applications/Japan/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/Objects-normal/i386/JapanAppDelegate.o
-t2
-s0
-
-N/Developer/iPhone Applications/Japan/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/Objects-normal/i386/View.o
-t2
-s0
-
-N/Developer/iPhone Applications/Japan/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/Objects-normal/i386/main.o
-t1308950082
-s6500
-
-N/Developer/iPhone Applications/Japan/Japan/japan114.png
-c000000004E04FD6B00000000000005AF
-t1308949867
-s1455
-
-N/Developer/iPhone Applications/Japan/Japan/japan57.png
-c000000004E04FDB20000000000000721
-t1308949938
-s1825
-
-N/Developer/iPhone Applications/Japan/Japan/japan72.png
-c000000004E04FD8D0000000000000767
-t1308949901
-s1895
-
-N/Developer/iPhone Applications/Japan/Japan/main.m
-c000000004E04F618000000000000017E
-t1308947992
-s382
-i<UIKit/UIKit.h>
-
-N/var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Japan_Prefix-bvingwnhcdrrafbbwyzfzzttrtuh/Japan_Prefix.pch.gch
-t1308950082
-s15814064
-
-NJapan-Info.plist
-c000000004E04FE0500000000000003EF
-t1308950021
-s1007
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies330642878#330642878#0(0"0(0#1#0"8247620834010738688#0"0#
-
-CCompileC build/Japan.build/Debug-iphonesimulator/Japan.build/Objects-normal/i386/JapanAppDelegate.o "/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s330642882.095007
-e330642882.217407
-r0
-xCompileC
-xbuild/Japan.build/Debug-iphonesimulator/Japan.build/Objects-normal/i386/JapanAppDelegate.o
-x/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-oIn file included from /Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m:9:
-o/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.h:12: error: expected ';' before 'interface'
-o/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.h:19: warning: '@end' must appear in an @implementation context
-o/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m:10:15: error: View: No such file or directory
-o/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m:14: warning: cannot find interface declaration for 'JapanAppDelegate'
-o/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m:14: error: no declaration of property 'window' found in the interface
-o/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m: In function '-[JapanAppDelegate application:didFinishLaunchingWithOptions:]':
-o/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m:24: error: 'view' undeclared (first use in this function)
-o/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m:24: error: (Each undeclared identifier is reported only once
-o/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m:24: error: for each function it appears in.)
-o/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m:24: warning: receiver 'View' is a forward class and corresponding @interface may not exist
-o/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m:25: error: 'window' undeclared (first use in this function)
-o/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m:28: error: request for member 'window' in something not a structure or union
-o/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m: In function '-[JapanAppDelegate dealloc]':
-o/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m:83: error: 'window' undeclared (first use in this function)
-o/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m:84: error: 'view' undeclared (first use in this function)
-o/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m:85: error: no super class declared in @interface for 'JapanAppDelegate'
-lSLF07#2@77"Compile /Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m330642882#330642882#0(2211"In file included from /Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m:9:/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.h:12: error: expected ';' before 'interface'/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.h:19: warning: '@end' must appear in an @implementation context/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m:10:15: error: View: No such file or directory/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m:14: warning: cannot find interface declaration for 'JapanAppDelegate'/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m:14: error: no declaration of property 'window' found in the interface/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m: In function '-[JapanAppDelegate application:didFinishLaunchingWithOptions:]':/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m:24: error: 'view' undeclared (first use in this function)/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m:24: error: (Each undeclared identifier is reported only once/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m:24: error: for each function it appears in.)/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m:24: warning: receiver 'View' is a forward class and corresponding @interface may not exist/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m:25: error: 'window' undeclared (first use in this function)/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m:28: error: request for member 'window' in something not a structure or union/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m: In function '-[JapanAppDelegate dealloc]':/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m:83: error: 'window' undeclared (first use in this function)/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m:84: error: 'view' undeclared (first use in this function)/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m:85: error: no super class declared in @interface for 'JapanAppDelegate'12(4@31"Expected ';' before 'interface'330642882#95#113#2(7@91"In file included from /Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m330642882#18446744073709551615#0#0(6@69"/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m330641614#9#0#9#0#0"0(13@104"Expected ';' before 'interface' in /Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.h330642882#18446744073709551615#0#0(6@69"/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.h330640834#12#0#12#0#0"0(6@69"/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.h330640834#12#0#12#0#19"expected * before *0(22@48"'@end' must appear in an @implementation context330642882#208#132#2(7@91"In file included from /Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m330642882#18446744073709551615#0#0(6@69"/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m330641614#9#0#9#0#0"0(13@121"'@end' must appear in an @implementation context in /Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.h330642882#18446744073709551615#0#0(6@69"/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.h330640834#19#0#19#0#0"0(6@69"/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.h330640834#19#0#19#0#0"0(4@31"View: No such file or directory330642882#340#116#0(6@69"/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m330641614#10#0#10#0#28"*: No such file or directory0(22@56"Cannot find interface declaration for 'JapanAppDelegate'330642882#456#140#0(6@69"/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m330641614#14#0#14#0#0"0(4@58"No declaration of property 'window' found in the interface330642882#596#140#0(6@69"/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m330641614#14#0#14#0#0"0(4@46"'view' undeclared (first use in this function)330642882#885#128#0(6@69"/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m330641614#24#0#24#0#43"'*' undeclared (first use in this function)0(22@77"Receiver 'View' is a forward class and corresponding @interface may not exist330642882#1259#161#0(6@69"/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m330641614#24#0#24#0#0"0(4@48"'window' undeclared (first use in this function)330642882#1420#130#0(6@69"/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m330641614#25#0#25#0#43"'*' undeclared (first use in this function)0(4@65"Request for member 'window' in something not a structure or union330642882#1550#147#0(6@69"/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m330641614#28#0#28#0#0"0(4@48"'window' undeclared (first use in this function)330642882#1811#130#0(6@69"/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m330641614#83#0#83#0#43"'*' undeclared (first use in this function)0(4@46"'view' undeclared (first use in this function)330642882#1941#128#0(6@69"/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m330641614#84#0#84#0#43"'*' undeclared (first use in this function)0(4@60"No super class declared in @interface for 'JapanAppDelegate'330642882#2069#142#0(6@69"/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m330641614#85#0#85#0#0"0(0#0#69"/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m8612889632#1978"    cd "/Developer/iPhone Applications/Japan/Japan"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Developer/iPhone Applications/Japan/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/Japan-generated-files.hmap" "-I/Developer/iPhone Applications/Japan/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/Japan-own-target-headers.hmap" "-I/Developer/iPhone Applications/Japan/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/Japan-all-target-headers.hmap" -iquote "/Developer/iPhone Applications/Japan/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/Japan-project-headers.hmap" "-F/Developer/iPhone Applications/Japan/Japan/build/Debug-iphonesimulator" "-I/Developer/iPhone Applications/Japan/Japan/build/Debug-iphonesimulator/include" "-I/Developer/iPhone Applications/Japan/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/DerivedSources/i386" "-I/Developer/iPhone Applications/Japan/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/DerivedSources" -include /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Japan_Prefix-bvingwnhcdrrafbbwyzfzzttrtuh/Japan_Prefix.pch -c "/Developer/iPhone Applications/Japan/Japan/Classes/JapanAppDelegate.m" -o "/Developer/iPhone Applications/Japan/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/Objects-normal/i386/JapanAppDelegate.o"1#
-
-CCompileC build/Japan.build/Debug-iphonesimulator/Japan.build/Objects-normal/i386/View.o "/Developer/iPhone Applications/Japan/Japan/Classes/View.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s330642882.096109
-e330642882.217597
-r0
-xCompileC
-xbuild/Japan.build/Debug-iphonesimulator/Japan.build/Objects-normal/i386/View.o
-x/Developer/iPhone Applications/Japan/Japan/Classes/View.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o/Developer/iPhone Applications/Japan/Japan/Classes/View.m: In function '-[View initWithFrame:]':
-o/Developer/iPhone Applications/Japan/Japan/Classes/View.m:17: error: 'nill' undeclared (first use in this function)
-o/Developer/iPhone Applications/Japan/Japan/Classes/View.m:17: error: (Each undeclared identifier is reported only once
-o/Developer/iPhone Applications/Japan/Japan/Classes/View.m:17: error: for each function it appears in.)
-lSLF07#2@65"Compile /Developer/iPhone Applications/Japan/Japan/Classes/View.m330642882#330642882#0(435"/Developer/iPhone Applications/Japan/Japan/Classes/View.m: In function '-[View initWithFrame:]':/Developer/iPhone Applications/Japan/Japan/Classes/View.m:17: error: 'nill' undeclared (first use in this function)/Developer/iPhone Applications/Japan/Japan/Classes/View.m:17: error: (Each undeclared identifier is reported only once/Developer/iPhone Applications/Japan/Japan/Classes/View.m:17: error: for each function it appears in.)1(4@46"'nill' undeclared (first use in this function)330642882#97#116#0(6@57"/Developer/iPhone Applications/Japan/Japan/Classes/View.m330642868#17#0#17#0#43"'*' undeclared (first use in this function)0(0#0#57"/Developer/iPhone Applications/Japan/Japan/Classes/View.m8618212192#1954"    cd "/Developer/iPhone Applications/Japan/Japan"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Developer/iPhone Applications/Japan/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/Japan-generated-files.hmap" "-I/Developer/iPhone Applications/Japan/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/Japan-own-target-headers.hmap" "-I/Developer/iPhone Applications/Japan/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/Japan-all-target-headers.hmap" -iquote "/Developer/iPhone Applications/Japan/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/Japan-project-headers.hmap" "-F/Developer/iPhone Applications/Japan/Japan/build/Debug-iphonesimulator" "-I/Developer/iPhone Applications/Japan/Japan/build/Debug-iphonesimulator/include" "-I/Developer/iPhone Applications/Japan/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/DerivedSources/i386" "-I/Developer/iPhone Applications/Japan/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/DerivedSources" -include /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Japan_Prefix-bvingwnhcdrrafbbwyzfzzttrtuh/Japan_Prefix.pch -c "/Developer/iPhone Applications/Japan/Japan/Classes/View.m" -o "/Developer/iPhone Applications/Japan/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/Objects-normal/i386/View.o"1#
-
-CCompileC build/Japan.build/Debug-iphonesimulator/Japan.build/Objects-normal/i386/main.o "/Developer/iPhone Applications/Japan/Japan/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s330642882.093309
-e330642882.225115
-r1
-xCompileC
-xbuild/Japan.build/Debug-iphonesimulator/Japan.build/Objects-normal/i386/main.o
-x/Developer/iPhone Applications/Japan/Japan/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@57"Compile /Developer/iPhone Applications/Japan/Japan/main.m330642882#330642882#0(0"0(0#0#49"/Developer/iPhone Applications/Japan/Japan/main.m8618387264#1946"    cd "/Developer/iPhone Applications/Japan/Japan"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Developer/iPhone Applications/Japan/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/Japan-generated-files.hmap" "-I/Developer/iPhone Applications/Japan/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/Japan-own-target-headers.hmap" "-I/Developer/iPhone Applications/Japan/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/Japan-all-target-headers.hmap" -iquote "/Developer/iPhone Applications/Japan/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/Japan-project-headers.hmap" "-F/Developer/iPhone Applications/Japan/Japan/build/Debug-iphonesimulator" "-I/Developer/iPhone Applications/Japan/Japan/build/Debug-iphonesimulator/include" "-I/Developer/iPhone Applications/Japan/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/DerivedSources/i386" "-I/Developer/iPhone Applications/Japan/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/DerivedSources" -include /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Japan_Prefix-bvingwnhcdrrafbbwyzfzzttrtuh/Japan_Prefix.pch -c "/Developer/iPhone Applications/Japan/Japan/main.m" -o "/Developer/iPhone Applications/Japan/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/Objects-normal/i386/main.o"0#
-
-CCompileXIB "/Developer/iPhone Applications/Japan/Japan/MainWindow.xib"
-s330642878.132792
-e330642880.241388
-r1
-xCompileXIB
-x/Developer/iPhone Applications/Japan/Japan/MainWindow.xib
-lSLF07#2@25"CompileXIB MainWindow.xib330642878#330642880#0(0"0(0#0#57"/Developer/iPhone Applications/Japan/Japan/MainWindow.xib8618931008#586"    cd "/Developer/iPhone Applications/Japan/Japan"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Developer/iPhone Applications/Japan/Japan/build/Debug-iphonesimulator/Japan.app/MainWindow.nib" "/Developer/iPhone Applications/Japan/Japan/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
-
-CCpResource build/Debug-iphonesimulator/Japan.app/japan114.png japan114.png
-s330642878.135712
-e330642878.149869
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Japan.app/japan114.png
-xjapan114.png
-lSLF07#2@17"Copy japan114.png330642878#330642878#0(0"0(0#0#55"/Developer/iPhone Applications/Japan/Japan/japan114.png8609700256#486"    cd "/Developer/iPhone Applications/Japan/Japan"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Developer/iPhone Applications/Japan/Japan/japan114.png" "/Developer/iPhone Applications/Japan/Japan/build/Debug-iphonesimulator/Japan.app"0#
-
-CCpResource build/Debug-iphonesimulator/Japan.app/japan57.png japan57.png
-s330642878.134487
-e330642878.149625
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Japan.app/japan57.png
-xjapan57.png
-lSLF07#2@16"Copy japan57.png330642878#330642878#0(0"0(0#0#54"/Developer/iPhone Applications/Japan/Japan/japan57.png8618331904#485"    cd "/Developer/iPhone Applications/Japan/Japan"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Developer/iPhone Applications/Japan/Japan/japan57.png" "/Developer/iPhone Applications/Japan/Japan/build/Debug-iphonesimulator/Japan.app"0#
-
-CCpResource build/Debug-iphonesimulator/Japan.app/japan72.png japan72.png
-s330642878.135129
-e330642878.149773
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Japan.app/japan72.png
-xjapan72.png
-lSLF07#2@16"Copy japan72.png330642878#330642878#0(0"0(0#0#54"/Developer/iPhone Applications/Japan/Japan/japan72.png8618151296#485"    cd "/Developer/iPhone Applications/Japan/Japan"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Developer/iPhone Applications/Japan/Japan/japan72.png" "/Developer/iPhone Applications/Japan/Japan/build/Debug-iphonesimulator/Japan.app"0#
-
-CGenerateDSYMFile "/Developer/iPhone Applications/Japan/Japan/build/Debug-iphonesimulator/Japan.app.dSYM" "/Developer/iPhone Applications/Japan/Japan/build/Debug-iphonesimulator/Japan.app/Japan"
-r0
-
-CLd "/Developer/iPhone Applications/Japan/Japan/build/Debug-iphonesimulator/Japan.app/Japan" normal i386
-r0
-
-CProcessInfoPlistFile "/Developer/iPhone Applications/Japan/Japan/build/Debug-iphonesimulator/Japan.app/Info.plist" Japan-Info.plist
-s330642878.065607
-e330642878.132666
-r1
-xProcessInfoPlistFile
-x/Developer/iPhone Applications/Japan/Japan/build/Debug-iphonesimulator/Japan.app/Info.plist
-xJapan-Info.plist
-lSLF07#2@24"Process Japan-Info.plist330642878#330642878#0(0"0(0#0#59"/Developer/iPhone Applications/Japan/Japan/Japan-Info.plist8461535219242921984#491"    cd "/Developer/iPhone Applications/Japan/Japan"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Japan-Info.plist -genpkginfo "/Developer/iPhone Applications/Japan/Japan/build/Debug-iphonesimulator/Japan.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Developer/iPhone Applications/Japan/Japan/build/Debug-iphonesimulator/Japan.app/Info.plist"0#
-
-CProcessPCH /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Japan_Prefix-bvingwnhcdrrafbbwyzfzzttrtuh/Japan_Prefix.pch.gch Japan_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s330642880.241685
-e330642882.093057
-r1
-xProcessPCH
-x/var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Japan_Prefix-bvingwnhcdrrafbbwyzfzzttrtuh/Japan_Prefix.pch.gch
-xJapan_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@27"Precompile Japan_Prefix.pch330642880#330642882#0(0"0(0#0#59"/Developer/iPhone Applications/Japan/Japan/Japan_Prefix.pch8619432800#1834"    cd "/Developer/iPhone Applications/Japan/Japan"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Developer/iPhone Applications/Japan/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/Japan-generated-files.hmap" "-I/Developer/iPhone Applications/Japan/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/Japan-own-target-headers.hmap" "-I/Developer/iPhone Applications/Japan/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/Japan-all-target-headers.hmap" -iquote "/Developer/iPhone Applications/Japan/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/Japan-project-headers.hmap" "-F/Developer/iPhone Applications/Japan/Japan/build/Debug-iphonesimulator" "-I/Developer/iPhone Applications/Japan/Japan/build/Debug-iphonesimulator/include" "-I/Developer/iPhone Applications/Japan/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/DerivedSources/i386" "-I/Developer/iPhone Applications/Japan/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/DerivedSources" -c "/Developer/iPhone Applications/Japan/Japan/Japan_Prefix.pch" -o /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Japan_Prefix-bvingwnhcdrrafbbwyzfzzttrtuh/Japan_Prefix.pch.gch0#
-
-CTouch "/Developer/iPhone Applications/Japan/Japan/build/Debug-iphonesimulator/Japan.app"
-r0
-
