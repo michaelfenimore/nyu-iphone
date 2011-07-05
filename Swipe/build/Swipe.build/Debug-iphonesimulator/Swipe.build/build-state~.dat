@@ -1,0 +1,223 @@
+TSwipe
+v7
+r0
+t331592173.283686
+cCheck dependencies
+cProcessInfoPlistFile "/Developer/iPhone Applications/Swipe/build/Debug-iphonesimulator/Swipe.app/Info.plist" Swipe-Info.plist
+cCompileXIB "/Developer/iPhone Applications/Swipe/MainWindow.xib"
+cProcessPCH /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Swipe_Prefix-fdhdfafiesxylthcmabhqawhvotl/Swipe_Prefix.pch.gch Swipe_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Swipe.build/Debug-iphonesimulator/Swipe.build/Objects-normal/i386/main.o "/Developer/iPhone Applications/Swipe/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Swipe.build/Debug-iphonesimulator/Swipe.build/Objects-normal/i386/SwipeAppDelegate.o "/Developer/iPhone Applications/Swipe/Classes/SwipeAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Swipe.build/Debug-iphonesimulator/Swipe.build/Objects-normal/i386/View.o "/Developer/iPhone Applications/Swipe/Classes/View.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/iPhone Applications/Swipe/Classes/SwipeAppDelegate.h
+c000000004E1374470000000000000163
+t1309897799
+s355
+i<UIKit/UIKit.h>
+
+N/Developer/iPhone Applications/Swipe/Classes/SwipeAppDelegate.m
+c000000004E1374F60000000000000ABC
+t1309897974
+s2748
+i"SwipeAppDelegate.h"
+i"View.h"
+
+N/Developer/iPhone Applications/Swipe/Classes/View.h
+c000000004E1375990000000000000126
+t1309898137
+s294
+i<UIKit/UIKit.h>
+
+N/Developer/iPhone Applications/Swipe/Classes/View.m
+c000000004E137A6A000000000000045C
+t1309899370
+s1116
+i"View.h"
+
+N/Developer/iPhone Applications/Swipe/MainWindow.xib
+c000000004E136FB800000000000020FE
+t1309896632
+s8446
+
+N/Developer/iPhone Applications/Swipe/Swipe_Prefix.pch
+c000000004E136FB800000000000000B3
+t1309896632
+s179
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Developer/iPhone Applications/Swipe/build/Debug-iphonesimulator/Swipe.app
+t2
+s0
+
+N/Developer/iPhone Applications/Swipe/build/Debug-iphonesimulator/Swipe.app.dSYM
+t2
+s0
+
+N/Developer/iPhone Applications/Swipe/build/Debug-iphonesimulator/Swipe.app/Info.plist
+t1309899371
+s583
+
+N/Developer/iPhone Applications/Swipe/build/Debug-iphonesimulator/Swipe.app/MainWindow.nib
+t1309899371
+s1529
+
+N/Developer/iPhone Applications/Swipe/build/Debug-iphonesimulator/Swipe.app/PkgInfo
+t1309899371
+s8
+
+N/Developer/iPhone Applications/Swipe/build/Debug-iphonesimulator/Swipe.app/Swipe
+t2
+s0
+
+N/Developer/iPhone Applications/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Objects-normal/i386/Swipe.LinkFileList
+c000000004E137A6B0000000000000168
+t1309899371
+s360
+
+N/Developer/iPhone Applications/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Objects-normal/i386/SwipeAppDelegate.o
+t2
+s0
+
+N/Developer/iPhone Applications/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Objects-normal/i386/View.o
+t1309899373
+s44912
+
+N/Developer/iPhone Applications/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Objects-normal/i386/main.o
+t1309899373
+s6488
+
+N/Developer/iPhone Applications/Swipe/main.m
+c000000004E137457000000000000017D
+t1309897815
+s381
+i<UIKit/UIKit.h>
+
+N/var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Swipe_Prefix-fdhdfafiesxylthcmabhqawhvotl/Swipe_Prefix.pch.gch
+t1309899373
+s15814064
+
+NSwipe-Info.plist
+c000000004E136FB8000000000000038D
+t1309896632
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies331592171#331592171#0(0"0(0#1#0"8615806560#0"0#
+
+CCompileC build/Swipe.build/Debug-iphonesimulator/Swipe.build/Objects-normal/i386/SwipeAppDelegate.o "/Developer/iPhone Applications/Swipe/Classes/SwipeAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s331592173.207380
+e331592173.252836
+r0
+xCompileC
+xbuild/Swipe.build/Debug-iphonesimulator/Swipe.build/Objects-normal/i386/SwipeAppDelegate.o
+x/Developer/iPhone Applications/Swipe/Classes/SwipeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Developer/iPhone Applications/Swipe/Classes/SwipeAppDelegate.m: In function '-[SwipeAppDelegate application:didFinishLaunchingWithOptions:]':
+o/Developer/iPhone Applications/Swipe/Classes/SwipeAppDelegate.m:22: error: invalid initializer
+o/Developer/iPhone Applications/Swipe/Classes/SwipeAppDelegate.m:22: error: statically allocated instance of Objective-C class 'UIScreen'
+o/Developer/iPhone Applications/Swipe/Classes/SwipeAppDelegate.m:22: error: statically allocated instance of Objective-C class 'UIScreen'
+o/Developer/iPhone Applications/Swipe/Classes/SwipeAppDelegate.m:23: error: 'struct UIScreen' has no member named 'applicationFrame'
+o/Developer/iPhone Applications/Swipe/Classes/SwipeAppDelegate.m:24: error: 'struct UIScreen' has no member named 'bounds'
+lSLF07#2@71"Compile /Developer/iPhone Applications/Swipe/Classes/SwipeAppDelegate.m331592173#331592173#0(766"/Developer/iPhone Applications/Swipe/Classes/SwipeAppDelegate.m: In function '-[SwipeAppDelegate application:didFinishLaunchingWithOptions:]':/Developer/iPhone Applications/Swipe/Classes/SwipeAppDelegate.m:22: error: invalid initializer/Developer/iPhone Applications/Swipe/Classes/SwipeAppDelegate.m:22: error: statically allocated instance of Objective-C class 'UIScreen'/Developer/iPhone Applications/Swipe/Classes/SwipeAppDelegate.m:22: error: statically allocated instance of Objective-C class 'UIScreen'/Developer/iPhone Applications/Swipe/Classes/SwipeAppDelegate.m:23: error: 'struct UIScreen' has no member named 'applicationFrame'/Developer/iPhone Applications/Swipe/Classes/SwipeAppDelegate.m:24: error: 'struct UIScreen' has no member named 'bounds'5(4@19"Invalid initializer331592173#143#95#0(6@63"/Developer/iPhone Applications/Swipe/Classes/SwipeAppDelegate.m331590774#22#0#22#0#0"0(4@61"Statically allocated instance of Objective-C class 'UIScreen'331592173#238#137#0(6@63"/Developer/iPhone Applications/Swipe/Classes/SwipeAppDelegate.m331590774#22#0#22#0#0"0(4@61"Statically allocated instance of Objective-C class 'UIScreen'331592173#375#137#0(6@63"/Developer/iPhone Applications/Swipe/Classes/SwipeAppDelegate.m331590774#22#0#22#0#0"0(4@56"'struct UIScreen' has no member named 'applicationFrame'331592173#512#132#0(6@63"/Developer/iPhone Applications/Swipe/Classes/SwipeAppDelegate.m331590774#23#0#23#0#27"'*' has no member named '*'0(4@46"'struct UIScreen' has no member named 'bounds'331592173#644#122#0(6@63"/Developer/iPhone Applications/Swipe/Classes/SwipeAppDelegate.m331590774#24#0#24#0#27"'*' has no member named '*'0(0#0#63"/Developer/iPhone Applications/Swipe/Classes/SwipeAppDelegate.m8618164640#1912"    cd "/Developer/iPhone Applications/Swipe"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Developer/iPhone Applications/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Swipe-generated-files.hmap" "-I/Developer/iPhone Applications/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Swipe-own-target-headers.hmap" "-I/Developer/iPhone Applications/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Swipe-all-target-headers.hmap" -iquote "/Developer/iPhone Applications/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Swipe-project-headers.hmap" "-F/Developer/iPhone Applications/Swipe/build/Debug-iphonesimulator" "-I/Developer/iPhone Applications/Swipe/build/Debug-iphonesimulator/include" "-I/Developer/iPhone Applications/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/DerivedSources/i386" "-I/Developer/iPhone Applications/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/DerivedSources" -include /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Swipe_Prefix-fdhdfafiesxylthcmabhqawhvotl/Swipe_Prefix.pch -c "/Developer/iPhone Applications/Swipe/Classes/SwipeAppDelegate.m" -o "/Developer/iPhone Applications/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Objects-normal/i386/SwipeAppDelegate.o"1#
+
+CCompileC build/Swipe.build/Debug-iphonesimulator/Swipe.build/Objects-normal/i386/View.o "/Developer/iPhone Applications/Swipe/Classes/View.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s331592173.208455
+e331592173.283624
+r1
+xCompileC
+xbuild/Swipe.build/Debug-iphonesimulator/Swipe.build/Objects-normal/i386/View.o
+x/Developer/iPhone Applications/Swipe/Classes/View.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Developer/iPhone Applications/Swipe/Classes/View.m331592173#331592173#0(0"0(0#0#51"/Developer/iPhone Applications/Swipe/Classes/View.m8617912448#1888"    cd "/Developer/iPhone Applications/Swipe"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Developer/iPhone Applications/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Swipe-generated-files.hmap" "-I/Developer/iPhone Applications/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Swipe-own-target-headers.hmap" "-I/Developer/iPhone Applications/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Swipe-all-target-headers.hmap" -iquote "/Developer/iPhone Applications/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Swipe-project-headers.hmap" "-F/Developer/iPhone Applications/Swipe/build/Debug-iphonesimulator" "-I/Developer/iPhone Applications/Swipe/build/Debug-iphonesimulator/include" "-I/Developer/iPhone Applications/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/DerivedSources/i386" "-I/Developer/iPhone Applications/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/DerivedSources" -include /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Swipe_Prefix-fdhdfafiesxylthcmabhqawhvotl/Swipe_Prefix.pch -c "/Developer/iPhone Applications/Swipe/Classes/View.m" -o "/Developer/iPhone Applications/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Objects-normal/i386/View.o"0#
+
+CCompileC build/Swipe.build/Debug-iphonesimulator/Swipe.build/Objects-normal/i386/main.o "/Developer/iPhone Applications/Swipe/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s331592173.205899
+e331592173.270256
+r1
+xCompileC
+xbuild/Swipe.build/Debug-iphonesimulator/Swipe.build/Objects-normal/i386/main.o
+x/Developer/iPhone Applications/Swipe/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Developer/iPhone Applications/Swipe/main.m331592173#331592173#0(0"0(0#0#43"/Developer/iPhone Applications/Swipe/main.m8617702112#1880"    cd "/Developer/iPhone Applications/Swipe"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Developer/iPhone Applications/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Swipe-generated-files.hmap" "-I/Developer/iPhone Applications/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Swipe-own-target-headers.hmap" "-I/Developer/iPhone Applications/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Swipe-all-target-headers.hmap" -iquote "/Developer/iPhone Applications/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Swipe-project-headers.hmap" "-F/Developer/iPhone Applications/Swipe/build/Debug-iphonesimulator" "-I/Developer/iPhone Applications/Swipe/build/Debug-iphonesimulator/include" "-I/Developer/iPhone Applications/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/DerivedSources/i386" "-I/Developer/iPhone Applications/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/DerivedSources" -include /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Swipe_Prefix-fdhdfafiesxylthcmabhqawhvotl/Swipe_Prefix.pch -c "/Developer/iPhone Applications/Swipe/main.m" -o "/Developer/iPhone Applications/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Developer/iPhone Applications/Swipe/MainWindow.xib"
+s331592171.482964
+e331592172.149973
+r1
+xCompileXIB
+x/Developer/iPhone Applications/Swipe/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib331592171#331592172#0(0"0(0#0#51"/Developer/iPhone Applications/Swipe/MainWindow.xib8618062688#568"    cd "/Developer/iPhone Applications/Swipe"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Developer/iPhone Applications/Swipe/build/Debug-iphonesimulator/Swipe.app/MainWindow.nib" "/Developer/iPhone Applications/Swipe/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile "/Developer/iPhone Applications/Swipe/build/Debug-iphonesimulator/Swipe.app.dSYM" "/Developer/iPhone Applications/Swipe/build/Debug-iphonesimulator/Swipe.app/Swipe"
+r0
+
+CLd "/Developer/iPhone Applications/Swipe/build/Debug-iphonesimulator/Swipe.app/Swipe" normal i386
+r0
+
+CProcessInfoPlistFile "/Developer/iPhone Applications/Swipe/build/Debug-iphonesimulator/Swipe.app/Info.plist" Swipe-Info.plist
+s331592171.478613
+e331592171.482848
+r1
+xProcessInfoPlistFile
+x/Developer/iPhone Applications/Swipe/build/Debug-iphonesimulator/Swipe.app/Info.plist
+xSwipe-Info.plist
+lSLF07#2@24"Process Swipe-Info.plist331592171#331592171#0(0"0(0#0#53"/Developer/iPhone Applications/Swipe/Swipe-Info.plist8617383168#473"    cd "/Developer/iPhone Applications/Swipe"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Swipe-Info.plist -genpkginfo "/Developer/iPhone Applications/Swipe/build/Debug-iphonesimulator/Swipe.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Developer/iPhone Applications/Swipe/build/Debug-iphonesimulator/Swipe.app/Info.plist"0#
+
+CProcessPCH /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Swipe_Prefix-fdhdfafiesxylthcmabhqawhvotl/Swipe_Prefix.pch.gch Swipe_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s331592172.150111
+e331592173.205571
+r1
+xProcessPCH
+x/var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Swipe_Prefix-fdhdfafiesxylthcmabhqawhvotl/Swipe_Prefix.pch.gch
+xSwipe_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile Swipe_Prefix.pch331592172#331592173#0(0"0(0#0#53"/Developer/iPhone Applications/Swipe/Swipe_Prefix.pch8617632864#1774"    cd "/Developer/iPhone Applications/Swipe"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Developer/iPhone Applications/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Swipe-generated-files.hmap" "-I/Developer/iPhone Applications/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Swipe-own-target-headers.hmap" "-I/Developer/iPhone Applications/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Swipe-all-target-headers.hmap" -iquote "/Developer/iPhone Applications/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/Swipe-project-headers.hmap" "-F/Developer/iPhone Applications/Swipe/build/Debug-iphonesimulator" "-I/Developer/iPhone Applications/Swipe/build/Debug-iphonesimulator/include" "-I/Developer/iPhone Applications/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/DerivedSources/i386" "-I/Developer/iPhone Applications/Swipe/build/Swipe.build/Debug-iphonesimulator/Swipe.build/DerivedSources" -c "/Developer/iPhone Applications/Swipe/Swipe_Prefix.pch" -o /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Swipe_Prefix-fdhdfafiesxylthcmabhqawhvotl/Swipe_Prefix.pch.gch0#
+
+CTouch "/Developer/iPhone Applications/Swipe/build/Debug-iphonesimulator/Swipe.app"
+r0
+
