@@ -1,0 +1,289 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* JapanAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1062, 540}}";
+			sepNavSelRange = "{352, 0}";
+			sepNavVisRange = "{0, 352}";
+		};
+	};
+	1D3623250D0F684500981E51 /* JapanAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2244, 1456}}";
+			sepNavSelRange = "{266, 0}";
+			sepNavVisRange = "{148, 1122}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Japan */ = {
+		activeExec = 0;
+		executables = (
+			AD22447813B524630031298D /* Japan */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = AD22447813B524630031298D /* Japan */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Japan */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Japan */,
+		);
+		breakpoints = (
+			ADD2725313B5402900B12202 /* View.m:99 */,
+			ADD2726013B5407900B12202 /* View.m:95 */,
+		);
+		codeSenseManager = AD22448813B524710031298D /* Code sense */;
+		executables = (
+			AD22447813B524630031298D /* Japan */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 330640008;
+			PBXWorkspaceStateSaveDate = 330640008;
+		};
+		perUserProjectItems = {
+			AD22448C13B525400031298D /* PBXTextBookmark */ = AD22448C13B525400031298D /* PBXTextBookmark */;
+			ADD2719D13B530D000B12202 /* PBXTextBookmark */ = ADD2719D13B530D000B12202 /* PBXTextBookmark */;
+			ADD271AE13B535F700B12202 /* PlistBookmark */ = ADD271AE13B535F700B12202 /* PlistBookmark */;
+			ADD271C513B5362B00B12202 /* PBXTextBookmark */ = ADD271C513B5362B00B12202 /* PBXTextBookmark */;
+			ADD271D213B5365B00B12202 /* PBXTextBookmark */ = ADD271D213B5365B00B12202 /* PBXTextBookmark */;
+			ADD271DA13B537BE00B12202 /* PBXTextBookmark */ = ADD271DA13B537BE00B12202 /* PBXTextBookmark */;
+			ADD2726113B5407900B12202 /* PBXTextBookmark */ = ADD2726113B5407900B12202 /* PBXTextBookmark */;
+			ADD2726613B5409400B12202 /* PBXTextBookmark */ = ADD2726613B5409400B12202 /* PBXTextBookmark */;
+		};
+		sourceControlManager = AD22448713B524710031298D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {945, 529}}";
+			sepNavSelRange = "{381, 0}";
+			sepNavVisRange = "{0, 382}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* Japan_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {945, 534}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 179}";
+		};
+	};
+	AD22447813B524630031298D /* Japan */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Japan;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	AD22448713B524710031298D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	AD22448813B524710031298D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	AD22448C13B525400031298D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* Japan_Prefix.pch */;
+		name = "Japan_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 179;
+		vrLoc = 0;
+	};
+	ADD2719813B52DE300B12202 /* View.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1062, 540}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 197}";
+		};
+	};
+	ADD2719913B52DE300B12202 /* View.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {666, 3200}}";
+			sepNavSelRange = "{261, 0}";
+			sepNavVisRange = "{253, 437}";
+		};
+	};
+	ADD2719D13B530D000B12202 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 17";
+		rLen = 0;
+		rLoc = 381;
+		rType = 0;
+		vrLen = 382;
+		vrLoc = 0;
+	};
+	ADD271AE13B535F700B12202 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Japan-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Developer/iPhone Applications/Japan/Japan/Japan-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	ADD271C513B5362B00B12202 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* JapanAppDelegate.h */;
+		name = "JapanAppDelegate.h: 19";
+		rLen = 0;
+		rLoc = 352;
+		rType = 0;
+		vrLen = 352;
+		vrLoc = 0;
+	};
+	ADD271D213B5365B00B12202 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ADD2719813B52DE300B12202 /* View.h */;
+		name = "View.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 197;
+		vrLoc = 0;
+	};
+	ADD271DA13B537BE00B12202 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* JapanAppDelegate.m */;
+		name = "JapanAppDelegate.m: 17";
+		rLen = 0;
+		rLoc = 266;
+		rType = 0;
+		vrLen = 1122;
+		vrLoc = 148;
+	};
+	ADD2725313B5402900B12202 /* View.m:99 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = ADD2719913B52DE300B12202 /* View.m */;
+		functionName = "-drawRect:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 99;
+		location = Japan;
+		modificationTime = 330645631.055112;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	ADD2726013B5407900B12202 /* View.m:95 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = ADD2719913B52DE300B12202 /* View.m */;
+		functionName = "-drawRect:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 95;
+		modificationTime = 330645625.678081;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	ADD2726113B5407900B12202 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ADD2719913B52DE300B12202 /* View.m */;
+		rLen = 1;
+		rLoc = 94;
+		rType = 1;
+	};
+	ADD2726613B5409400B12202 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ADD2719913B52DE300B12202 /* View.m */;
+		name = "View.m: 100";
+		rLen = 0;
+		rLoc = 2853;
+		rType = 0;
+		vrLen = 1232;
+		vrLoc = 541;
+	};
+}

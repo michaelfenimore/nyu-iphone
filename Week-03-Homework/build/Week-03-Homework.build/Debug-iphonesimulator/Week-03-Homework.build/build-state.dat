@@ -1,0 +1,409 @@
+TWeek-03-Homework
+v7
+r0
+t330805233.862996
+cCheck dependencies
+cProcessInfoPlistFile /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/Info.plist Week_03_Homework-Info.plist
+cCpResource build/Debug-iphonesimulator/Week-03-Homework.app/icon57.png icon57.png
+cCpResource build/Debug-iphonesimulator/Week-03-Homework.app/icon72.png icon72.png
+cCpResource build/Debug-iphonesimulator/Week-03-Homework.app/icon114.png icon114.png
+cCopyStringsFile /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/en.lproj/InfoPlist.strings en.lproj/InfoPlist.strings
+cCopyStringsFile /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/it.lproj/InfoPlist.strings it.lproj/InfoPlist.strings
+cCopyStringsFile /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/ja.lproj/InfoPlist.strings ja.lproj/InfoPlist.strings
+cCopyStringsFile /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+cCopyStringsFile /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/it.lproj/Localizable.strings it.lproj/Localizable.strings
+cCopyStringsFile /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/ja.lproj/Localizable.strings ja.lproj/Localizable.strings
+cProcessPCH /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Week_03_Homework_Prefix-askrzgzpgkvgncbxfuzhpjtdylph/Week_03_Homework_Prefix.pch.gch Week_03_Homework_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/Objects-normal/i386/main.o /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/Objects-normal/i386/Week_03_HomeworkAppDelegate.o /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/Classes/Week_03_HomeworkAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/Objects-normal/i386/myView.o /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/Classes/myView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/Week-03-Homework normal i386
+cGenerateDSYMFile /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app.dSYM /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/Week-03-Homework
+cTouch /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/Classes/Week_03_HomeworkAppDelegate.h
+c000000004E0657190000000000000183
+t1309038361
+s387
+i<UIKit/UIKit.h>
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/Classes/Week_03_HomeworkAppDelegate.m
+c000000004E0656F90000000000000AE9
+t1309038329
+s2793
+i"Week_03_HomeworkAppDelegate.h"
+i"myView.h"
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/Classes/myView.h
+c000000004E06567800000000000000D3
+t1309038200
+s211
+i<UIKit/UIKit.h>
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/Classes/myView.m
+c000000004E07785F0000000000000AE3
+t1309112415
+s2787
+i"myView.h"
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/MainWindow.xib
+c000000004E0651A80000000000002135
+t1309036968
+s8501
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/Week_03_Homework_Prefix.pch
+c000000004E0651A800000000000000C9
+t1309036968
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app
+t1309112416
+s374
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app.dSYM
+t1309112416
+s102
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/Info.plist
+t1309038347
+s676
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/MainWindow.nib
+t2
+s0
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/PkgInfo
+t1309038347
+s8
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/Week-03-Homework
+t1309112416
+s18492
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/en.lproj/InfoPlist.strings
+t1309103441
+s80
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/en.lproj/Localizable.strings
+t1309112416
+s73
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/icon114.png
+t1309038347
+s11037
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/icon57.png
+t1309038347
+s4497
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/icon72.png
+t1309038347
+s5956
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/it.lproj/InfoPlist.strings
+t1309103441
+s79
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/it.lproj/Localizable.strings
+t1309112416
+s73
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/ja.lproj/InfoPlist.strings
+t1309103441
+s79
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/ja.lproj/Localizable.strings
+t1309112416
+s65
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/Objects-normal/i386/Week-03-Homework.LinkFileList
+c000000004E06570B00000000000001FF
+t1309038347
+s511
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/Objects-normal/i386/Week_03_HomeworkAppDelegate.o
+t1309038362
+s52028
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/Objects-normal/i386/main.o
+t1309038347
+s6548
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/Objects-normal/i386/myView.o
+t1309112416
+s42920
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/en.lproj/InfoPlist.strings
+c000000004E07549A000000000000004A
+t1309103258
+s74
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/en.lproj/Localizable.strings
+c000000004E0776B20000000000000040
+t1309111986
+s64
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/icon114.png
+c000000004E06552D0000000000002B1D
+t1309037869
+s11037
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/icon57.png
+c000000004E0655720000000000001191
+t1309037938
+s4497
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/icon72.png
+c000000004E0655560000000000001744
+t1309037910
+s5956
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/it.lproj/InfoPlist.strings
+c000000004E0754830000000000000048
+t1309103235
+s72
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/it.lproj/Localizable.strings
+c000000004E0776E80000000000000040
+t1309112040
+s64
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/ja.lproj/InfoPlist.strings
+c000000004E07546F000000000000003E
+t1309103215
+s62
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/ja.lproj/Localizable.strings
+c000000004E0777050000000000000028
+t1309112069
+s40
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/main.m
+c000000004E06560B0000000000000192
+t1309038091
+s402
+i<UIKit/UIKit.h>
+
+N/var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Week_03_Homework_Prefix-askrzgzpgkvgncbxfuzhpjtdylph/Week_03_Homework_Prefix.pch.gch
+t1309038347
+s15814064
+
+NWeek_03_Homework-Info.plist
+c000000004E0655DD00000000000003B6
+t1309038045
+s950
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies330805233#330805233#0(0"0(0#1#0"8626139552#0"0#
+
+CCompileC build/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/Objects-normal/i386/Week_03_HomeworkAppDelegate.o /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/Classes/Week_03_HomeworkAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330731161.957361
+e330731162.006482
+r1
+xCompileC
+xbuild/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/Objects-normal/i386/Week_03_HomeworkAppDelegate.o
+x/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/Classes/Week_03_HomeworkAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/Classes/Week_03_HomeworkAppDelegate.m330731161#330731162#0(0"0(0#0#98"/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/Classes/Week_03_HomeworkAppDelegate.m8618041440#2390"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/Week-03-Homework-generated-files.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/Week-03-Homework-own-target-headers.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/Week-03-Homework-all-target-headers.hmap -iquote /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/Week-03-Homework-project-headers.hmap -F/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator -I/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/include -I/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/DerivedSources/i386 -I/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/DerivedSources -include /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Week_03_Homework_Prefix-askrzgzpgkvgncbxfuzhpjtdylph/Week_03_Homework_Prefix.pch -c /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/Classes/Week_03_HomeworkAppDelegate.m -o /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/Objects-normal/i386/Week_03_HomeworkAppDelegate.o0#
+
+CCompileC build/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/Objects-normal/i386/main.o /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330731147.859214
+e330731147.897260
+r1
+xCompileC
+xbuild/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/Objects-normal/i386/main.o
+x/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/main.m330731147#330731147#0(0"0(0#0#67"/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/main.m8619562080#2336"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/Week-03-Homework-generated-files.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/Week-03-Homework-own-target-headers.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/Week-03-Homework-all-target-headers.hmap -iquote /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/Week-03-Homework-project-headers.hmap -F/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator -I/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/include -I/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/DerivedSources/i386 -I/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/DerivedSources -include /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Week_03_Homework_Prefix-askrzgzpgkvgncbxfuzhpjtdylph/Week_03_Homework_Prefix.pch -c /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/main.m -o /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/Objects-normal/i386/main.o0#
+
+CCompileC build/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/Objects-normal/i386/myView.o /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/Classes/myView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330805216.161532
+e330805216.207619
+r1
+xCompileC
+xbuild/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/Objects-normal/i386/myView.o
+x/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/Classes/myView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/Classes/myView.m330805216#330805216#0(0"0(0#0#77"/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/Classes/myView.m8633647744#2348"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/Week-03-Homework-generated-files.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/Week-03-Homework-own-target-headers.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/Week-03-Homework-all-target-headers.hmap -iquote /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/Week-03-Homework-project-headers.hmap -F/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator -I/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/include -I/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/DerivedSources/i386 -I/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/DerivedSources -include /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Week_03_Homework_Prefix-askrzgzpgkvgncbxfuzhpjtdylph/Week_03_Homework_Prefix.pch -c /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/Classes/myView.m -o /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/Objects-normal/i386/myView.o0#
+
+CCompileXIB /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/MainWindow.xib
+r0
+
+CCopyStringsFile /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/en.lproj/InfoPlist.strings en.lproj/InfoPlist.strings
+s330796241.323438
+e330796241.518561
+r1
+xCopyStringsFile
+x/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/en.lproj/InfoPlist.strings
+xen.lproj/InfoPlist.strings
+oen.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
+lSLF07#2@31"Copy en.lproj/InfoPlist.strings330796241#330796241#0(128"en.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#87"/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/en.lproj/InfoPlist.strings22518474884907120#536"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary en.lproj/InfoPlist.strings --outdir /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/en.lproj0#
+
+CCopyStringsFile /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+s330805216.135904
+e330805216.161098
+r1
+xCopyStringsFile
+x/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/en.lproj/Localizable.strings
+xen.lproj/Localizable.strings
+oen.lproj/Localizable.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
+lSLF07#2@33"Copy en.lproj/Localizable.strings330805216#330805216#0(130"en.lproj/Localizable.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#89"/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/en.lproj/Localizable.strings8623093664#538"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary en.lproj/Localizable.strings --outdir /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/en.lproj0#
+
+CCopyStringsFile /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/it.lproj/InfoPlist.strings it.lproj/InfoPlist.strings
+s330796241.347017
+e330796241.518812
+r1
+xCopyStringsFile
+x/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/it.lproj/InfoPlist.strings
+xit.lproj/InfoPlist.strings
+oit.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
+lSLF07#2@31"Copy it.lproj/InfoPlist.strings330796241#330796241#0(128"it.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#87"/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/it.lproj/InfoPlist.strings8607077216#536"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary it.lproj/InfoPlist.strings --outdir /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/it.lproj0#
+
+CCopyStringsFile /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/it.lproj/Localizable.strings it.lproj/Localizable.strings
+s330805216.136557
+e330805216.160926
+r1
+xCopyStringsFile
+x/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/it.lproj/Localizable.strings
+xit.lproj/Localizable.strings
+oit.lproj/Localizable.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
+lSLF07#2@33"Copy it.lproj/Localizable.strings330805216#330805216#0(130"it.lproj/Localizable.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#89"/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/it.lproj/Localizable.strings8622870560#538"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary it.lproj/Localizable.strings --outdir /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/it.lproj0#
+
+CCopyStringsFile /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/ja.lproj/InfoPlist.strings ja.lproj/InfoPlist.strings
+s330796241.347593
+e330796241.518920
+r1
+xCopyStringsFile
+x/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/ja.lproj/InfoPlist.strings
+xja.lproj/InfoPlist.strings
+oja.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
+lSLF07#2@31"Copy ja.lproj/InfoPlist.strings330796241#330796241#0(128"ja.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#87"/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/ja.lproj/InfoPlist.strings8606801184#536"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary ja.lproj/InfoPlist.strings --outdir /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/ja.lproj0#
+
+CCopyStringsFile /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/ja.lproj/Localizable.strings ja.lproj/Localizable.strings
+s330805216.137065
+e330805216.161271
+r1
+xCopyStringsFile
+x/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/ja.lproj/Localizable.strings
+xja.lproj/Localizable.strings
+oja.lproj/Localizable.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
+lSLF07#2@33"Copy ja.lproj/Localizable.strings330805216#330805216#0(130"ja.lproj/Localizable.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#89"/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/ja.lproj/Localizable.strings8622788640#538"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary ja.lproj/Localizable.strings --outdir /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/ja.lproj0#
+
+CCpResource build/Debug-iphonesimulator/Week-03-Homework.app/icon114.png icon114.png
+s330731147.330886
+e330731147.358998
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Week-03-Homework.app/icon114.png
+xicon114.png
+lSLF07#2@16"Copy icon114.png330731147#330731147#0(0"0(0#0#72"/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/icon114.png8619384352#544"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/icon114.png /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app0#
+
+CCpResource build/Debug-iphonesimulator/Week-03-Homework.app/icon57.png icon57.png
+s330731147.329580
+e330731147.358834
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Week-03-Homework.app/icon57.png
+xicon57.png
+lSLF07#2@15"Copy icon57.png330731147#330731147#0(0"0(0#0#71"/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/icon57.png8619174272#543"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/icon57.png /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app0#
+
+CCpResource build/Debug-iphonesimulator/Week-03-Homework.app/icon72.png icon72.png
+s330731147.330165
+e330731147.358590
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Week-03-Homework.app/icon72.png
+xicon72.png
+lSLF07#2@15"Copy icon72.png330731147#330731147#0(0"0(0#0#71"/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/icon72.png8619345920#543"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/icon72.png /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app0#
+
+CGenerateDSYMFile /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app.dSYM /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/Week-03-Homework
+s330805216.227276
+e330805216.240489
+r1
+xGenerateDSYMFile
+x/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app.dSYM
+x/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/Week-03-Homework
+lSLF07#2@136"GenerateDSYMFile build/Debug-iphonesimulator/Week-03-Homework.app.dSYM build/Debug-iphonesimulator/Week-03-Homework.app/Week-03-Homework330805216#330805216#0(0"0(0#0#126"/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/Week-03-Homework8626185824#476"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/Week-03-Homework -o /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app.dSYM0#
+
+CLd /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/Week-03-Homework normal i386
+s330805216.207691
+e330805216.227206
+r1
+xLd
+x/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/Week-03-Homework
+xnormal
+xi386
+lSLF07#2@131"Link /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/Week-03-Homework330805216#330805216#0(0"0(0#0#0"8627020448#1055"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator -F/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator -filelist /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/Objects-normal/i386/Week-03-Homework.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/Week-03-Homework0#
+
+CProcessInfoPlistFile /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/Info.plist Week_03_Homework-Info.plist
+s330731147.326718
+e330731147.329498
+r1
+xProcessInfoPlistFile
+x/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/Info.plist
+xWeek_03_Homework-Info.plist
+lSLF07#2@35"Process Week_03_Homework-Info.plist330731147#330731147#0(0"0(0#0#88"/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/Week_03_Homework-Info.plist8610298528#572"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Week_03_Homework-Info.plist -genpkginfo /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app/Info.plist0#
+
+CProcessPCH /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Week_03_Homework_Prefix-askrzgzpgkvgncbxfuzhpjtdylph/Week_03_Homework_Prefix.pch.gch Week_03_Homework_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s330731147.359126
+e330731147.859142
+r1
+xProcessPCH
+x/var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Week_03_Homework_Prefix-askrzgzpgkvgncbxfuzhpjtdylph/Week_03_Homework_Prefix.pch.gch
+xWeek_03_Homework_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile Week_03_Homework_Prefix.pch330731147#330731147#0(0"0(0#0#88"/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/Week_03_Homework_Prefix.pch8619414208#2197"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/Week-03-Homework-generated-files.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/Week-03-Homework-own-target-headers.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/Week-03-Homework-all-target-headers.hmap -iquote /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/Week-03-Homework-project-headers.hmap -F/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator -I/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/include -I/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/DerivedSources/i386 -I/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Week-03-Homework.build/Debug-iphonesimulator/Week-03-Homework.build/DerivedSources -c /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/Week_03_Homework_Prefix.pch -o /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Week_03_Homework_Prefix-askrzgzpgkvgncbxfuzhpjtdylph/Week_03_Homework_Prefix.pch.gch0#
+
+CTouch /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app
+s330805216.240549
+e330805216.242543
+r1
+xTouch
+x/Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app
+lSLF07#2@115"Touch /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app330805216#330805216#0(0"0(0#0#0"8621284224#331"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/michaelfenimore/Documents/nyu-iphone/Week-03-Homework/build/Debug-iphonesimulator/Week-03-Homework.app0#
+
