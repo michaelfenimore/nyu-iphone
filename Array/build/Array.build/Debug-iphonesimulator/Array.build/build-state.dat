@@ -1,0 +1,264 @@
+TArray
+v7
+r0
+t331679681.960748
+cCheck dependencies
+cProcessInfoPlistFile "/Developer/iPhone Applications/Array/build/Debug-iphonesimulator/Array.app/Info.plist" Array-Info.plist
+cCompileXIB "/Developer/iPhone Applications/Array/MainWindow.xib"
+cCpResource build/Debug-iphonesimulator/Array.app/arrays57.png arrays57.png
+cCpResource build/Debug-iphonesimulator/Array.app/arrays72.png arrays72.png
+cCpResource build/Debug-iphonesimulator/Array.app/arrays114.png arrays114.png
+cProcessPCH /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Array_Prefix-ccfvjquemohrzoaajlprstefbsks/Array_Prefix.pch.gch Array_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Array.build/Debug-iphonesimulator/Array.build/Objects-normal/i386/main.o "/Developer/iPhone Applications/Array/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Array.build/Debug-iphonesimulator/Array.build/Objects-normal/i386/ArrayAppDelegate.o "/Developer/iPhone Applications/Array/Classes/ArrayAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Developer/iPhone Applications/Array/build/Debug-iphonesimulator/Array.app/Array" normal i386
+cGenerateDSYMFile "/Developer/iPhone Applications/Array/build/Debug-iphonesimulator/Array.app.dSYM" "/Developer/iPhone Applications/Array/build/Debug-iphonesimulator/Array.app/Array"
+cTouch "/Developer/iPhone Applications/Array/build/Debug-iphonesimulator/Array.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/iPhone Applications/Array/Array_Prefix.pch
+c000000004E14A5C600000000000000B3
+t1309976006
+s179
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Developer/iPhone Applications/Array/Classes/ArrayAppDelegate.h
+c000000004E14A6010000000000000147
+t1309976065
+s327
+i<UIKit/UIKit.h>
+
+N/Developer/iPhone Applications/Array/Classes/ArrayAppDelegate.m
+c000000004E14A60500000000000009CC
+t1309976069
+s2508
+i"ArrayAppDelegate.h"
+
+N/Developer/iPhone Applications/Array/MainWindow.xib
+c000000004E14A5C600000000000020FE
+t1309976006
+s8446
+
+N/Developer/iPhone Applications/Array/arrays114.png
+c000000004E14B7270000000000002100
+t1309980455
+s8448
+
+N/Developer/iPhone Applications/Array/arrays57.png
+c000000004E14B77E0000000000000D5B
+t1309980542
+s3419
+
+N/Developer/iPhone Applications/Array/arrays72.png
+c000000004E14B7610000000000001189
+t1309980513
+s4489
+
+N/Developer/iPhone Applications/Array/build/Array.build/Debug-iphonesimulator/Array.build/Objects-normal/i386/Array.LinkFileList
+c000000004E14A7B400000000000000F4
+t1309976500
+s244
+
+N/Developer/iPhone Applications/Array/build/Array.build/Debug-iphonesimulator/Array.build/Objects-normal/i386/ArrayAppDelegate.o
+t1309976501
+s49648
+
+N/Developer/iPhone Applications/Array/build/Array.build/Debug-iphonesimulator/Array.build/Objects-normal/i386/main.o
+t1309986859
+s9708
+
+N/Developer/iPhone Applications/Array/build/Debug-iphonesimulator/Array.app
+t1309986859
+s306
+
+N/Developer/iPhone Applications/Array/build/Debug-iphonesimulator/Array.app.dSYM
+t1309986859
+s102
+
+N/Developer/iPhone Applications/Array/build/Debug-iphonesimulator/Array.app/Array
+t1309986859
+s16192
+
+N/Developer/iPhone Applications/Array/build/Debug-iphonesimulator/Array.app/Info.plist
+t1309982342
+s659
+
+N/Developer/iPhone Applications/Array/build/Debug-iphonesimulator/Array.app/MainWindow.nib
+t1309976500
+s1529
+
+N/Developer/iPhone Applications/Array/build/Debug-iphonesimulator/Array.app/PkgInfo
+t1309982342
+s8
+
+N/Developer/iPhone Applications/Array/build/Debug-iphonesimulator/Array.app/arrays114.png
+t1309980600
+s8448
+
+N/Developer/iPhone Applications/Array/build/Debug-iphonesimulator/Array.app/arrays57.png
+t1309980600
+s3419
+
+N/Developer/iPhone Applications/Array/build/Debug-iphonesimulator/Array.app/arrays72.png
+t1309980600
+s4489
+
+N/Developer/iPhone Applications/Array/main.m
+c000000004E14D02900000000000006B9
+t1309986857
+s1721
+i<UIKit/UIKit.h>
+
+N/var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Array_Prefix-ccfvjquemohrzoaajlprstefbsks/Array_Prefix.pch.gch
+t1309976501
+s15814064
+
+NArray-Info.plist
+c000000004E14BE8500000000000003EF
+t1309982341
+s1007
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies331679681#331679681#0(0"0(0#1#0"8602241920#0"0#
+
+CCompileC build/Array.build/Debug-iphonesimulator/Array.build/Objects-normal/i386/ArrayAppDelegate.o "/Developer/iPhone Applications/Array/Classes/ArrayAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s331669301.079019
+e331669301.121956
+r1
+xCompileC
+xbuild/Array.build/Debug-iphonesimulator/Array.build/Objects-normal/i386/ArrayAppDelegate.o
+x/Developer/iPhone Applications/Array/Classes/ArrayAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Developer/iPhone Applications/Array/Classes/ArrayAppDelegate.m331669301#331669301#0(0"0(0#0#63"/Developer/iPhone Applications/Array/Classes/ArrayAppDelegate.m8614681728#1912"    cd "/Developer/iPhone Applications/Array"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Developer/iPhone Applications/Array/build/Array.build/Debug-iphonesimulator/Array.build/Array-generated-files.hmap" "-I/Developer/iPhone Applications/Array/build/Array.build/Debug-iphonesimulator/Array.build/Array-own-target-headers.hmap" "-I/Developer/iPhone Applications/Array/build/Array.build/Debug-iphonesimulator/Array.build/Array-all-target-headers.hmap" -iquote "/Developer/iPhone Applications/Array/build/Array.build/Debug-iphonesimulator/Array.build/Array-project-headers.hmap" "-F/Developer/iPhone Applications/Array/build/Debug-iphonesimulator" "-I/Developer/iPhone Applications/Array/build/Debug-iphonesimulator/include" "-I/Developer/iPhone Applications/Array/build/Array.build/Debug-iphonesimulator/Array.build/DerivedSources/i386" "-I/Developer/iPhone Applications/Array/build/Array.build/Debug-iphonesimulator/Array.build/DerivedSources" -include /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Array_Prefix-ccfvjquemohrzoaajlprstefbsks/Array_Prefix.pch -c "/Developer/iPhone Applications/Array/Classes/ArrayAppDelegate.m" -o "/Developer/iPhone Applications/Array/build/Array.build/Debug-iphonesimulator/Array.build/Objects-normal/i386/ArrayAppDelegate.o"0#
+
+CCompileC build/Array.build/Debug-iphonesimulator/Array.build/Objects-normal/i386/main.o "/Developer/iPhone Applications/Array/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s331679659.303097
+e331679659.374007
+r1
+xCompileC
+xbuild/Array.build/Debug-iphonesimulator/Array.build/Objects-normal/i386/main.o
+x/Developer/iPhone Applications/Array/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Developer/iPhone Applications/Array/main.m331679659#331679659#0(0"0(0#0#43"/Developer/iPhone Applications/Array/main.m8610955008#1880"    cd "/Developer/iPhone Applications/Array"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Developer/iPhone Applications/Array/build/Array.build/Debug-iphonesimulator/Array.build/Array-generated-files.hmap" "-I/Developer/iPhone Applications/Array/build/Array.build/Debug-iphonesimulator/Array.build/Array-own-target-headers.hmap" "-I/Developer/iPhone Applications/Array/build/Array.build/Debug-iphonesimulator/Array.build/Array-all-target-headers.hmap" -iquote "/Developer/iPhone Applications/Array/build/Array.build/Debug-iphonesimulator/Array.build/Array-project-headers.hmap" "-F/Developer/iPhone Applications/Array/build/Debug-iphonesimulator" "-I/Developer/iPhone Applications/Array/build/Debug-iphonesimulator/include" "-I/Developer/iPhone Applications/Array/build/Array.build/Debug-iphonesimulator/Array.build/DerivedSources/i386" "-I/Developer/iPhone Applications/Array/build/Array.build/Debug-iphonesimulator/Array.build/DerivedSources" -include /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Array_Prefix-ccfvjquemohrzoaajlprstefbsks/Array_Prefix.pch -c "/Developer/iPhone Applications/Array/main.m" -o "/Developer/iPhone Applications/Array/build/Array.build/Debug-iphonesimulator/Array.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Developer/iPhone Applications/Array/MainWindow.xib"
+s331669300.113693
+e331669300.305687
+r1
+xCompileXIB
+x/Developer/iPhone Applications/Array/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib331669300#331669300#0(0"0(0#0#51"/Developer/iPhone Applications/Array/MainWindow.xib8614976832#568"    cd "/Developer/iPhone Applications/Array"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Developer/iPhone Applications/Array/build/Debug-iphonesimulator/Array.app/MainWindow.nib" "/Developer/iPhone Applications/Array/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource build/Debug-iphonesimulator/Array.app/arrays114.png arrays114.png
+s331673400.301038
+e331673400.351471
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Array.app/arrays114.png
+xarrays114.png
+lSLF07#2@18"Copy arrays114.png331673400#331673400#0(0"0(0#0#50"/Developer/iPhone Applications/Array/arrays114.png8612561184#469"    cd "/Developer/iPhone Applications/Array"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Developer/iPhone Applications/Array/arrays114.png" "/Developer/iPhone Applications/Array/build/Debug-iphonesimulator/Array.app"0#
+
+CCpResource build/Debug-iphonesimulator/Array.app/arrays57.png arrays57.png
+s331673400.300125
+e331673400.352235
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Array.app/arrays57.png
+xarrays57.png
+lSLF07#2@17"Copy arrays57.png331673400#331673400#0(0"0(0#0#49"/Developer/iPhone Applications/Array/arrays57.png8614104160#468"    cd "/Developer/iPhone Applications/Array"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Developer/iPhone Applications/Array/arrays57.png" "/Developer/iPhone Applications/Array/build/Debug-iphonesimulator/Array.app"0#
+
+CCpResource build/Debug-iphonesimulator/Array.app/arrays72.png arrays72.png
+s331673400.300631
+e331673400.351246
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Array.app/arrays72.png
+xarrays72.png
+lSLF07#2@17"Copy arrays72.png331673400#331673400#0(0"0(0#0#49"/Developer/iPhone Applications/Array/arrays72.png8612899456#468"    cd "/Developer/iPhone Applications/Array"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Developer/iPhone Applications/Array/arrays72.png" "/Developer/iPhone Applications/Array/build/Debug-iphonesimulator/Array.app"0#
+
+CGenerateDSYMFile "/Developer/iPhone Applications/Array/build/Debug-iphonesimulator/Array.app.dSYM" "/Developer/iPhone Applications/Array/build/Debug-iphonesimulator/Array.app/Array"
+s331679659.388445
+e331679659.396973
+r1
+xGenerateDSYMFile
+x/Developer/iPhone Applications/Array/build/Debug-iphonesimulator/Array.app.dSYM
+x/Developer/iPhone Applications/Array/build/Debug-iphonesimulator/Array.app/Array
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/Array.app.dSYM build/Debug-iphonesimulator/Array.app/Array331679659#331679659#0(0"0(0#0#80"/Developer/iPhone Applications/Array/build/Debug-iphonesimulator/Array.app/Array8614779360#377"    cd "/Developer/iPhone Applications/Array"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Developer/iPhone Applications/Array/build/Debug-iphonesimulator/Array.app/Array" -o "/Developer/iPhone Applications/Array/build/Debug-iphonesimulator/Array.app.dSYM"0#
+
+CLd "/Developer/iPhone Applications/Array/build/Debug-iphonesimulator/Array.app/Array" normal i386
+s331679659.374074
+e331679659.388359
+r1
+xLd
+x/Developer/iPhone Applications/Array/build/Debug-iphonesimulator/Array.app/Array
+xnormal
+xi386
+lSLF07#2@85"Link /Developer/iPhone Applications/Array/build/Debug-iphonesimulator/Array.app/Array331679659#331679659#0(0"0(0#0#0"8618170496#890"    cd "/Developer/iPhone Applications/Array"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk "-L/Developer/iPhone Applications/Array/build/Debug-iphonesimulator" "-F/Developer/iPhone Applications/Array/build/Debug-iphonesimulator" -filelist "/Developer/iPhone Applications/Array/build/Array.build/Debug-iphonesimulator/Array.build/Objects-normal/i386/Array.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Developer/iPhone Applications/Array/build/Debug-iphonesimulator/Array.app/Array"0#
+
+CProcessInfoPlistFile "/Developer/iPhone Applications/Array/build/Debug-iphonesimulator/Array.app/Info.plist" Array-Info.plist
+s331675142.258074
+e331675142.270019
+r1
+xProcessInfoPlistFile
+x/Developer/iPhone Applications/Array/build/Debug-iphonesimulator/Array.app/Info.plist
+xArray-Info.plist
+lSLF07#2@24"Process Array-Info.plist331675142#331675142#0(0"0(0#0#53"/Developer/iPhone Applications/Array/Array-Info.plist8614171104#473"    cd "/Developer/iPhone Applications/Array"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Array-Info.plist -genpkginfo "/Developer/iPhone Applications/Array/build/Debug-iphonesimulator/Array.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Developer/iPhone Applications/Array/build/Debug-iphonesimulator/Array.app/Info.plist"0#
+
+CProcessPCH /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Array_Prefix-ccfvjquemohrzoaajlprstefbsks/Array_Prefix.pch.gch Array_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s331669300.305775
+e331669301.077132
+r1
+xProcessPCH
+x/var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Array_Prefix-ccfvjquemohrzoaajlprstefbsks/Array_Prefix.pch.gch
+xArray_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile Array_Prefix.pch331669300#331669301#0(0"0(0#0#53"/Developer/iPhone Applications/Array/Array_Prefix.pch8611476064#1774"    cd "/Developer/iPhone Applications/Array"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Developer/iPhone Applications/Array/build/Array.build/Debug-iphonesimulator/Array.build/Array-generated-files.hmap" "-I/Developer/iPhone Applications/Array/build/Array.build/Debug-iphonesimulator/Array.build/Array-own-target-headers.hmap" "-I/Developer/iPhone Applications/Array/build/Array.build/Debug-iphonesimulator/Array.build/Array-all-target-headers.hmap" -iquote "/Developer/iPhone Applications/Array/build/Array.build/Debug-iphonesimulator/Array.build/Array-project-headers.hmap" "-F/Developer/iPhone Applications/Array/build/Debug-iphonesimulator" "-I/Developer/iPhone Applications/Array/build/Debug-iphonesimulator/include" "-I/Developer/iPhone Applications/Array/build/Array.build/Debug-iphonesimulator/Array.build/DerivedSources/i386" "-I/Developer/iPhone Applications/Array/build/Array.build/Debug-iphonesimulator/Array.build/DerivedSources" -c "/Developer/iPhone Applications/Array/Array_Prefix.pch" -o /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Array_Prefix-ccfvjquemohrzoaajlprstefbsks/Array_Prefix.pch.gch0#
+
+CTouch "/Developer/iPhone Applications/Array/build/Debug-iphonesimulator/Array.app"
+s331679659.397037
+e331679659.398523
+r1
+xTouch
+x/Developer/iPhone Applications/Array/build/Debug-iphonesimulator/Array.app
+lSLF07#2@80"Touch /Developer/iPhone Applications/Array/build/Debug-iphonesimulator/Array.app331679659#331679659#0(0"0(0#0#0"8612822592#276"    cd "/Developer/iPhone Applications/Array"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Developer/iPhone Applications/Array/build/Debug-iphonesimulator/Array.app"0#
+
