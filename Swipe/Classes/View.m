@@ -87,14 +87,22 @@
 	
 	if (distance < 50) {
 		outputString = @"Too short to be a swipe";
-	} else if (angle <= -135) {
-		outputString = @"swipe ←";
-	} else if (angle <= -45) {
-		outputString = @"swipe ↓";
-	} else if (angle <= 45) {
-		outputString = @"swipe →";
-	} else if (angle <= 135) {
+	} else if ((angle > 121) && (angle <= 150)) {
+		outputString = @"swipe ↖";
+	} else if ((angle > 61) && (angle <= 120)) {
 		outputString = @"swipe ↑";
+	} else if ((angle > 31) && (angle <= 60)) {
+		outputString = @"swipe ↗";
+	} else if ((angle <= 30) && (angle >= -30)) {
+		outputString = @"swipe →";
+	} else if ((angle < -30) && (angle >= -60)) {
+		outputString = @"swipe ↘";
+	} else if ((angle < -60) && (angle >= -120)) {
+		outputString = @"swipe ↓";
+	} else if ((angle < -120) && (angle >= -150)) {
+		outputString = @"swipe ↙";
+	} else if ((angle < -151) && (angle >= -180)) {
+		outputString = @"swipe ←";
 	} else {
 		outputString = @"swipe ←";
 	}
