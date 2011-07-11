@@ -1,0 +1,218 @@
+Tsine
+v7
+r0
+t331585818.179243
+cCheck dependencies
+cProcessInfoPlistFile "/Developer/iPhone Applications/nyu-iphone/sine/build/Debug-iphonesimulator/sine.app/Info.plist" sine-Info.plist
+cProcessPCH /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/sine_Prefix-awwpclhdrilgtqdbddbhtwycvzeq/sine_Prefix.pch.gch sine_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sine.build/Debug-iphonesimulator/sine.build/Objects-normal/i386/main.o "/Developer/iPhone Applications/nyu-iphone/sine/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sine.build/Debug-iphonesimulator/sine.build/Objects-normal/i386/sineAppDelegate.o "/Developer/iPhone Applications/nyu-iphone/sine/Classes/sineAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sine.build/Debug-iphonesimulator/sine.build/Objects-normal/i386/View.o "/Developer/iPhone Applications/nyu-iphone/sine/Classes/View.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/iPhone Applications/nyu-iphone/sine/Classes/View.h
+c000000004E1360E800000000000000C3
+t1309892840
+s195
+i<UIKit/UIKit.h>
+
+N/Developer/iPhone Applications/nyu-iphone/sine/Classes/View.m
+c000000004E1360E8000000000000023D
+t1309892840
+s573
+i"View.h"
+
+N/Developer/iPhone Applications/nyu-iphone/sine/Classes/sineAppDelegate.h
+c000000004E1360640000000000000160
+t1309892708
+s352
+i<UIKit/UIKit.h>
+
+N/Developer/iPhone Applications/nyu-iphone/sine/Classes/sineAppDelegate.m
+c000000004E1361970000000000000A98
+t1309893015
+s2712
+i"sineAppDelegate.h"
+i"View.h"
+
+N/Developer/iPhone Applications/nyu-iphone/sine/MainWindow.xib
+c000000004E135FC500000000000020F9
+t1309892549
+s8441
+
+N/Developer/iPhone Applications/nyu-iphone/sine/build/Debug-iphonesimulator/sine.app
+t2
+s0
+
+N/Developer/iPhone Applications/nyu-iphone/sine/build/Debug-iphonesimulator/sine.app.dSYM
+t2
+s0
+
+N/Developer/iPhone Applications/nyu-iphone/sine/build/Debug-iphonesimulator/sine.app/Info.plist
+t1309893017
+s550
+
+N/Developer/iPhone Applications/nyu-iphone/sine/build/Debug-iphonesimulator/sine.app/MainWindow.nib
+t2
+s0
+
+N/Developer/iPhone Applications/nyu-iphone/sine/build/Debug-iphonesimulator/sine.app/PkgInfo
+t1309893017
+s8
+
+N/Developer/iPhone Applications/nyu-iphone/sine/build/Debug-iphonesimulator/sine.app/sine
+t2
+s0
+
+N/Developer/iPhone Applications/nyu-iphone/sine/build/sine.build/Debug-iphonesimulator/sine.build/Objects-normal/i386/View.o
+t1309893018
+s37356
+
+N/Developer/iPhone Applications/nyu-iphone/sine/build/sine.build/Debug-iphonesimulator/sine.build/Objects-normal/i386/main.o
+t1309893018
+s6508
+
+N/Developer/iPhone Applications/nyu-iphone/sine/build/sine.build/Debug-iphonesimulator/sine.build/Objects-normal/i386/sine.LinkFileList
+c000000004E136199000000000000017F
+t1309893017
+s383
+
+N/Developer/iPhone Applications/nyu-iphone/sine/build/sine.build/Debug-iphonesimulator/sine.build/Objects-normal/i386/sineAppDelegate.o
+t2
+s0
+
+N/Developer/iPhone Applications/nyu-iphone/sine/main.m
+c000000004E135FFF000000000000017B
+t1309892607
+s379
+i<UIKit/UIKit.h>
+
+N/Developer/iPhone Applications/nyu-iphone/sine/sine_Prefix.pch
+c000000004E135FC500000000000000B1
+t1309892549
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/sine_Prefix-awwpclhdrilgtqdbddbhtwycvzeq/sine_Prefix.pch.gch
+t1309893018
+s15814064
+
+Nsine-Info.plist
+c000000004E13602C000000000000035A
+t1309892652
+s858
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies331585817#331585817#0(0"0(0#1#0"8247620834010738688#0"0#
+
+CCompileC build/sine.build/Debug-iphonesimulator/sine.build/Objects-normal/i386/View.o "/Developer/iPhone Applications/nyu-iphone/sine/Classes/View.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s331585818.139982
+e331585818.179188
+r1
+xCompileC
+xbuild/sine.build/Debug-iphonesimulator/sine.build/Objects-normal/i386/View.o
+x/Developer/iPhone Applications/nyu-iphone/sine/Classes/View.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Developer/iPhone Applications/nyu-iphone/sine/Classes/View.m331585818#331585818#0(0"0(0#0#61"/Developer/iPhone Applications/nyu-iphone/sine/Classes/View.m8615250720#1978"    cd "/Developer/iPhone Applications/nyu-iphone/sine"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Developer/iPhone Applications/nyu-iphone/sine/build/sine.build/Debug-iphonesimulator/sine.build/sine-generated-files.hmap" "-I/Developer/iPhone Applications/nyu-iphone/sine/build/sine.build/Debug-iphonesimulator/sine.build/sine-own-target-headers.hmap" "-I/Developer/iPhone Applications/nyu-iphone/sine/build/sine.build/Debug-iphonesimulator/sine.build/sine-all-target-headers.hmap" -iquote "/Developer/iPhone Applications/nyu-iphone/sine/build/sine.build/Debug-iphonesimulator/sine.build/sine-project-headers.hmap" "-F/Developer/iPhone Applications/nyu-iphone/sine/build/Debug-iphonesimulator" "-I/Developer/iPhone Applications/nyu-iphone/sine/build/Debug-iphonesimulator/include" "-I/Developer/iPhone Applications/nyu-iphone/sine/build/sine.build/Debug-iphonesimulator/sine.build/DerivedSources/i386" "-I/Developer/iPhone Applications/nyu-iphone/sine/build/sine.build/Debug-iphonesimulator/sine.build/DerivedSources" -include /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/sine_Prefix-awwpclhdrilgtqdbddbhtwycvzeq/sine_Prefix.pch -c "/Developer/iPhone Applications/nyu-iphone/sine/Classes/View.m" -o "/Developer/iPhone Applications/nyu-iphone/sine/build/sine.build/Debug-iphonesimulator/sine.build/Objects-normal/i386/View.o"0#
+
+CCompileC build/sine.build/Debug-iphonesimulator/sine.build/Objects-normal/i386/main.o "/Developer/iPhone Applications/nyu-iphone/sine/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s331585818.137403
+e331585818.173335
+r1
+xCompileC
+xbuild/sine.build/Debug-iphonesimulator/sine.build/Objects-normal/i386/main.o
+x/Developer/iPhone Applications/nyu-iphone/sine/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Developer/iPhone Applications/nyu-iphone/sine/main.m331585818#331585818#0(0"0(0#0#53"/Developer/iPhone Applications/nyu-iphone/sine/main.m8615708672#1970"    cd "/Developer/iPhone Applications/nyu-iphone/sine"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Developer/iPhone Applications/nyu-iphone/sine/build/sine.build/Debug-iphonesimulator/sine.build/sine-generated-files.hmap" "-I/Developer/iPhone Applications/nyu-iphone/sine/build/sine.build/Debug-iphonesimulator/sine.build/sine-own-target-headers.hmap" "-I/Developer/iPhone Applications/nyu-iphone/sine/build/sine.build/Debug-iphonesimulator/sine.build/sine-all-target-headers.hmap" -iquote "/Developer/iPhone Applications/nyu-iphone/sine/build/sine.build/Debug-iphonesimulator/sine.build/sine-project-headers.hmap" "-F/Developer/iPhone Applications/nyu-iphone/sine/build/Debug-iphonesimulator" "-I/Developer/iPhone Applications/nyu-iphone/sine/build/Debug-iphonesimulator/include" "-I/Developer/iPhone Applications/nyu-iphone/sine/build/sine.build/Debug-iphonesimulator/sine.build/DerivedSources/i386" "-I/Developer/iPhone Applications/nyu-iphone/sine/build/sine.build/Debug-iphonesimulator/sine.build/DerivedSources" -include /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/sine_Prefix-awwpclhdrilgtqdbddbhtwycvzeq/sine_Prefix.pch -c "/Developer/iPhone Applications/nyu-iphone/sine/main.m" -o "/Developer/iPhone Applications/nyu-iphone/sine/build/sine.build/Debug-iphonesimulator/sine.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/sine.build/Debug-iphonesimulator/sine.build/Objects-normal/i386/sineAppDelegate.o "/Developer/iPhone Applications/nyu-iphone/sine/Classes/sineAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s331585818.138894
+e331585818.173074
+r0
+xCompileC
+xbuild/sine.build/Debug-iphonesimulator/sine.build/Objects-normal/i386/sineAppDelegate.o
+x/Developer/iPhone Applications/nyu-iphone/sine/Classes/sineAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Developer/iPhone Applications/nyu-iphone/sine/Classes/sineAppDelegate.m: In function '-[sineAppDelegate application:didFinishLaunchingWithOptions:]':
+o/Developer/iPhone Applications/nyu-iphone/sine/Classes/sineAppDelegate.m:23: warning: 'UIScreen' may not respond to '+applicationFrame'
+o/Developer/iPhone Applications/nyu-iphone/sine/Classes/sineAppDelegate.m:23: warning: (Messages without a matching method signature
+o/Developer/iPhone Applications/nyu-iphone/sine/Classes/sineAppDelegate.m:23: warning: will be assumed to return 'id' and accept
+o/Developer/iPhone Applications/nyu-iphone/sine/Classes/sineAppDelegate.m:23: warning: '...' as arguments.)
+o/Developer/iPhone Applications/nyu-iphone/sine/Classes/sineAppDelegate.m:23: error: invalid initializer
+o/Developer/iPhone Applications/nyu-iphone/sine/Classes/sineAppDelegate.m:22: warning: unused variable 'screenBound'
+lSLF07#2@80"Compile /Developer/iPhone Applications/nyu-iphone/sine/Classes/sineAppDelegate.m331585818#331585818#0(874"/Developer/iPhone Applications/nyu-iphone/sine/Classes/sineAppDelegate.m: In function '-[sineAppDelegate application:didFinishLaunchingWithOptions:]':/Developer/iPhone Applications/nyu-iphone/sine/Classes/sineAppDelegate.m:23: warning: 'UIScreen' may not respond to '+applicationFrame'/Developer/iPhone Applications/nyu-iphone/sine/Classes/sineAppDelegate.m:23: warning: (Messages without a matching method signature/Developer/iPhone Applications/nyu-iphone/sine/Classes/sineAppDelegate.m:23: warning: will be assumed to return 'id' and accept/Developer/iPhone Applications/nyu-iphone/sine/Classes/sineAppDelegate.m:23: warning: '...' as arguments.)/Developer/iPhone Applications/nyu-iphone/sine/Classes/sineAppDelegate.m:23: error: invalid initializer/Developer/iPhone Applications/nyu-iphone/sine/Classes/sineAppDelegate.m:22: warning: unused variable 'screenBound'4(22@49"'UIScreen' may not respond to '+applicationFrame'331585818#151#136#0(6@72"/Developer/iPhone Applications/nyu-iphone/sine/Classes/sineAppDelegate.m331585815#23#0#23#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)331585818#287#132#0(6@72"/Developer/iPhone Applications/nyu-iphone/sine/Classes/sineAppDelegate.m331585815#23#0#23#0#0"0(4@19"Invalid initializer331585818#654#104#0(6@72"/Developer/iPhone Applications/nyu-iphone/sine/Classes/sineAppDelegate.m331585815#23#0#23#0#0"0(22@29"Unused variable 'screenBound'331585818#758#116#0(6@72"/Developer/iPhone Applications/nyu-iphone/sine/Classes/sineAppDelegate.m331585815#22#0#22#0#19"unused variable '*'0(0#0#72"/Developer/iPhone Applications/nyu-iphone/sine/Classes/sineAppDelegate.m8615455072#2000"    cd "/Developer/iPhone Applications/nyu-iphone/sine"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Developer/iPhone Applications/nyu-iphone/sine/build/sine.build/Debug-iphonesimulator/sine.build/sine-generated-files.hmap" "-I/Developer/iPhone Applications/nyu-iphone/sine/build/sine.build/Debug-iphonesimulator/sine.build/sine-own-target-headers.hmap" "-I/Developer/iPhone Applications/nyu-iphone/sine/build/sine.build/Debug-iphonesimulator/sine.build/sine-all-target-headers.hmap" -iquote "/Developer/iPhone Applications/nyu-iphone/sine/build/sine.build/Debug-iphonesimulator/sine.build/sine-project-headers.hmap" "-F/Developer/iPhone Applications/nyu-iphone/sine/build/Debug-iphonesimulator" "-I/Developer/iPhone Applications/nyu-iphone/sine/build/Debug-iphonesimulator/include" "-I/Developer/iPhone Applications/nyu-iphone/sine/build/sine.build/Debug-iphonesimulator/sine.build/DerivedSources/i386" "-I/Developer/iPhone Applications/nyu-iphone/sine/build/sine.build/Debug-iphonesimulator/sine.build/DerivedSources" -include /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/sine_Prefix-awwpclhdrilgtqdbddbhtwycvzeq/sine_Prefix.pch -c "/Developer/iPhone Applications/nyu-iphone/sine/Classes/sineAppDelegate.m" -o "/Developer/iPhone Applications/nyu-iphone/sine/build/sine.build/Debug-iphonesimulator/sine.build/Objects-normal/i386/sineAppDelegate.o"1#
+
+CCompileXIB "/Developer/iPhone Applications/nyu-iphone/sine/MainWindow.xib"
+r0
+
+CGenerateDSYMFile "/Developer/iPhone Applications/nyu-iphone/sine/build/Debug-iphonesimulator/sine.app.dSYM" "/Developer/iPhone Applications/nyu-iphone/sine/build/Debug-iphonesimulator/sine.app/sine"
+r0
+
+CLd "/Developer/iPhone Applications/nyu-iphone/sine/build/Debug-iphonesimulator/sine.app/sine" normal i386
+r0
+
+CProcessInfoPlistFile "/Developer/iPhone Applications/nyu-iphone/sine/build/Debug-iphonesimulator/sine.app/Info.plist" sine-Info.plist
+s331585817.612495
+e331585817.615243
+r1
+xProcessInfoPlistFile
+x/Developer/iPhone Applications/nyu-iphone/sine/build/Debug-iphonesimulator/sine.app/Info.plist
+xsine-Info.plist
+lSLF07#2@23"Process sine-Info.plist331585817#331585817#0(0"0(0#0#62"/Developer/iPhone Applications/nyu-iphone/sine/sine-Info.plist8614931712#500"    cd "/Developer/iPhone Applications/nyu-iphone/sine"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility sine-Info.plist -genpkginfo "/Developer/iPhone Applications/nyu-iphone/sine/build/Debug-iphonesimulator/sine.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Developer/iPhone Applications/nyu-iphone/sine/build/Debug-iphonesimulator/sine.app/Info.plist"0#
+
+CProcessPCH /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/sine_Prefix-awwpclhdrilgtqdbddbhtwycvzeq/sine_Prefix.pch.gch sine_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s331585817.615313
+e331585818.137214
+r1
+xProcessPCH
+x/var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/sine_Prefix-awwpclhdrilgtqdbddbhtwycvzeq/sine_Prefix.pch.gch
+xsine_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile sine_Prefix.pch331585817#331585818#0(0"0(0#0#62"/Developer/iPhone Applications/nyu-iphone/sine/sine_Prefix.pch8614722816#1855"    cd "/Developer/iPhone Applications/nyu-iphone/sine"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Developer/iPhone Applications/nyu-iphone/sine/build/sine.build/Debug-iphonesimulator/sine.build/sine-generated-files.hmap" "-I/Developer/iPhone Applications/nyu-iphone/sine/build/sine.build/Debug-iphonesimulator/sine.build/sine-own-target-headers.hmap" "-I/Developer/iPhone Applications/nyu-iphone/sine/build/sine.build/Debug-iphonesimulator/sine.build/sine-all-target-headers.hmap" -iquote "/Developer/iPhone Applications/nyu-iphone/sine/build/sine.build/Debug-iphonesimulator/sine.build/sine-project-headers.hmap" "-F/Developer/iPhone Applications/nyu-iphone/sine/build/Debug-iphonesimulator" "-I/Developer/iPhone Applications/nyu-iphone/sine/build/Debug-iphonesimulator/include" "-I/Developer/iPhone Applications/nyu-iphone/sine/build/sine.build/Debug-iphonesimulator/sine.build/DerivedSources/i386" "-I/Developer/iPhone Applications/nyu-iphone/sine/build/sine.build/Debug-iphonesimulator/sine.build/DerivedSources" -c "/Developer/iPhone Applications/nyu-iphone/sine/sine_Prefix.pch" -o /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/sine_Prefix-awwpclhdrilgtqdbddbhtwycvzeq/sine_Prefix.pch.gch0#
+
+CTouch "/Developer/iPhone Applications/nyu-iphone/sine/build/Debug-iphonesimulator/sine.app"
+r0
+
