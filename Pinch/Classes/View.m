@@ -18,6 +18,7 @@
     if (self) {
         self.backgroundColor = [UIColor whiteColor];
 		self.multipleTouchEnabled = YES;
+		txtLabel.userInteractionEnabled = YES;
     }
     return self;
 }
@@ -57,16 +58,31 @@
 	}
 		
 	NSString *myString = [NSString stringWithFormat: @"%@ %d", myTouch, (int)currentDistance];
+	//CGSize size = [myString sizeWithFont: theFont];
+	//CGRect theBounds = self.bounds;
 	UIFont *theFont = [UIFont systemFontOfSize: currentDistance / 2];
-	CGSize size = [myString sizeWithFont: theFont];
-	CGRect b = self.bounds;
-	CGFloat x = b.origin.x + (b.size.width - size.width) / 2;
+	CGSize labelSize = [myString sizeWithFont: theFont];
 	
-	[myString drawAtPoint: CGPointMake(x, 0.0) withFont: theFont];
+	CGRect theFrame = txtLabel.frame;
+	theFrame.size.height = labelSize.height;
+	txtLabel.frame = theFrame;
+
+	//CGFloat x = theBounds.origin.x + (theBounds.size.width - size.width) / 2;
+	
+	txtLabel = [[UILabel alloc] initWithFrame:theFrame];
+	txtLabel.font = theFont;
+	txtLabel.backgroundColor = [UIColor whiteColor];
+	txtLabel.textColor = [UIColor blackColor];
+	txtLabel.text = myString;
+	NSLog(@"Text:%@", myString);
+	[self addSubview:txtLabel];
+	
+	//[myString drawAtPoint: CGPointMake(x, 0.0) withFont: theFont];
 
 }
 
 - (void)dealloc {
+	[txtLabel release];
     [super dealloc];
 }
 

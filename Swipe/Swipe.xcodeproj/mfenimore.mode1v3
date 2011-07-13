@@ -325,12 +325,24 @@
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
 										<string>View.m</string>
+<<<<<<< HEAD
+=======
+										<key>_historyCapacity</key>
+										<integer>0</integer>
+										<key>bookmark</key>
+										<string>AD594B9C13CD033000DA2CB7</string>
+>>>>>>> MF-Flip-Assignment
 										<key>history</key>
 										<array>
 											<string>ADF912D813C3C3A30042C34D</string>
 											<string>ADF912D913C3C3A30042C34D</string>
 											<string>ADF912DB13C3C3A30042C34D</string>
 											<string>ADF912DC13C3C3A30042C34D</string>
+<<<<<<< HEAD
+=======
+											<string>AD594B9A13CD033000DA2CB7</string>
+											<string>AD594B9B13CD033000DA2CB7</string>
+>>>>>>> MF-Flip-Assignment
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -388,9 +400,15 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
+<<<<<<< HEAD
 				<string>AD8E19E813CE34100028B5BB</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
 				<string>AD8E19E913CE34100028B5BB</string>
+=======
+				<string>AD594B9D13CD033000DA2CB7</string>
+				<string>1CE0B1FE06471DED0097A5F4</string>
+				<string>AD594B9E13CD033000DA2CB7</string>
+>>>>>>> MF-Flip-Assignment
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -528,8 +546,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>1C78EAAD065D492600B07095</string>
-		<string>1CD10A99069EF8BA00B06720</string>
 		<string>ADF912E213C3C3A30042C34D</string>
 		<string>/Developer/nyu-iphone/Swipe/Swipe.xcodeproj</string>
 	</array>
@@ -611,7 +627,11 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>ADF912E213C3C3A30042C34D</string>
+<<<<<<< HEAD
 				<string>AD8E19EA13CE34100028B5BB</string>
+=======
+				<string>AD594B9F13CD033000DA2CB7</string>
+>>>>>>> MF-Flip-Assignment
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>

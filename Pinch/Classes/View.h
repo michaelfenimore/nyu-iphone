@@ -16,6 +16,8 @@
 	
 	CGPoint previous0;
 	CGPoint previous1;
+	
+	UILabel *txtLabel;
 }
 
 @end
