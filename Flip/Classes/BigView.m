@@ -65,24 +65,33 @@
 	CGFloat horizontal = pointMoved.x - pointBegan.x;
 	CGFloat vertical = pointMoved.y - pointBegan.y;
 	CGFloat angle = atan2f(-vertical, horizontal) * 180 / M_PI;
-	
+	NSInteger newIndex = 0;
 	//Declare variable for Options transition
 	UIViewAnimationOptions transitionEffect;
 	
 	if (angle <= -135) {
 		transitionEffect = UIViewAnimationOptionTransitionFlipFromRight;
+		newIndex = index + 1;
 	} else if (angle <= -45) {
 		transitionEffect = UIViewAnimationOptionTransitionCurlDown;
+		newIndex = index - 1;
 	} else if (angle <= 45) {
 		transitionEffect = UIViewAnimationOptionTransitionFlipFromLeft;
+		newIndex = index - 1;
 	} else if (angle <= 135) {
 		transitionEffect = UIViewAnimationOptionTransitionCurlUp;
+		newIndex = index + 1;
 	} else {
 		transitionEffect = UIViewAnimationOptionTransitionFlipFromRight;
+		newIndex = index + 1;
 	}
-	
-	NSUInteger newIndex = 1 - index;	//toggle the index
-	
+
+	if (newIndex == 3) {
+		newIndex = 0;
+	}else if (newIndex < 0) {
+		newIndex = 2;
+	}
+
 	NSLog(@"NewIndex:%d  Index:%d", newIndex, index);
 	[UIView transitionFromView: [views objectAtIndex: index]
 						toView: [views objectAtIndex: newIndex]

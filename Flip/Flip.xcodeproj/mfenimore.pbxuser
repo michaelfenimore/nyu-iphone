@@ -79,8 +79,8 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 332196780;
-			PBXWorkspaceStateSaveDate = 332196780;
+			PBXPerProjectTemplateStateSaveDate = 332282306;
+			PBXWorkspaceStateSaveDate = 332282306;
 		};
 		perUserProjectItems = {
 			AD594BA013CD039F00DA2CB7 /* PBXTextBookmark */ = AD594BA013CD039F00DA2CB7 /* PBXTextBookmark */;
@@ -95,8 +95,8 @@
 			AD594BAA13CD039F00DA2CB7 /* PBXTextBookmark */ = AD594BAA13CD039F00DA2CB7 /* PBXTextBookmark */;
 			AD594BAB13CD039F00DA2CB7 /* PBXTextBookmark */ = AD594BAB13CD039F00DA2CB7 /* PBXTextBookmark */;
 			AD594BAC13CD039F00DA2CB7 /* PBXTextBookmark */ = AD594BAC13CD039F00DA2CB7 /* PBXTextBookmark */;
-			AD594BAD13CD039F00DA2CB7 /* PBXTextBookmark */ = AD594BAD13CD039F00DA2CB7 /* PBXTextBookmark */;
-			AD594BAE13CD039F00DA2CB7 /* PBXTextBookmark */ = AD594BAE13CD039F00DA2CB7 /* PBXTextBookmark */;
+			AD8E1A5113CE46EF0028B5BB /* XCBuildMessageTextBookmark */ = AD8E1A5113CE46EF0028B5BB /* XCBuildMessageTextBookmark */;
+			AD8E1A6613CE48FC0028B5BB /* PBXTextBookmark */ = AD8E1A6613CE48FC0028B5BB /* PBXTextBookmark */;
 		};
 		sourceControlManager = AD594AAC13CCEBCA00DA2CB7 /* Source Control */;
 		userBuildSettings = {
@@ -160,9 +160,9 @@
 	};
 	AD594AB613CCEC1E00DA2CB7 /* BigView.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {889, 1856}}";
-			sepNavSelRange = "{2681, 0}";
-			sepNavVisRange = "{1879, 1100}";
+			sepNavIntBoundsRect = "{{0, 0}, {889, 1904}}";
+			sepNavSelRange = "{2499, 0}";
+			sepNavVisRange = "{1666, 1184}";
 		};
 	};
 	AD594AC313CCED0000DA2CB7 /* LittleView0.h */ = {
@@ -226,7 +226,7 @@
 		);
 		name = "/Developer/nyu-iphone/Flip/Flip-Info.plist";
 		rLen = 0;
-		rLoc = 9223372036854775807;
+		rLoc = 9223372036854775808;
 	};
 	AD594BA213CD039F00DA2CB7 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -300,6 +300,7 @@
 	};
 	AD594BA913CD039F00DA2CB7 /* UIAccelerometer.h */ = {
 		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
 		name = UIAccelerometer.h;
 		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccelerometer.h;
 		sourceTree = "<absolute>";
@@ -334,24 +335,23 @@
 		vrLen = 402;
 		vrLoc = 0;
 	};
-	AD594BAD13CD039F00DA2CB7 /* PBXTextBookmark */ = {
+	AD8E1A5113CE46EF0028B5BB /* XCBuildMessageTextBookmark */ = {
 		isa = PBXTextBookmark;
+		comments = "Assignment makes pointer from integer without a cast";
 		fRef = AD594AB613CCEC1E00DA2CB7 /* BigView.m */;
-		name = "BigView.m: 32";
-		rLen = 0;
-		rLoc = 710;
-		rType = 0;
-		vrLen = 1247;
-		vrLoc = 340;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 73;
+		rType = 1;
 	};
-	AD594BAE13CD039F00DA2CB7 /* PBXTextBookmark */ = {
+	AD8E1A6613CE48FC0028B5BB /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = AD594AB613CCEC1E00DA2CB7 /* BigView.m */;
-		name = "BigView.m: 97";
+		name = "BigView.m: 86";
 		rLen = 0;
-		rLoc = 2681;
+		rLoc = 2499;
 		rType = 0;
-		vrLen = 1100;
-		vrLoc = 1879;
+		vrLen = 1184;
+		vrLoc = 1666;
 	};
 }
