@@ -54,17 +54,14 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 331660081;
-			PBXWorkspaceStateSaveDate = 331660081;
+			PBXPerProjectTemplateStateSaveDate = 332280834;
+			PBXWorkspaceStateSaveDate = 332280834;
 		};
 		perUserProjectItems = {
-			ADF65F7213C4DC4800F63114 /* PBXTextBookmark */ = ADF65F7213C4DC4800F63114 /* PBXTextBookmark */;
 			ADF912D813C3C3A30042C34D /* PBXTextBookmark */ = ADF912D813C3C3A30042C34D /* PBXTextBookmark */;
 			ADF912D913C3C3A30042C34D /* PBXTextBookmark */ = ADF912D913C3C3A30042C34D /* PBXTextBookmark */;
-			ADF912DA13C3C3A30042C34D /* PBXTextBookmark */ = ADF912DA13C3C3A30042C34D /* PBXTextBookmark */;
 			ADF912DB13C3C3A30042C34D /* PlistBookmark */ = ADF912DB13C3C3A30042C34D /* PlistBookmark */;
 			ADF912DC13C3C3A30042C34D /* PBXTextBookmark */ = ADF912DC13C3C3A30042C34D /* PBXTextBookmark */;
-			ADF912DE13C3C3A30042C34D /* PBXTextBookmark */ = ADF912DE13C3C3A30042C34D /* PBXTextBookmark */;
 		};
 		sourceControlManager = ADF912A413C3A7560042C34D /* Source Control */;
 		userBuildSettings = {
@@ -76,16 +73,6 @@
 			sepNavSelRange = "{159, 0}";
 			sepNavVisRange = "{0, 381}";
 		};
-	};
-	ADF65F7213C4DC4800F63114 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = ADF912AA13C3AB690042C34D /* View.m */;
-		name = "View.m: 27";
-		rLen = 0;
-		rLoc = 715;
-		rType = 0;
-		vrLen = 1145;
-		vrLoc = 0;
 	};
 	ADF912A013C3A7380042C34D /* Swipe */ = {
 		isa = PBXExecutable;
@@ -163,16 +150,6 @@
 		vrLen = 1503;
 		vrLoc = 195;
 	};
-	ADF912DA13C3C3A30042C34D /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = ADF912A913C3AB690042C34D /* View.h */;
-		name = "View.h: 17";
-		rLen = 0;
-		rLoc = 286;
-		rType = 0;
-		vrLen = 294;
-		vrLoc = 0;
-	};
 	ADF912DB13C3C3A30042C34D /* PlistBookmark */ = {
 		isa = PlistBookmark;
 		fRef = 8D1107310486CEB800E47090 /* Swipe-Info.plist */;
@@ -194,15 +171,5 @@
 		rType = 0;
 		vrLen = 381;
 		vrLoc = 0;
-	};
-	ADF912DE13C3C3A30042C34D /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = ADF912AA13C3AB690042C34D /* View.m */;
-		name = "View.m: 84";
-		rLen = 0;
-		rLoc = 3318;
-		rType = 0;
-		vrLen = 1175;
-		vrLoc = 2851;
 	};
 }
