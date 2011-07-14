@@ -1,0 +1,627 @@
+TMatch
+v7
+r0
+t332370466.897349
+cCheck dependencies
+cProcessInfoPlistFile /Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/Info.plist Match-Info.plist
+cCompileXIB /Developer/nyu-iphone/Week-05-Homework/Match/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/Match.app/01.png 01.png
+cCpResource build/Debug-iphonesimulator/Match.app/02.png 02.png
+cCpResource build/Debug-iphonesimulator/Match.app/match57.png match57.png
+cCpResource build/Debug-iphonesimulator/Match.app/match72.png match72.png
+cCpResource build/Debug-iphonesimulator/Match.app/match114.png match114.png
+cCpResource build/Debug-iphonesimulator/Match.app/00.png 00.png
+cCpResource build/Debug-iphonesimulator/Match.app/10.png 10.png
+cCpResource build/Debug-iphonesimulator/Match.app/11.png 11.png
+cCpResource build/Debug-iphonesimulator/Match.app/12.png 12.png
+cCpResource build/Debug-iphonesimulator/Match.app/20.png 20.png
+cCpResource build/Debug-iphonesimulator/Match.app/21.png 21.png
+cCpResource build/Debug-iphonesimulator/Match.app/22.png 22.png
+cCpResource build/Debug-iphonesimulator/Match.app/30.png 30.png
+cCpResource build/Debug-iphonesimulator/Match.app/31.png 31.png
+cCpResource build/Debug-iphonesimulator/Match.app/32.png 32.png
+cProcessPCH /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Match_Prefix-atxzwaxfktojmsenpozweesgaokc/Match_Prefix.pch.gch Match_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Match.build/Debug-iphonesimulator/Match.build/Objects-normal/i386/main.o /Developer/nyu-iphone/Week-05-Homework/Match/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Match.build/Debug-iphonesimulator/Match.build/Objects-normal/i386/MatchAppDelegate.o /Developer/nyu-iphone/Week-05-Homework/Match/Classes/MatchAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Match.build/Debug-iphonesimulator/Match.build/Objects-normal/i386/View.o /Developer/nyu-iphone/Week-05-Homework/Match/Classes/View.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Match.build/Debug-iphonesimulator/Match.build/Objects-normal/i386/TileView.o /Developer/nyu-iphone/Week-05-Homework/Match/Classes/TileView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/Match normal i386
+cGenerateDSYMFile /Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app.dSYM /Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/Match
+cTouch /Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/00.png
+c000000004E1F089B00000000000077A5
+t1310656667
+s30629
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/01.png
+c000000004E1F05EB00000000000032DD
+t1310655979
+s13021
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/02.png
+c000000004E1F05D300000000000028CF
+t1310655955
+s10447
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/03.png
+c000000004E1F06200000000000002617
+t1310656032
+s9751
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/04.png
+c000000004E1F064E0000000000002052
+t1310656078
+s8274
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/05.png
+c000000004E1F086700000000000025B9
+t1310656615
+s9657
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/06.png
+c000000004E1F089B00000000000077A5
+t1310656667
+s30629
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/10.png
+c000000004E1F06200000000000002617
+t1310656032
+s9751
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/11.png
+c000000004E1F064E0000000000002052
+t1310656078
+s8274
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/12.png
+c000000004E1F086700000000000025B9
+t1310656615
+s9657
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/20.png
+c000000004E1F089B00000000000077A5
+t1310656667
+s30629
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/21.png
+c000000004E1F05D300000000000028CF
+t1310655955
+s10447
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/22.png
+c000000004E1F05EB00000000000032DD
+t1310655979
+s13021
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/30.png
+c000000004E1F06200000000000002617
+t1310656032
+s9751
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/31.png
+c000000004E1F064E0000000000002052
+t1310656078
+s8274
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/32.png
+c000000004E1F086700000000000025B9
+t1310656615
+s9657
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/Classes/MatchAppDelegate.h
+c000000004E1F12060000000000000164
+t1310659078
+s356
+i<UIKit/UIKit.h>
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/Classes/MatchAppDelegate.m
+c000000004E1F10DE0000000000000ABE
+t1310658782
+s2750
+i"MatchAppDelegate.h"
+i"View.h"
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/Classes/TileView.h
+c000000004E1F56E3000000000000016A
+t1310676707
+s362
+i<UIKit/UIKit.h>
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/Classes/TileView.m
+c000000004E1F5A9D00000000000006B1
+t1310677661
+s1713
+i"TileView.h"
+i"View.h"
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/Classes/View.h
+c000000004E1F11F700000000000001A5
+t1310659063
+s421
+i<UIKit/UIKit.h>
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/Classes/View.m
+c000000004E1F5A6000000000000007C1
+t1310677600
+s1985
+i"View.h"
+i"TileView.h"
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/MainWindow.xib
+c000000004E1F0B4F00000000000020FE
+t1310657359
+s8446
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/Match_Prefix.pch
+c000000004E1F0B4F00000000000000B3
+t1310657359
+s179
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app
+t1310677662
+s850
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app.dSYM
+t1310677662
+s102
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/00.png
+t1310666514
+s30629
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/01.png
+t1310659054
+s13021
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/02.png
+t1310659054
+s10447
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/03.png
+t1310659054
+s9751
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/04.png
+t1310659054
+s8274
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/05.png
+t1310659054
+s9657
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/06.png
+t1310659054
+s30629
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/10.png
+t1310668481
+s9751
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/11.png
+t1310668481
+s8274
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/12.png
+t1310668481
+s9657
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/20.png
+t1310668955
+s30629
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/21.png
+t1310668955
+s10447
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/22.png
+t1310668955
+s13021
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/30.png
+t1310668955
+s9751
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/31.png
+t1310668955
+s8274
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/32.png
+t1310668955
+s9657
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/Info.plist
+t1310659054
+s629
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/MainWindow.nib
+t1310659055
+s1529
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/Match
+t1310677662
+s23848
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/PkgInfo
+t1310659054
+s8
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/match114.png
+t1310659054
+s8607
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/match57.png
+t1310659054
+s4253
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/match72.png
+t1310659054
+s4976
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/Objects-normal/i386/Match.LinkFileList
+c000000004E1F13A40000000000000200
+t1310659492
+s512
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/Objects-normal/i386/MatchAppDelegate.o
+t1310659080
+s51544
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/Objects-normal/i386/TileView.o
+t1310677662
+s44724
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/Objects-normal/i386/View.o
+t1310677601
+s44940
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/Objects-normal/i386/main.o
+t1310659056
+s6504
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/main.m
+c000000004E1F0B7F000000000000017E
+t1310657407
+s382
+i<UIKit/UIKit.h>
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/match114.png
+c000000004E1F0CE3000000000000219F
+t1310657763
+s8607
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/match57.png
+c000000004E1F0D24000000000000109D
+t1310657828
+s4253
+
+N/Developer/nyu-iphone/Week-05-Homework/Match/match72.png
+c000000004E1F0CFF0000000000001370
+t1310657791
+s4976
+
+N/var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Match_Prefix-atxzwaxfktojmsenpozweesgaokc/Match_Prefix.pch.gch
+t1310659056
+s15814064
+
+NMatch-Info.plist
+c000000004E1F11EE00000000000003B9
+t1310659054
+s953
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies332370466#332370466#0(0"0(0#1#0"8621875552#0"0#
+
+CCompileC build/Match.build/Debug-iphonesimulator/Match.build/Objects-normal/i386/MatchAppDelegate.o /Developer/nyu-iphone/Week-05-Homework/Match/Classes/MatchAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332351880.013046
+e332351880.052949
+r1
+xCompileC
+xbuild/Match.build/Debug-iphonesimulator/Match.build/Objects-normal/i386/MatchAppDelegate.o
+x/Developer/nyu-iphone/Week-05-Homework/Match/Classes/MatchAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Developer/nyu-iphone/Week-05-Homework/Match/Classes/MatchAppDelegate.m332351880#332351880#0(0"0(0#0#71"/Developer/nyu-iphone/Week-05-Homework/Match/Classes/MatchAppDelegate.m8610111104#1978"    cd /Developer/nyu-iphone/Week-05-Homework/Match    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/Match-generated-files.hmap -I/Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/Match-own-target-headers.hmap -I/Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/Match-all-target-headers.hmap -iquote /Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/Match-project-headers.hmap -F/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator -I/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/include -I/Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/DerivedSources/i386 -I/Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/DerivedSources -include /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Match_Prefix-atxzwaxfktojmsenpozweesgaokc/Match_Prefix.pch -c /Developer/nyu-iphone/Week-05-Homework/Match/Classes/MatchAppDelegate.m -o /Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/Objects-normal/i386/MatchAppDelegate.o0#
+
+CCompileC build/Match.build/Debug-iphonesimulator/Match.build/Objects-normal/i386/TileView.o /Developer/nyu-iphone/Week-05-Homework/Match/Classes/TileView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332370462.323726
+e332370462.403895
+r1
+xCompileC
+xbuild/Match.build/Debug-iphonesimulator/Match.build/Objects-normal/i386/TileView.o
+x/Developer/nyu-iphone/Week-05-Homework/Match/Classes/TileView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Developer/nyu-iphone/Week-05-Homework/Match/Classes/TileView.m332370462#332370462#0(0"0(0#0#63"/Developer/nyu-iphone/Week-05-Homework/Match/Classes/TileView.m8635535392#1962"    cd /Developer/nyu-iphone/Week-05-Homework/Match    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/Match-generated-files.hmap -I/Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/Match-own-target-headers.hmap -I/Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/Match-all-target-headers.hmap -iquote /Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/Match-project-headers.hmap -F/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator -I/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/include -I/Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/DerivedSources/i386 -I/Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/DerivedSources -include /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Match_Prefix-atxzwaxfktojmsenpozweesgaokc/Match_Prefix.pch -c /Developer/nyu-iphone/Week-05-Homework/Match/Classes/TileView.m -o /Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/Objects-normal/i386/TileView.o0#
+
+CCompileC build/Match.build/Debug-iphonesimulator/Match.build/Objects-normal/i386/View.o /Developer/nyu-iphone/Week-05-Homework/Match/Classes/View.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332370401.203938
+e332370401.292809
+r1
+xCompileC
+xbuild/Match.build/Debug-iphonesimulator/Match.build/Objects-normal/i386/View.o
+x/Developer/nyu-iphone/Week-05-Homework/Match/Classes/View.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Developer/nyu-iphone/Week-05-Homework/Match/Classes/View.m332370401#332370401#0(0"0(0#0#59"/Developer/nyu-iphone/Week-05-Homework/Match/Classes/View.m8635945216#1954"    cd /Developer/nyu-iphone/Week-05-Homework/Match    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/Match-generated-files.hmap -I/Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/Match-own-target-headers.hmap -I/Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/Match-all-target-headers.hmap -iquote /Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/Match-project-headers.hmap -F/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator -I/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/include -I/Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/DerivedSources/i386 -I/Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/DerivedSources -include /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Match_Prefix-atxzwaxfktojmsenpozweesgaokc/Match_Prefix.pch -c /Developer/nyu-iphone/Week-05-Homework/Match/Classes/View.m -o /Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/Objects-normal/i386/View.o0#
+
+CCompileC build/Match.build/Debug-iphonesimulator/Match.build/Objects-normal/i386/main.o /Developer/nyu-iphone/Week-05-Homework/Match/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332351856.110225
+e332351856.215659
+r1
+xCompileC
+xbuild/Match.build/Debug-iphonesimulator/Match.build/Objects-normal/i386/main.o
+x/Developer/nyu-iphone/Week-05-Homework/Match/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Developer/nyu-iphone/Week-05-Homework/Match/main.m332351856#332351856#0(0"0(0#0#51"/Developer/nyu-iphone/Week-05-Homework/Match/main.m8621249184#1946"    cd /Developer/nyu-iphone/Week-05-Homework/Match    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/Match-generated-files.hmap -I/Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/Match-own-target-headers.hmap -I/Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/Match-all-target-headers.hmap -iquote /Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/Match-project-headers.hmap -F/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator -I/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/include -I/Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/DerivedSources/i386 -I/Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/DerivedSources -include /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Match_Prefix-atxzwaxfktojmsenpozweesgaokc/Match_Prefix.pch -c /Developer/nyu-iphone/Week-05-Homework/Match/main.m -o /Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Developer/nyu-iphone/Week-05-Homework/Match/MainWindow.xib
+s332351854.806360
+e332351855.051455
+r1
+xCompileXIB
+x/Developer/nyu-iphone/Week-05-Homework/Match/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib332351854#332351855#0(0"0(0#0#59"/Developer/nyu-iphone/Week-05-Homework/Match/MainWindow.xib8617714976#586"    cd /Developer/nyu-iphone/Week-05-Homework/Match    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/MainWindow.nib /Developer/nyu-iphone/Week-05-Homework/Match/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource build/Debug-iphonesimulator/Match.app/00.png 00.png
+s332359314.364858
+e332359314.385703
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Match.app/00.png
+x00.png
+lSLF07#2@11"Copy 00.png332359314#332359314#0(0"0(0#0#51"/Developer/nyu-iphone/Week-05-Homework/Match/00.png8625986080#480"    cd /Developer/nyu-iphone/Week-05-Homework/Match    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/nyu-iphone/Week-05-Homework/Match/00.png /Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app0#
+
+CCpResource build/Debug-iphonesimulator/Match.app/01.png 01.png
+s332351854.807504
+e332351854.839367
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Match.app/01.png
+x01.png
+lSLF07#2@11"Copy 01.png332351854#332351854#0(0"0(0#0#51"/Developer/nyu-iphone/Week-05-Homework/Match/01.png8607429440#480"    cd /Developer/nyu-iphone/Week-05-Homework/Match    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/nyu-iphone/Week-05-Homework/Match/01.png /Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app0#
+
+CCpResource build/Debug-iphonesimulator/Match.app/02.png 02.png
+s332351854.807952
+e332351854.838094
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Match.app/02.png
+x02.png
+lSLF07#2@11"Copy 02.png332351854#332351854#0(0"0(0#0#51"/Developer/nyu-iphone/Week-05-Homework/Match/02.png8618026944#480"    cd /Developer/nyu-iphone/Week-05-Homework/Match    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/nyu-iphone/Week-05-Homework/Match/02.png /Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app0#
+
+CCpResource build/Debug-iphonesimulator/Match.app/03.png 03.png
+s332351854.808328
+e332351854.838340
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Match.app/03.png
+x03.png
+lSLF07#2@11"Copy 03.png332351854#332351854#0(0"0(0#0#51"/Developer/nyu-iphone/Week-05-Homework/Match/03.png8600880032#480"    cd /Developer/nyu-iphone/Week-05-Homework/Match    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/nyu-iphone/Week-05-Homework/Match/03.png /Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app0#
+
+CCpResource build/Debug-iphonesimulator/Match.app/04.png 04.png
+s332351854.808783
+e332351854.839535
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Match.app/04.png
+x04.png
+lSLF07#2@11"Copy 04.png332351854#332351854#0(0"0(0#0#51"/Developer/nyu-iphone/Week-05-Homework/Match/04.png8619353984#480"    cd /Developer/nyu-iphone/Week-05-Homework/Match    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/nyu-iphone/Week-05-Homework/Match/04.png /Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app0#
+
+CCpResource build/Debug-iphonesimulator/Match.app/05.png 05.png
+s332351854.809371
+e332351854.838498
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Match.app/05.png
+x05.png
+lSLF07#2@11"Copy 05.png332351854#332351854#0(0"0(0#0#51"/Developer/nyu-iphone/Week-05-Homework/Match/05.png8617787328#480"    cd /Developer/nyu-iphone/Week-05-Homework/Match    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/nyu-iphone/Week-05-Homework/Match/05.png /Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app0#
+
+CCpResource build/Debug-iphonesimulator/Match.app/06.png 06.png
+s332351854.809963
+e332351854.838654
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Match.app/06.png
+x06.png
+lSLF07#2@11"Copy 06.png332351854#332351854#0(0"0(0#0#51"/Developer/nyu-iphone/Week-05-Homework/Match/06.png8610111168#480"    cd /Developer/nyu-iphone/Week-05-Homework/Match    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/nyu-iphone/Week-05-Homework/Match/06.png /Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app0#
+
+CCpResource build/Debug-iphonesimulator/Match.app/10.png 10.png
+s332361281.484395
+e332361281.560595
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Match.app/10.png
+x10.png
+lSLF07#2@11"Copy 10.png332361281#332361281#0(0"0(0#0#51"/Developer/nyu-iphone/Week-05-Homework/Match/10.png8635203968#480"    cd /Developer/nyu-iphone/Week-05-Homework/Match    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/nyu-iphone/Week-05-Homework/Match/10.png /Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app0#
+
+CCpResource build/Debug-iphonesimulator/Match.app/11.png 11.png
+s332361281.527305
+e332361281.560367
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Match.app/11.png
+x11.png
+lSLF07#2@11"Copy 11.png332361281#332361281#0(0"0(0#0#51"/Developer/nyu-iphone/Week-05-Homework/Match/11.png8630663168#480"    cd /Developer/nyu-iphone/Week-05-Homework/Match    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/nyu-iphone/Week-05-Homework/Match/11.png /Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app0#
+
+CCpResource build/Debug-iphonesimulator/Match.app/12.png 12.png
+s332361281.528174
+e332361281.560741
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Match.app/12.png
+x12.png
+lSLF07#2@11"Copy 12.png332361281#332361281#0(0"0(0#0#51"/Developer/nyu-iphone/Week-05-Homework/Match/12.png8620404064#480"    cd /Developer/nyu-iphone/Week-05-Homework/Match    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/nyu-iphone/Week-05-Homework/Match/12.png /Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app0#
+
+CCpResource build/Debug-iphonesimulator/Match.app/20.png 20.png
+s332361755.016738
+e332361755.020495
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Match.app/20.png
+x20.png
+lSLF07#2@11"Copy 20.png332361755#332361755#0(0"0(0#0#51"/Developer/nyu-iphone/Week-05-Homework/Match/20.png8635211392#480"    cd /Developer/nyu-iphone/Week-05-Homework/Match    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/nyu-iphone/Week-05-Homework/Match/20.png /Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app0#
+
+CCpResource build/Debug-iphonesimulator/Match.app/21.png 21.png
+s332361755.017276
+e332361755.020957
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Match.app/21.png
+x21.png
+lSLF07#2@11"Copy 21.png332361755#332361755#0(0"0(0#0#51"/Developer/nyu-iphone/Week-05-Homework/Match/21.png8632447456#480"    cd /Developer/nyu-iphone/Week-05-Homework/Match    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/nyu-iphone/Week-05-Homework/Match/21.png /Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app0#
+
+CCpResource build/Debug-iphonesimulator/Match.app/22.png 22.png
+s332361755.017686
+e332361755.021372
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Match.app/22.png
+x22.png
+lSLF07#2@11"Copy 22.png332361755#332361755#0(0"0(0#0#51"/Developer/nyu-iphone/Week-05-Homework/Match/22.png8630476064#480"    cd /Developer/nyu-iphone/Week-05-Homework/Match    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/nyu-iphone/Week-05-Homework/Match/22.png /Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app0#
+
+CCpResource build/Debug-iphonesimulator/Match.app/30.png 30.png
+s332361755.018117
+e332361755.021830
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Match.app/30.png
+x30.png
+lSLF07#2@11"Copy 30.png332361755#332361755#0(0"0(0#0#51"/Developer/nyu-iphone/Week-05-Homework/Match/30.png8626179520#480"    cd /Developer/nyu-iphone/Week-05-Homework/Match    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/nyu-iphone/Week-05-Homework/Match/30.png /Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app0#
+
+CCpResource build/Debug-iphonesimulator/Match.app/31.png 31.png
+s332361755.018770
+e332361755.022634
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Match.app/31.png
+x31.png
+lSLF07#2@11"Copy 31.png332361755#332361755#0(0"0(0#0#51"/Developer/nyu-iphone/Week-05-Homework/Match/31.png8622036832#480"    cd /Developer/nyu-iphone/Week-05-Homework/Match    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/nyu-iphone/Week-05-Homework/Match/31.png /Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app0#
+
+CCpResource build/Debug-iphonesimulator/Match.app/32.png 32.png
+s332361755.019380
+e332361755.023078
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Match.app/32.png
+x32.png
+lSLF07#2@11"Copy 32.png332361755#332361755#0(0"0(0#0#51"/Developer/nyu-iphone/Week-05-Homework/Match/32.png8621364032#480"    cd /Developer/nyu-iphone/Week-05-Homework/Match    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/nyu-iphone/Week-05-Homework/Match/32.png /Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app0#
+
+CCpResource build/Debug-iphonesimulator/Match.app/match114.png match114.png
+s332351854.811705
+e332351854.839161
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Match.app/match114.png
+xmatch114.png
+lSLF07#2@17"Copy match114.png332351854#332351854#0(0"0(0#0#57"/Developer/nyu-iphone/Week-05-Homework/Match/match114.png8613208384#486"    cd /Developer/nyu-iphone/Week-05-Homework/Match    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/nyu-iphone/Week-05-Homework/Match/match114.png /Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app0#
+
+CCpResource build/Debug-iphonesimulator/Match.app/match57.png match57.png
+s332351854.810563
+e332351854.838804
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Match.app/match57.png
+xmatch57.png
+lSLF07#2@16"Copy match57.png332351854#332351854#0(0"0(0#0#56"/Developer/nyu-iphone/Week-05-Homework/Match/match57.png8617950624#485"    cd /Developer/nyu-iphone/Week-05-Homework/Match    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/nyu-iphone/Week-05-Homework/Match/match57.png /Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app0#
+
+CCpResource build/Debug-iphonesimulator/Match.app/match72.png match72.png
+s332351854.811134
+e332351854.838973
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Match.app/match72.png
+xmatch72.png
+lSLF07#2@16"Copy match72.png332351854#332351854#0(0"0(0#0#56"/Developer/nyu-iphone/Week-05-Homework/Match/match72.png8619586880#485"    cd /Developer/nyu-iphone/Week-05-Homework/Match    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/nyu-iphone/Week-05-Homework/Match/match72.png /Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app0#
+
+CGenerateDSYMFile /Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app.dSYM /Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/Match
+s332370462.420134
+e332370462.431253
+r1
+xGenerateDSYMFile
+x/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app.dSYM
+x/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/Match
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/Match.app.dSYM build/Debug-iphonesimulator/Match.app/Match332370462#332370462#0(0"0(0#0#88"/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/Match8646731616#395"    cd /Developer/nyu-iphone/Week-05-Homework/Match    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/Match -o /Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app.dSYM0#
+
+CLd /Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/Match normal i386
+s332370462.403973
+e332370462.420062
+r1
+xLd
+x/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/Match
+xnormal
+xi386
+lSLF07#2@93"Link /Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/Match332370462#332370462#0(0"0(0#0#0"8647730656#920"    cd /Developer/nyu-iphone/Week-05-Homework/Match    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator -F/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator -filelist /Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/Objects-normal/i386/Match.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/Match0#
+
+CProcessInfoPlistFile /Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/Info.plist Match-Info.plist
+s332351854.720130
+e332351854.806288
+r1
+xProcessInfoPlistFile
+x/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/Info.plist
+xMatch-Info.plist
+lSLF07#2@24"Process Match-Info.plist332351854#332351854#0(0"0(0#0#61"/Developer/nyu-iphone/Week-05-Homework/Match/Match-Info.plist28429445101453416#491"    cd /Developer/nyu-iphone/Week-05-Homework/Match    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Match-Info.plist -genpkginfo /Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app/Info.plist0#
+
+CProcessPCH /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Match_Prefix-atxzwaxfktojmsenpozweesgaokc/Match_Prefix.pch.gch Match_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s332351855.051628
+e332351856.110098
+r1
+xProcessPCH
+x/var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Match_Prefix-atxzwaxfktojmsenpozweesgaokc/Match_Prefix.pch.gch
+xMatch_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile Match_Prefix.pch332351855#332351856#0(0"0(0#0#61"/Developer/nyu-iphone/Week-05-Homework/Match/Match_Prefix.pch8620915168#1834"    cd /Developer/nyu-iphone/Week-05-Homework/Match    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/Match-generated-files.hmap -I/Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/Match-own-target-headers.hmap -I/Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/Match-all-target-headers.hmap -iquote /Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/Match-project-headers.hmap -F/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator -I/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/include -I/Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/DerivedSources/i386 -I/Developer/nyu-iphone/Week-05-Homework/Match/build/Match.build/Debug-iphonesimulator/Match.build/DerivedSources -c /Developer/nyu-iphone/Week-05-Homework/Match/Match_Prefix.pch -o /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Match_Prefix-atxzwaxfktojmsenpozweesgaokc/Match_Prefix.pch.gch0#
+
+CTouch /Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app
+s332370462.431314
+e332370462.432856
+r1
+xTouch
+x/Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app
+lSLF07#2@88"Touch /Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app332370462#332370462#0(0"0(0#0#0"8645427104#288"    cd /Developer/nyu-iphone/Week-05-Homework/Match    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Developer/nyu-iphone/Week-05-Homework/Match/build/Debug-iphonesimulator/Match.app0#
+

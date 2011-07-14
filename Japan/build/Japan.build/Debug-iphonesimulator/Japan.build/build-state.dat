@@ -70,6 +70,108 @@ c00000000000000000000000000000000
 t2
 s0
 
+N/Developer/nyu-iphone/Japan/Classes/JapanAppDelegate.h
+c000000004E1B6FB70000000000000160
+t1310420919
+s352
+i<UIKit/UIKit.h>
+
+N/Developer/nyu-iphone/Japan/Classes/JapanAppDelegate.m
+c000000004E1B6FB70000000000000AB6
+t1310420919
+s2742
+i"JapanAppDelegate.h"
+i"View.h"
+
+N/Developer/nyu-iphone/Japan/Classes/View.h
+c000000004E1B6FB700000000000000C5
+t1310420919
+s197
+i<UIKit/UIKit.h>
+
+N/Developer/nyu-iphone/Japan/Classes/View.m
+c000000004E1B6FB700000000000011EC
+t1310420919
+s4588
+i"View.h"
+
+N/Developer/nyu-iphone/Japan/Japan_Prefix.pch
+c000000004E1B6FB700000000000000B3
+t1310420919
+s179
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Developer/nyu-iphone/Japan/build/Debug-iphonesimulator/Japan.app
+t1310420919
+s306
+
+N/Developer/nyu-iphone/Japan/build/Debug-iphonesimulator/Japan.app.dSYM
+t1310420919
+s102
+
+N/Developer/nyu-iphone/Japan/build/Debug-iphonesimulator/Japan.app/Info.plist
+t1310420919
+s628
+
+N/Developer/nyu-iphone/Japan/build/Debug-iphonesimulator/Japan.app/Japan
+t1310420919
+s17788
+
+N/Developer/nyu-iphone/Japan/build/Debug-iphonesimulator/Japan.app/PkgInfo
+t1310420919
+s8
+
+N/Developer/nyu-iphone/Japan/build/Debug-iphonesimulator/Japan.app/japan114.png
+t1310420919
+s1455
+
+N/Developer/nyu-iphone/Japan/build/Debug-iphonesimulator/Japan.app/japan57.png
+t1310420919
+s1825
+
+N/Developer/nyu-iphone/Japan/build/Debug-iphonesimulator/Japan.app/japan72.png
+t1310420919
+s1895
+
+N/Developer/nyu-iphone/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/Objects-normal/i386/Japan.LinkFileList
+c000000004E1B6FB7000000000000018F
+t1310420919
+s399
+
+N/Developer/nyu-iphone/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/Objects-normal/i386/JapanAppDelegate.o
+t1310420919
+s51492
+
+N/Developer/nyu-iphone/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/Objects-normal/i386/View.o
+t1310420919
+s41328
+
+N/Developer/nyu-iphone/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/Objects-normal/i386/main.o
+t1310420919
+s6512
+
+N/Developer/nyu-iphone/Japan/japan114.png
+c000000004E1B6FB700000000000005AF
+t1310420919
+s1455
+
+N/Developer/nyu-iphone/Japan/japan57.png
+c000000004E1B6FB70000000000000721
+t1310420919
+s1825
+
+N/Developer/nyu-iphone/Japan/japan72.png
+c000000004E1B6FB70000000000000767
+t1310420919
+s1895
+
+N/Developer/nyu-iphone/Japan/main.m
+c000000004E1B6FB7000000000000017E
+t1310420919
+s382
+i<UIKit/UIKit.h>
+
 N/Users/michaelfenimore/Documents/nyu-iphone/Japan/Classes/JapanAppDelegate.h
 c000000004E04FE840000000000000160
 t1308950148
@@ -206,6 +308,10 @@ t1308947992
 s382
 i<UIKit/UIKit.h>
 
+N/var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Japan_Prefix-dmyyadmkeefleifvsjxmlmdybfir/Japan_Prefix.pch.gch
+t2
+s0
+
 N/var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Japan_Prefix-conndmwamruzhxeqdceheyjcejcx/Japan_Prefix.pch.gch
 t1309037662
 s15814064
@@ -215,13 +321,16 @@ t2
 s0
 
 NJapan-Info.plist
-c000000004E06545A00000000000003B8
-t1309037658
+c000000004E1B6FB700000000000003B8
+t1310420919
 s952
 
 CCheck dependencies
 r0
 lSLF07#2@18"Check dependencies330730469#330730469#0(0"0(0#1#0"8609849088#0"0#
+
+CCompileC build/Japan.build/Debug-iphonesimulator/Japan.build/Objects-normal/i386/JapanAppDelegate.o /Developer/nyu-iphone/Japan/Classes/JapanAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
 
 CCompileC build/Japan.build/Debug-iphonesimulator/Japan.build/Objects-normal/i386/JapanAppDelegate.o /Users/michaelfenimore/Documents/nyu-iphone/Japan/Classes/JapanAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s330730462.396068
@@ -242,6 +351,9 @@ r0
 CCompileC build/Japan.build/Debug-iphonesimulator/Japan.build/Objects-normal/i386/View.o "/Developer/iPhone Applications/Japan/Japan/Classes/View.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
 
+CCompileC build/Japan.build/Debug-iphonesimulator/Japan.build/Objects-normal/i386/View.o /Developer/nyu-iphone/Japan/Classes/View.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/Japan.build/Debug-iphonesimulator/Japan.build/Objects-normal/i386/View.o /Users/michaelfenimore/Documents/nyu-iphone/Japan/Classes/View.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s330730462.396938
 e330730462.497312
@@ -254,6 +366,9 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@72"Compile /Users/michaelfenimore/Documents/nyu-iphone/Japan/Classes/View.m330730462#330730462#0(0"0(0#0#64"/Users/michaelfenimore/Documents/nyu-iphone/Japan/Classes/View.m8609941440#2003"    cd /Users/michaelfenimore/Documents/nyu-iphone/Japan    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/michaelfenimore/Documents/nyu-iphone/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/Japan-generated-files.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/Japan-own-target-headers.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/Japan-all-target-headers.hmap -iquote /Users/michaelfenimore/Documents/nyu-iphone/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/Japan-project-headers.hmap -F/Users/michaelfenimore/Documents/nyu-iphone/Japan/build/Debug-iphonesimulator -I/Users/michaelfenimore/Documents/nyu-iphone/Japan/build/Debug-iphonesimulator/include -I/Users/michaelfenimore/Documents/nyu-iphone/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/DerivedSources/i386 -I/Users/michaelfenimore/Documents/nyu-iphone/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/DerivedSources -include /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Japan_Prefix-conndmwamruzhxeqdceheyjcejcx/Japan_Prefix.pch -c /Users/michaelfenimore/Documents/nyu-iphone/Japan/Classes/View.m -o /Users/michaelfenimore/Documents/nyu-iphone/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/Objects-normal/i386/View.o0#
+
+CCompileC build/Japan.build/Debug-iphonesimulator/Japan.build/Objects-normal/i386/main.o /Developer/nyu-iphone/Japan/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
 
 CCompileC build/Japan.build/Debug-iphonesimulator/Japan.build/Objects-normal/i386/main.o /Users/michaelfenimore/Documents/nyu-iphone/Japan/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s330730462.395332
@@ -292,6 +407,9 @@ r0
 CCpResource build/Debug-iphonesimulator/Japan.app/japan72.png japan72.png
 r0
 
+CGenerateDSYMFile /Developer/nyu-iphone/Japan/build/Debug-iphonesimulator/Japan.app.dSYM /Developer/nyu-iphone/Japan/build/Debug-iphonesimulator/Japan.app/Japan
+r0
+
 CGenerateDSYMFile /Users/michaelfenimore/Documents/nyu-iphone/Japan/build/Debug-iphonesimulator/Japan.app.dSYM /Users/michaelfenimore/Documents/nyu-iphone/Japan/build/Debug-iphonesimulator/Japan.app/Japan
 s330730462.759732
 e330730462.842582
@@ -300,6 +418,9 @@ xGenerateDSYMFile
 x/Users/michaelfenimore/Documents/nyu-iphone/Japan/build/Debug-iphonesimulator/Japan.app.dSYM
 x/Users/michaelfenimore/Documents/nyu-iphone/Japan/build/Debug-iphonesimulator/Japan.app/Japan
 lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/Japan.app.dSYM build/Debug-iphonesimulator/Japan.app/Japan330730462#330730462#0(0"0(0#0#93"/Users/michaelfenimore/Documents/nyu-iphone/Japan/build/Debug-iphonesimulator/Japan.app/Japan8610776480#410"    cd /Users/michaelfenimore/Documents/nyu-iphone/Japan    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/michaelfenimore/Documents/nyu-iphone/Japan/build/Debug-iphonesimulator/Japan.app/Japan -o /Users/michaelfenimore/Documents/nyu-iphone/Japan/build/Debug-iphonesimulator/Japan.app.dSYM0#
+
+CLd /Developer/nyu-iphone/Japan/build/Debug-iphonesimulator/Japan.app/Japan normal i386
+r0
 
 CLd /Users/michaelfenimore/Documents/nyu-iphone/Japan/build/Debug-iphonesimulator/Japan.app/Japan normal i386
 s330730462.498232
@@ -311,6 +432,9 @@ xnormal
 xi386
 lSLF07#2@98"Link /Users/michaelfenimore/Documents/nyu-iphone/Japan/build/Debug-iphonesimulator/Japan.app/Japan330730462#330730462#0(0"0(0#0#0"8607499552#945"    cd /Users/michaelfenimore/Documents/nyu-iphone/Japan    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/michaelfenimore/Documents/nyu-iphone/Japan/build/Debug-iphonesimulator -F/Users/michaelfenimore/Documents/nyu-iphone/Japan/build/Debug-iphonesimulator -filelist /Users/michaelfenimore/Documents/nyu-iphone/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/Objects-normal/i386/Japan.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/michaelfenimore/Documents/nyu-iphone/Japan/build/Debug-iphonesimulator/Japan.app/Japan0#
 
+CProcessInfoPlistFile /Developer/nyu-iphone/Japan/build/Debug-iphonesimulator/Japan.app/Info.plist Japan-Info.plist
+r0
+
 CProcessInfoPlistFile /Users/michaelfenimore/Documents/nyu-iphone/Japan/build/Debug-iphonesimulator/Japan.app/Info.plist Japan-Info.plist
 s330730461.796142
 e330730461.805392
@@ -319,6 +443,9 @@ xProcessInfoPlistFile
 x/Users/michaelfenimore/Documents/nyu-iphone/Japan/build/Debug-iphonesimulator/Japan.app/Info.plist
 xJapan-Info.plist
 lSLF07#2@24"Process Japan-Info.plist330730461#330730461#0(0"0(0#0#66"/Users/michaelfenimore/Documents/nyu-iphone/Japan/Japan-Info.plist29555065834897524#506"    cd /Users/michaelfenimore/Documents/nyu-iphone/Japan    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Japan-Info.plist -genpkginfo /Users/michaelfenimore/Documents/nyu-iphone/Japan/build/Debug-iphonesimulator/Japan.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/michaelfenimore/Documents/nyu-iphone/Japan/build/Debug-iphonesimulator/Japan.app/Info.plist0#
+
+CProcessPCH /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Japan_Prefix-dmyyadmkeefleifvsjxmlmdybfir/Japan_Prefix.pch.gch Japan_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
 
 CProcessPCH /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Japan_Prefix-conndmwamruzhxeqdceheyjcejcx/Japan_Prefix.pch.gch Japan_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
 s330730461.805630
@@ -334,6 +461,9 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@27"Precompile Japan_Prefix.pch330730461#330730462#0(0"0(0#0#66"/Users/michaelfenimore/Documents/nyu-iphone/Japan/Japan_Prefix.pch8607052288#1878"    cd /Users/michaelfenimore/Documents/nyu-iphone/Japan    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/michaelfenimore/Documents/nyu-iphone/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/Japan-generated-files.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/Japan-own-target-headers.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/Japan-all-target-headers.hmap -iquote /Users/michaelfenimore/Documents/nyu-iphone/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/Japan-project-headers.hmap -F/Users/michaelfenimore/Documents/nyu-iphone/Japan/build/Debug-iphonesimulator -I/Users/michaelfenimore/Documents/nyu-iphone/Japan/build/Debug-iphonesimulator/include -I/Users/michaelfenimore/Documents/nyu-iphone/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/DerivedSources/i386 -I/Users/michaelfenimore/Documents/nyu-iphone/Japan/build/Japan.build/Debug-iphonesimulator/Japan.build/DerivedSources -c /Users/michaelfenimore/Documents/nyu-iphone/Japan/Japan_Prefix.pch -o /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Japan_Prefix-conndmwamruzhxeqdceheyjcejcx/Japan_Prefix.pch.gch0#
 
 CProcessPCH /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Japan_Prefix-gmctsvkljtbdzzbwwcpxibuoxtko/Japan_Prefix.pch.gch Japan_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Developer/nyu-iphone/Japan/build/Debug-iphonesimulator/Japan.app
 r0
 
 CTouch /Users/michaelfenimore/Documents/nyu-iphone/Japan/build/Debug-iphonesimulator/Japan.app

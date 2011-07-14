@@ -17,7 +17,7 @@
     self = [super initWithFrame:frame];
     if (self) {
         // Initialization code.
-		self.backgroundColor = [UIColor greenColor];
+		self.backgroundColor = [UIColor colorWithPatternImage:[UIImage imageNamed:@"king.png"]];
     }
     return self;
 }
@@ -26,8 +26,8 @@
 // An empty implementation adversely affects performance during animation.
 - (void)drawRect:(CGRect)rect {
     // Drawing code.
-	UIFont *myFont = [UIFont systemFontOfSize:32];
-	[@"LittleView2" drawAtPoint:CGPointZero withFont:myFont];
+	UIFont *myFont = [UIFont systemFontOfSize:12];
+	[@"View2" drawAtPoint:CGPointZero withFont:myFont];
 }
 
 - (void)dealloc {

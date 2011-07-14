@@ -20,6 +20,9 @@
 		AD594AD913CCEF6700DA2CB7 /* flipflop72.png in Resources */ = {isa = PBXBuildFile; fileRef = AD594AD613CCEF6700DA2CB7 /* flipflop72.png */; };
 		AD594ADA13CCEF6700DA2CB7 /* flipflop114.png in Resources */ = {isa = PBXBuildFile; fileRef = AD594AD713CCEF6700DA2CB7 /* flipflop114.png */; };
 		AD594AE113CCEFDB00DA2CB7 /* LittleView2.m in Sources */ = {isa = PBXBuildFile; fileRef = AD594AE013CCEFDB00DA2CB7 /* LittleView2.m */; };
+		ADC3404C13CF936F008CECBC /* jack.png in Resources */ = {isa = PBXBuildFile; fileRef = ADC3404913CF936F008CECBC /* jack.png */; };
+		ADC3404D13CF936F008CECBC /* king.png in Resources */ = {isa = PBXBuildFile; fileRef = ADC3404A13CF936F008CECBC /* king.png */; };
+		ADC3404E13CF936F008CECBC /* queen.png in Resources */ = {isa = PBXBuildFile; fileRef = ADC3404B13CF936F008CECBC /* queen.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +47,9 @@
 		AD594AD713CCEF6700DA2CB7 /* flipflop114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = flipflop114.png; path = "nyu-iphone/Flip/flipflop114.png"; sourceTree = DEVELOPER_DIR; };
 		AD594ADF13CCEFDB00DA2CB7 /* LittleView2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LittleView2.h; path = "nyu-iphone/Flip/Classes/LittleView2.h"; sourceTree = DEVELOPER_DIR; };
 		AD594AE013CCEFDB00DA2CB7 /* LittleView2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LittleView2.m; path = "nyu-iphone/Flip/Classes/LittleView2.m"; sourceTree = DEVELOPER_DIR; };
+		ADC3404913CF936F008CECBC /* jack.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jack.png; sourceTree = SOURCE_ROOT; };
+		ADC3404A13CF936F008CECBC /* king.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = king.png; sourceTree = SOURCE_ROOT; };
+		ADC3404B13CF936F008CECBC /* queen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = queen.png; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +106,9 @@
 		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
 			isa = PBXGroup;
 			children = (
+				ADC3404913CF936F008CECBC /* jack.png */,
+				ADC3404A13CF936F008CECBC /* king.png */,
+				ADC3404B13CF936F008CECBC /* queen.png */,
 				AD594AD513CCEF6700DA2CB7 /* flipflop57.png */,
 				AD594AD613CCEF6700DA2CB7 /* flipflop72.png */,
 				AD594AD713CCEF6700DA2CB7 /* flipflop114.png */,
@@ -181,6 +190,9 @@
 				AD594AD813CCEF6700DA2CB7 /* flipflop57.png in Resources */,
 				AD594AD913CCEF6700DA2CB7 /* flipflop72.png in Resources */,
 				AD594ADA13CCEF6700DA2CB7 /* flipflop114.png in Resources */,
+				ADC3404C13CF936F008CECBC /* jack.png in Resources */,
+				ADC3404D13CF936F008CECBC /* king.png in Resources */,
+				ADC3404E13CF936F008CECBC /* queen.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
