@@ -43,7 +43,7 @@
 	CGContextStrokePath(c);
 }
 
--(void) clearPath {
+- (void) clearPath {
 	CGPathRelease(drawing);
 	drawing = CGPathCreateMutable();
 	[self setNeedsDisplay];

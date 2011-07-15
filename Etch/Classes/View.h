@@ -13,4 +13,6 @@
 	CGMutablePathRef drawing;
 }
 
+- (void) clearPath;
+
 @end

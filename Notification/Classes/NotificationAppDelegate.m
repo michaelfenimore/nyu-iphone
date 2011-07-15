@@ -3,7 +3,7 @@
 //  Notification
 //
 //  Created by Computer Lab 1040 on 07/14/11.
-//  Copyright 2011 __MyCompanyName__. All rights reserved.
+//  Copyright 2011 --MichaelFenimore--. All rights reserved.
 //
 
 #import "NotificationAppDelegate.h"
@@ -20,16 +20,17 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {    
     
     // Override point for customization after application launch.
-    UIScreen *s = [UIScreen mainScreen];
+    UIScreen *theScreen = [UIScreen mainScreen];
 	
-	myView = [[View alloc] initWithFrame: s.applicationFrame];
-	window = [[UIWindow alloc] initWithFrame: s.bounds];
+	myView = [[View alloc] initWithFrame: theScreen.applicationFrame];
+	window = [[UIWindow alloc] initWithFrame: theScreen.bounds];
 	
 	device = [UIDevice currentDevice];
 	NSNotificationCenter *center = [NSNotificationCenter defaultCenter];
 	
 	[center addObserver: myView
-			   selector: @selector(orientationChanged:)
+			   //selector: @selector(orientationChanged:)
+			   selector: @selector(setNeedsDisplay)
 				   name: UIDeviceOrientationDidChangeNotification
 				 object: device
 	 ];
@@ -92,6 +93,7 @@
 
 - (void)dealloc {
 	[device endGeneratingDeviceOrientationNotifications];
+	[[NSNotificationCenter defaultCenter] removeObserver:myView];
 	[myView release];
     [window release];
     [super dealloc];

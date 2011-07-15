@@ -3,7 +3,7 @@
 //  Notification
 //
 //  Created by Computer Lab 1040 on 07/14/11.
-//  Copyright 2011 __MyCompanyName__. All rights reserved.
+//  Copyright 2011 --MichaelFenimore--. All rights reserved.
 //
 
 #import "View.h"
@@ -22,9 +22,10 @@
     return self;
 }
 
-- (void) orientationChanged: (NSNotification *) n {
-	[self setNeedsDisplay];	//calls drawRect:
-}
+// not needed as added to the selector in NotificationAppDelegate.m
+//- (void) orientationChanged: (NSNotification *) n {
+//	[self setNeedsDisplay];	//calls drawRect:
+//}
 
 // Only override drawRect: if you perform custom drawing.
 // An empty implementation adversely affects performance during animation.
@@ -42,9 +43,9 @@
 				  ];
 	
 	NSString *s = [a objectAtIndex: [UIDevice currentDevice].orientation];
-	UIFont *f = [UIFont systemFontOfSize: 32.0];
+	UIFont *fontSize = [UIFont systemFontOfSize: 32.0];
 	CGPoint p = CGPointZero;
-	[s drawAtPoint: p withFont: f];
+	[s drawAtPoint: p withFont: fontSize];
 }
 
 - (void)dealloc {

@@ -14,6 +14,9 @@
 		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
 		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
 		9513D26913CFA76100C79C04 /* View.m in Sources */ = {isa = PBXBuildFile; fileRef = 9513D26813CFA76100C79C04 /* View.m */; };
+		AD4A440213D0D712004BA23E /* etch72.png in Resources */ = {isa = PBXBuildFile; fileRef = AD4A440013D0D712004BA23E /* etch72.png */; };
+		AD4A440313D0D712004BA23E /* etch114.png in Resources */ = {isa = PBXBuildFile; fileRef = AD4A440113D0D712004BA23E /* etch114.png */; };
+		AD4A440713D0D72B004BA23E /* etch57.png in Resources */ = {isa = PBXBuildFile; fileRef = AD4A440613D0D72B004BA23E /* etch57.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +32,9 @@
 		8D1107310486CEB800E47090 /* Etch-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Etch-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
 		9513D26713CFA76100C79C04 /* View.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = View.h; sourceTree = "<group>"; };
 		9513D26813CFA76100C79C04 /* View.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = View.m; sourceTree = "<group>"; };
+		AD4A440013D0D712004BA23E /* etch72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = etch72.png; path = "nyu-iphone/Etch/etch72.png"; sourceTree = DEVELOPER_DIR; };
+		AD4A440113D0D712004BA23E /* etch114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = etch114.png; path = "nyu-iphone/Etch/etch114.png"; sourceTree = DEVELOPER_DIR; };
+		AD4A440613D0D72B004BA23E /* etch57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = etch57.png; path = "nyu-iphone/Etch/etch57.png"; sourceTree = DEVELOPER_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +85,9 @@
 		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
 			isa = PBXGroup;
 			children = (
+				AD4A440613D0D72B004BA23E /* etch57.png */,
+				AD4A440013D0D712004BA23E /* etch72.png */,
+				AD4A440113D0D712004BA23E /* etch114.png */,
 				32CA4F630368D1EE00C91783 /* Etch_Prefix.pch */,
 				29B97316FDCFA39411CA2CEA /* main.m */,
 			);
@@ -154,6 +163,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				AD4A440213D0D712004BA23E /* etch72.png in Resources */,
+				AD4A440313D0D712004BA23E /* etch114.png in Resources */,
+				AD4A440713D0D72B004BA23E /* etch57.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

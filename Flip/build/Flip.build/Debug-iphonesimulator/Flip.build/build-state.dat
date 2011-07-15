@@ -1,7 +1,7 @@
 TFlip
 v7
 r0
-t332370958.515344
+t332452785.425882
 cCheck dependencies
 cProcessInfoPlistFile /Developer/nyu-iphone/Flip/build/Debug-iphonesimulator/Flip.app/Info.plist Flip-Info.plist
 cCompileXIB /Developer/nyu-iphone/Flip/MainWindow.xib
@@ -59,8 +59,8 @@ s402
 i<UIKit/UIKit.h>
 
 N/Developer/nyu-iphone/Flip/Classes/BigView.m
-c000000004E1E16570000000000000C58
-t1310594647
+c000000004E209C750000000000000C58
+t1310760053
 s3160
 i"BigView.h"
 i"LittleView0.h"
@@ -129,15 +129,15 @@ t1310594647
 s8441
 
 N/Developer/nyu-iphone/Flip/build/Debug-iphonesimulator/Flip.app
-t1310678158
+t1310759985
 s408
 
 N/Developer/nyu-iphone/Flip/build/Debug-iphonesimulator/Flip.app.dSYM
-t1310678158
+t1310759985
 s102
 
 N/Developer/nyu-iphone/Flip/build/Debug-iphonesimulator/Flip.app/Flip
-t1310678158
+t1310759985
 s23932
 
 N/Developer/nyu-iphone/Flip/build/Debug-iphonesimulator/Flip.app/Info.plist
@@ -177,7 +177,7 @@ t1310678101
 s72437
 
 N/Developer/nyu-iphone/Flip/build/Flip.build/Debug-iphonesimulator/Flip.build/Objects-normal/i386/BigView.o
-t1310666498
+t1310759985
 s48880
 
 N/Developer/nyu-iphone/Flip/build/Flip.build/Debug-iphonesimulator/Flip.build/Objects-normal/i386/Flip.LinkFileList
@@ -252,11 +252,11 @@ s1017
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies332370958#332370958#0(0"0(0#1#0"8632628224#0"0#
+lSLF07#2@18"Check dependencies332452785#332452785#0(0"0(0#1#0"8613794240#0"0#
 
 CCompileC build/Flip.build/Debug-iphonesimulator/Flip.build/Objects-normal/i386/BigView.o /Developer/nyu-iphone/Flip/Classes/BigView.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s332359298.892158
-e332359298.959442
+s332452785.299010
+e332452785.394630
 r1
 xCompileC
 xbuild/Flip.build/Debug-iphonesimulator/Flip.build/Objects-normal/i386/BigView.o
@@ -265,7 +265,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@52"Compile /Developer/nyu-iphone/Flip/Classes/BigView.m332359298#332359298#0(0"0(0#0#44"/Developer/nyu-iphone/Flip/Classes/BigView.m8619779456#1742"    cd /Developer/nyu-iphone/Flip    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Developer/nyu-iphone/Flip/build/Flip.build/Debug-iphonesimulator/Flip.build/Flip-generated-files.hmap -I/Developer/nyu-iphone/Flip/build/Flip.build/Debug-iphonesimulator/Flip.build/Flip-own-target-headers.hmap -I/Developer/nyu-iphone/Flip/build/Flip.build/Debug-iphonesimulator/Flip.build/Flip-all-target-headers.hmap -iquote /Developer/nyu-iphone/Flip/build/Flip.build/Debug-iphonesimulator/Flip.build/Flip-project-headers.hmap -F/Developer/nyu-iphone/Flip/build/Debug-iphonesimulator -I/Developer/nyu-iphone/Flip/build/Debug-iphonesimulator/include -I/Developer/nyu-iphone/Flip/build/Flip.build/Debug-iphonesimulator/Flip.build/DerivedSources/i386 -I/Developer/nyu-iphone/Flip/build/Flip.build/Debug-iphonesimulator/Flip.build/DerivedSources -include /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Flip_Prefix-gatbhmxlmhvwnhgaakybcxpjfcvw/Flip_Prefix.pch -c /Developer/nyu-iphone/Flip/Classes/BigView.m -o /Developer/nyu-iphone/Flip/build/Flip.build/Debug-iphonesimulator/Flip.build/Objects-normal/i386/BigView.o0#
+lSLF07#2@52"Compile /Developer/nyu-iphone/Flip/Classes/BigView.m332452785#332452785#0(0"0(0#0#44"/Developer/nyu-iphone/Flip/Classes/BigView.m8611800192#1742"    cd /Developer/nyu-iphone/Flip    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Developer/nyu-iphone/Flip/build/Flip.build/Debug-iphonesimulator/Flip.build/Flip-generated-files.hmap -I/Developer/nyu-iphone/Flip/build/Flip.build/Debug-iphonesimulator/Flip.build/Flip-own-target-headers.hmap -I/Developer/nyu-iphone/Flip/build/Flip.build/Debug-iphonesimulator/Flip.build/Flip-all-target-headers.hmap -iquote /Developer/nyu-iphone/Flip/build/Flip.build/Debug-iphonesimulator/Flip.build/Flip-project-headers.hmap -F/Developer/nyu-iphone/Flip/build/Debug-iphonesimulator -I/Developer/nyu-iphone/Flip/build/Debug-iphonesimulator/include -I/Developer/nyu-iphone/Flip/build/Flip.build/Debug-iphonesimulator/Flip.build/DerivedSources/i386 -I/Developer/nyu-iphone/Flip/build/Flip.build/Debug-iphonesimulator/Flip.build/DerivedSources -include /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Flip_Prefix-gatbhmxlmhvwnhgaakybcxpjfcvw/Flip_Prefix.pch -c /Developer/nyu-iphone/Flip/Classes/BigView.m -o /Developer/nyu-iphone/Flip/build/Flip.build/Debug-iphonesimulator/Flip.build/Objects-normal/i386/BigView.o0#
 
 CCompileC build/Flip.build/Debug-iphonesimulator/Flip.build/Objects-normal/i386/FlipAppDelegate.o /Developer/nyu-iphone/Flip/Classes/FlipAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s332359298.890604
@@ -395,23 +395,23 @@ xqueen.png
 lSLF07#2@14"Copy queen.png332370901#332370901#0(0"0(0#0#36"/Developer/nyu-iphone/Flip/queen.png8632746656#428"    cd /Developer/nyu-iphone/Flip    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/nyu-iphone/Flip/queen.png /Developer/nyu-iphone/Flip/build/Debug-iphonesimulator/Flip.app0#
 
 CGenerateDSYMFile /Developer/nyu-iphone/Flip/build/Debug-iphonesimulator/Flip.app.dSYM /Developer/nyu-iphone/Flip/build/Debug-iphonesimulator/Flip.app/Flip
-s332370958.499840
-e332370958.513714
+s332452785.410564
+e332452785.424265
 r1
 xGenerateDSYMFile
 x/Developer/nyu-iphone/Flip/build/Debug-iphonesimulator/Flip.app.dSYM
 x/Developer/nyu-iphone/Flip/build/Debug-iphonesimulator/Flip.app/Flip
-lSLF07#2@100"GenerateDSYMFile build/Debug-iphonesimulator/Flip.app.dSYM build/Debug-iphonesimulator/Flip.app/Flip332370958#332370958#0(0"0(0#0#68"/Developer/nyu-iphone/Flip/build/Debug-iphonesimulator/Flip.app/Flip8634748640#338"    cd /Developer/nyu-iphone/Flip    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Developer/nyu-iphone/Flip/build/Debug-iphonesimulator/Flip.app/Flip -o /Developer/nyu-iphone/Flip/build/Debug-iphonesimulator/Flip.app.dSYM0#
+lSLF07#2@100"GenerateDSYMFile build/Debug-iphonesimulator/Flip.app.dSYM build/Debug-iphonesimulator/Flip.app/Flip332452785#332452785#0(0"0(0#0#68"/Developer/nyu-iphone/Flip/build/Debug-iphonesimulator/Flip.app/Flip8614114208#338"    cd /Developer/nyu-iphone/Flip    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Developer/nyu-iphone/Flip/build/Debug-iphonesimulator/Flip.app/Flip -o /Developer/nyu-iphone/Flip/build/Debug-iphonesimulator/Flip.app.dSYM0#
 
 CLd /Developer/nyu-iphone/Flip/build/Debug-iphonesimulator/Flip.app/Flip normal i386
-s332370958.483869
-e332370958.499767
+s332452785.394701
+e332452785.410487
 r1
 xLd
 x/Developer/nyu-iphone/Flip/build/Debug-iphonesimulator/Flip.app/Flip
 xnormal
 xi386
-lSLF07#2@73"Link /Developer/nyu-iphone/Flip/build/Debug-iphonesimulator/Flip.app/Flip332370958#332370958#0(0"0(0#0#0"8643821472#825"    cd /Developer/nyu-iphone/Flip    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Developer/nyu-iphone/Flip/build/Debug-iphonesimulator -F/Developer/nyu-iphone/Flip/build/Debug-iphonesimulator -filelist /Developer/nyu-iphone/Flip/build/Flip.build/Debug-iphonesimulator/Flip.build/Objects-normal/i386/Flip.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Developer/nyu-iphone/Flip/build/Debug-iphonesimulator/Flip.app/Flip0#
+lSLF07#2@73"Link /Developer/nyu-iphone/Flip/build/Debug-iphonesimulator/Flip.app/Flip332452785#332452785#0(0"0(0#0#0"8614189216#825"    cd /Developer/nyu-iphone/Flip    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Developer/nyu-iphone/Flip/build/Debug-iphonesimulator -F/Developer/nyu-iphone/Flip/build/Debug-iphonesimulator -filelist /Developer/nyu-iphone/Flip/build/Flip.build/Debug-iphonesimulator/Flip.build/Objects-normal/i386/Flip.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Developer/nyu-iphone/Flip/build/Debug-iphonesimulator/Flip.app/Flip0#
 
 CProcessInfoPlistFile /Developer/nyu-iphone/Flip/build/Debug-iphonesimulator/Flip.app/Info.plist Flip-Info.plist
 s332197778.190062
@@ -436,10 +436,10 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@26"Precompile Flip_Prefix.pch332359298#332359298#0(0"0(0#0#42"/Developer/nyu-iphone/Flip/Flip_Prefix.pch8632117920#1635"    cd /Developer/nyu-iphone/Flip    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Developer/nyu-iphone/Flip/build/Flip.build/Debug-iphonesimulator/Flip.build/Flip-generated-files.hmap -I/Developer/nyu-iphone/Flip/build/Flip.build/Debug-iphonesimulator/Flip.build/Flip-own-target-headers.hmap -I/Developer/nyu-iphone/Flip/build/Flip.build/Debug-iphonesimulator/Flip.build/Flip-all-target-headers.hmap -iquote /Developer/nyu-iphone/Flip/build/Flip.build/Debug-iphonesimulator/Flip.build/Flip-project-headers.hmap -F/Developer/nyu-iphone/Flip/build/Debug-iphonesimulator -I/Developer/nyu-iphone/Flip/build/Debug-iphonesimulator/include -I/Developer/nyu-iphone/Flip/build/Flip.build/Debug-iphonesimulator/Flip.build/DerivedSources/i386 -I/Developer/nyu-iphone/Flip/build/Flip.build/Debug-iphonesimulator/Flip.build/DerivedSources -c /Developer/nyu-iphone/Flip/Flip_Prefix.pch -o /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Flip_Prefix-gatbhmxlmhvwnhgaakybcxpjfcvw/Flip_Prefix.pch.gch0#
 
 CTouch /Developer/nyu-iphone/Flip/build/Debug-iphonesimulator/Flip.app
-s332370958.513784
-e332370958.515321
+s332452785.424325
+e332452785.425856
 r1
 xTouch
 x/Developer/nyu-iphone/Flip/build/Debug-iphonesimulator/Flip.app
-lSLF07#2@69"Touch /Developer/nyu-iphone/Flip/build/Debug-iphonesimulator/Flip.app332370958#332370958#0(0"0(0#0#0"8634682848#251"    cd /Developer/nyu-iphone/Flip    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Developer/nyu-iphone/Flip/build/Debug-iphonesimulator/Flip.app0#
+lSLF07#2@69"Touch /Developer/nyu-iphone/Flip/build/Debug-iphonesimulator/Flip.app332452785#332452785#0(0"0(0#0#0"8613667616#251"    cd /Developer/nyu-iphone/Flip    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Developer/nyu-iphone/Flip/build/Debug-iphonesimulator/Flip.app0#
 

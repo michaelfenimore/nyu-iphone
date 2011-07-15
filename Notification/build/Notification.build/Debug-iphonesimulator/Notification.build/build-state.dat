@@ -1,17 +1,20 @@
 TNotification
 v7
 r0
-t332384041.179236
+t332456055.920317
 cCheck dependencies
-cProcessInfoPlistFile /Volumes/MAC/iPhone/Notification/build/Debug-iphonesimulator/Notification.app/Info.plist Notification-Info.plist
-cCompileXIB /Volumes/MAC/iPhone/Notification/MainWindow.xib
-cProcessPCH /var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Notification_Prefix-gdawdhzvpvwtlaemicewbydlvczh/Notification_Prefix.pch.gch Notification_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Notification.build/Debug-iphonesimulator/Notification.build/Objects-normal/i386/main.o /Volumes/MAC/iPhone/Notification/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Notification.build/Debug-iphonesimulator/Notification.build/Objects-normal/i386/NotificationAppDelegate.o /Volumes/MAC/iPhone/Notification/Classes/NotificationAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Notification.build/Debug-iphonesimulator/Notification.build/Objects-normal/i386/View.o /Volumes/MAC/iPhone/Notification/Classes/View.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Volumes/MAC/iPhone/Notification/build/Debug-iphonesimulator/Notification.app/Notification normal i386
-cGenerateDSYMFile /Volumes/MAC/iPhone/Notification/build/Debug-iphonesimulator/Notification.app.dSYM /Volumes/MAC/iPhone/Notification/build/Debug-iphonesimulator/Notification.app/Notification
-cTouch /Volumes/MAC/iPhone/Notification/build/Debug-iphonesimulator/Notification.app
+cProcessInfoPlistFile /Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/Notification.app/Info.plist Notification-Info.plist
+cCompileXIB /Developer/nyu-iphone/Notification/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/Notification.app/notify57.png notify57.png
+cCpResource build/Debug-iphonesimulator/Notification.app/notify72.png notify72.png
+cCpResource build/Debug-iphonesimulator/Notification.app/notify114.png notify114.png
+cProcessPCH /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Notification_Prefix-gtruxjimoalpasgeazxcypwmqdas/Notification_Prefix.pch.gch Notification_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Notification.build/Debug-iphonesimulator/Notification.build/Objects-normal/i386/main.o /Developer/nyu-iphone/Notification/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Notification.build/Debug-iphonesimulator/Notification.build/Objects-normal/i386/NotificationAppDelegate.o /Developer/nyu-iphone/Notification/Classes/NotificationAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Notification.build/Debug-iphonesimulator/Notification.build/Objects-normal/i386/View.o /Developer/nyu-iphone/Notification/Classes/View.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/Notification.app/Notification normal i386
+cGenerateDSYMFile /Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/Notification.app.dSYM /Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/Notification.app/Notification
+cTouch /Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/Notification.app
 
 N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
 c000000004D5C9B4E0000000000000110
@@ -42,6 +45,117 @@ N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3
 c000000004D5616030000000000766870
 t1297487363
 s7759984
+
+N/Developer/nyu-iphone/Notification/Classes/NotificationAppDelegate.h
+c000000004E20A463000000000000018B
+t1310762083
+s395
+i<UIKit/UIKit.h>
+
+N/Developer/nyu-iphone/Notification/Classes/NotificationAppDelegate.m
+c000000004E20A9C80000000000000CC2
+t1310763464
+s3266
+i"NotificationAppDelegate.h"
+i"View.h"
+
+N/Developer/nyu-iphone/Notification/Classes/View.h
+c000000004E20A8F20000000000000104
+t1310763250
+s260
+i<UIKit/UIKit.h>
+
+N/Developer/nyu-iphone/Notification/Classes/View.m
+c000000004E20A86600000000000004E0
+t1310763110
+s1248
+i"View.h"
+
+N/Developer/nyu-iphone/Notification/MainWindow.xib
+c000000004E2099B20000000000002121
+t1310759346
+s8481
+
+N/Developer/nyu-iphone/Notification/Notification_Prefix.pch
+c000000004E2099B200000000000000C1
+t1310759346
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/Notification.app
+t1310763251
+s306
+
+N/Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/Notification.app.dSYM
+t1310763251
+s102
+
+N/Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/Notification.app/Info.plist
+t1310762439
+s656
+
+N/Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/Notification.app/MainWindow.nib
+t1310759346
+s1536
+
+N/Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/Notification.app/Notification
+t1310763251
+s17536
+
+N/Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/Notification.app/PkgInfo
+t1310762439
+s8
+
+N/Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/Notification.app/notify114.png
+t1310762439
+s5993
+
+N/Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/Notification.app/notify57.png
+t1310762439
+s3507
+
+N/Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/Notification.app/notify72.png
+t1310762439
+s4098
+
+N/Developer/nyu-iphone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Objects-normal/i386/Notification.LinkFileList
+c000000004E20A5C70000000000000193
+t1310762439
+s403
+
+N/Developer/nyu-iphone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Objects-normal/i386/NotificationAppDelegate.o
+t1310763251
+s53796
+
+N/Developer/nyu-iphone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Objects-normal/i386/View.o
+t1310763251
+s40604
+
+N/Developer/nyu-iphone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Objects-normal/i386/main.o
+t1310762439
+s6492
+
+N/Developer/nyu-iphone/Notification/main.m
+c000000004E20A479000000000000018D
+t1310762105
+s397
+i<UIKit/UIKit.h>
+
+N/Developer/nyu-iphone/Notification/notify114.png
+c000000004E20A53B0000000000001769
+t1310762299
+s5993
+
+N/Developer/nyu-iphone/Notification/notify57.png
+c000000004E20A55B0000000000000DB3
+t1310762331
+s3507
+
+N/Developer/nyu-iphone/Notification/notify72.png
+c000000004E20A54A0000000000001002
+t1310762314
+s4098
 
 N/Volumes/MAC/iPhone/Notification/Classes/NotificationAppDelegate.h
 c000000004E1F8F5E0000000000000189
@@ -127,18 +241,35 @@ t1310690622
 s395
 i<UIKit/UIKit.h>
 
+N/var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Notification_Prefix-gtruxjimoalpasgeazxcypwmqdas/Notification_Prefix.pch.gch
+t1310762439
+s15814064
+
 N/var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Notification_Prefix-gdawdhzvpvwtlaemicewbydlvczh/Notification_Prefix.pch.gch
 t1310691127
 s15814064
 
 NNotification-Info.plist
-c000000004E1F8CFC000000000000038D
-t1310690556
-s909
+c000000004E20A57100000000000003B8
+t1310762353
+s952
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies332384040#332384040#0(0"0(0#1#0"8612699296#0"0#
+lSLF07#2@18"Check dependencies332456055#332456055#0(0"0(0#1#0"8616329216#0"0#
+
+CCompileC build/Notification.build/Debug-iphonesimulator/Notification.build/Objects-normal/i386/NotificationAppDelegate.o /Developer/nyu-iphone/Notification/Classes/NotificationAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332456051.222849
+e332456051.270484
+r1
+xCompileC
+xbuild/Notification.build/Debug-iphonesimulator/Notification.build/Objects-normal/i386/NotificationAppDelegate.o
+x/Developer/nyu-iphone/Notification/Classes/NotificationAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Developer/nyu-iphone/Notification/Classes/NotificationAppDelegate.m332456051#332456051#0(0"0(0#0#68"/Developer/nyu-iphone/Notification/Classes/NotificationAppDelegate.m8611241088#2022"    cd /Developer/nyu-iphone/Notification    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Developer/nyu-iphone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Notification-generated-files.hmap -I/Developer/nyu-iphone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Notification-own-target-headers.hmap -I/Developer/nyu-iphone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Notification-all-target-headers.hmap -iquote /Developer/nyu-iphone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Notification-project-headers.hmap -F/Developer/nyu-iphone/Notification/build/Debug-iphonesimulator -I/Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/include -I/Developer/nyu-iphone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/DerivedSources/i386 -I/Developer/nyu-iphone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/DerivedSources -include /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Notification_Prefix-gtruxjimoalpasgeazxcypwmqdas/Notification_Prefix.pch -c /Developer/nyu-iphone/Notification/Classes/NotificationAppDelegate.m -o /Developer/nyu-iphone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Objects-normal/i386/NotificationAppDelegate.o0#
 
 CCompileC build/Notification.build/Debug-iphonesimulator/Notification.build/Objects-normal/i386/NotificationAppDelegate.o /Volumes/MAC/iPhone/Notification/Classes/NotificationAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s332384040.799791
@@ -153,6 +284,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@74"Compile /Volumes/MAC/iPhone/Notification/Classes/NotificationAppDelegate.m332384040#332384040#0(0"0(0#0#66"/Volumes/MAC/iPhone/Notification/Classes/NotificationAppDelegate.m8613497024#1994"    cd /Volumes/MAC/iPhone/Notification    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Volumes/MAC/iPhone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Notification-generated-files.hmap -I/Volumes/MAC/iPhone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Notification-own-target-headers.hmap -I/Volumes/MAC/iPhone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Notification-all-target-headers.hmap -iquote /Volumes/MAC/iPhone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Notification-project-headers.hmap -F/Volumes/MAC/iPhone/Notification/build/Debug-iphonesimulator -I/Volumes/MAC/iPhone/Notification/build/Debug-iphonesimulator/include -I/Volumes/MAC/iPhone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/DerivedSources/i386 -I/Volumes/MAC/iPhone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/DerivedSources -include /var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Notification_Prefix-gdawdhzvpvwtlaemicewbydlvczh/Notification_Prefix.pch -c /Volumes/MAC/iPhone/Notification/Classes/NotificationAppDelegate.m -o /Volumes/MAC/iPhone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Objects-normal/i386/NotificationAppDelegate.o0#
 
+CCompileC build/Notification.build/Debug-iphonesimulator/Notification.build/Objects-normal/i386/View.o /Developer/nyu-iphone/Notification/Classes/View.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332456051.223548
+e332456051.260398
+r1
+xCompileC
+xbuild/Notification.build/Debug-iphonesimulator/Notification.build/Objects-normal/i386/View.o
+x/Developer/nyu-iphone/Notification/Classes/View.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Developer/nyu-iphone/Notification/Classes/View.m332456051#332456051#0(0"0(0#0#49"/Developer/nyu-iphone/Notification/Classes/View.m8606385440#1984"    cd /Developer/nyu-iphone/Notification    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Developer/nyu-iphone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Notification-generated-files.hmap -I/Developer/nyu-iphone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Notification-own-target-headers.hmap -I/Developer/nyu-iphone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Notification-all-target-headers.hmap -iquote /Developer/nyu-iphone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Notification-project-headers.hmap -F/Developer/nyu-iphone/Notification/build/Debug-iphonesimulator -I/Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/include -I/Developer/nyu-iphone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/DerivedSources/i386 -I/Developer/nyu-iphone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/DerivedSources -include /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Notification_Prefix-gtruxjimoalpasgeazxcypwmqdas/Notification_Prefix.pch -c /Developer/nyu-iphone/Notification/Classes/View.m -o /Developer/nyu-iphone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Objects-normal/i386/View.o0#
+
 CCompileC build/Notification.build/Debug-iphonesimulator/Notification.build/Objects-normal/i386/View.o /Volumes/MAC/iPhone/Notification/Classes/View.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s332383967.422439
 e332383967.600594
@@ -165,6 +309,19 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@55"Compile /Volumes/MAC/iPhone/Notification/Classes/View.m332383967#332383967#0(0"0(0#0#47"/Volumes/MAC/iPhone/Notification/Classes/View.m8626868096#1956"    cd /Volumes/MAC/iPhone/Notification    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Volumes/MAC/iPhone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Notification-generated-files.hmap -I/Volumes/MAC/iPhone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Notification-own-target-headers.hmap -I/Volumes/MAC/iPhone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Notification-all-target-headers.hmap -iquote /Volumes/MAC/iPhone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Notification-project-headers.hmap -F/Volumes/MAC/iPhone/Notification/build/Debug-iphonesimulator -I/Volumes/MAC/iPhone/Notification/build/Debug-iphonesimulator/include -I/Volumes/MAC/iPhone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/DerivedSources/i386 -I/Volumes/MAC/iPhone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/DerivedSources -include /var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Notification_Prefix-gdawdhzvpvwtlaemicewbydlvczh/Notification_Prefix.pch -c /Volumes/MAC/iPhone/Notification/Classes/View.m -o /Volumes/MAC/iPhone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Objects-normal/i386/View.o0#
+
+CCompileC build/Notification.build/Debug-iphonesimulator/Notification.build/Objects-normal/i386/main.o /Developer/nyu-iphone/Notification/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332455239.781340
+e332455239.817979
+r1
+xCompileC
+xbuild/Notification.build/Debug-iphonesimulator/Notification.build/Objects-normal/i386/main.o
+x/Developer/nyu-iphone/Notification/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Developer/nyu-iphone/Notification/main.m332455239#332455239#0(0"0(0#0#41"/Developer/nyu-iphone/Notification/main.m8614096064#1976"    cd /Developer/nyu-iphone/Notification    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Developer/nyu-iphone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Notification-generated-files.hmap -I/Developer/nyu-iphone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Notification-own-target-headers.hmap -I/Developer/nyu-iphone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Notification-all-target-headers.hmap -iquote /Developer/nyu-iphone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Notification-project-headers.hmap -F/Developer/nyu-iphone/Notification/build/Debug-iphonesimulator -I/Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/include -I/Developer/nyu-iphone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/DerivedSources/i386 -I/Developer/nyu-iphone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/DerivedSources -include /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Notification_Prefix-gtruxjimoalpasgeazxcypwmqdas/Notification_Prefix.pch -c /Developer/nyu-iphone/Notification/main.m -o /Developer/nyu-iphone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Objects-normal/i386/main.o0#
 
 CCompileC build/Notification.build/Debug-iphonesimulator/Notification.build/Objects-normal/i386/main.o /Volumes/MAC/iPhone/Notification/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s332383967.193777
@@ -179,6 +336,9 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@47"Compile /Volumes/MAC/iPhone/Notification/main.m332383967#332383967#0(0"0(0#0#39"/Volumes/MAC/iPhone/Notification/main.m8626881152#1948"    cd /Volumes/MAC/iPhone/Notification    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Volumes/MAC/iPhone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Notification-generated-files.hmap -I/Volumes/MAC/iPhone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Notification-own-target-headers.hmap -I/Volumes/MAC/iPhone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Notification-all-target-headers.hmap -iquote /Volumes/MAC/iPhone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Notification-project-headers.hmap -F/Volumes/MAC/iPhone/Notification/build/Debug-iphonesimulator -I/Volumes/MAC/iPhone/Notification/build/Debug-iphonesimulator/include -I/Volumes/MAC/iPhone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/DerivedSources/i386 -I/Volumes/MAC/iPhone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/DerivedSources -include /var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Notification_Prefix-gdawdhzvpvwtlaemicewbydlvczh/Notification_Prefix.pch -c /Volumes/MAC/iPhone/Notification/main.m -o /Volumes/MAC/iPhone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Objects-normal/i386/main.o0#
 
+CCompileXIB /Developer/nyu-iphone/Notification/MainWindow.xib
+r0
+
 CCompileXIB /Volumes/MAC/iPhone/Notification/MainWindow.xib
 s332383926.160157
 e332383926.510653
@@ -186,6 +346,42 @@ r1
 xCompileXIB
 x/Volumes/MAC/iPhone/Notification/MainWindow.xib
 lSLF07#2@25"CompileXIB MainWindow.xib332383926#332383926#0(0"0(0#0#47"/Volumes/MAC/iPhone/Notification/MainWindow.xib8625711040#557"    cd /Volumes/MAC/iPhone/Notification    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Volumes/MAC/iPhone/Notification/build/Debug-iphonesimulator/Notification.app/MainWindow.nib /Volumes/MAC/iPhone/Notification/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource build/Debug-iphonesimulator/Notification.app/notify114.png notify114.png
+s332455239.106604
+e332455239.125104
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Notification.app/notify114.png
+xnotify114.png
+lSLF07#2@18"Copy notify114.png332455239#332455239#0(0"0(0#0#48"/Developer/nyu-iphone/Notification/notify114.png8611237568#464"    cd /Developer/nyu-iphone/Notification    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/nyu-iphone/Notification/notify114.png /Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/Notification.app0#
+
+CCpResource build/Debug-iphonesimulator/Notification.app/notify57.png notify57.png
+s332455239.105525
+e332455239.123464
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Notification.app/notify57.png
+xnotify57.png
+lSLF07#2@17"Copy notify57.png332455239#332455239#0(0"0(0#0#47"/Developer/nyu-iphone/Notification/notify57.png8616306080#463"    cd /Developer/nyu-iphone/Notification    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/nyu-iphone/Notification/notify57.png /Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/Notification.app0#
+
+CCpResource build/Debug-iphonesimulator/Notification.app/notify72.png notify72.png
+s332455239.106070
+e332455239.123658
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Notification.app/notify72.png
+xnotify72.png
+lSLF07#2@17"Copy notify72.png332455239#332455239#0(0"0(0#0#47"/Developer/nyu-iphone/Notification/notify72.png8615219392#463"    cd /Developer/nyu-iphone/Notification    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/nyu-iphone/Notification/notify72.png /Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/Notification.app0#
+
+CGenerateDSYMFile /Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/Notification.app.dSYM /Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/Notification.app/Notification
+s332456051.285125
+e332456051.294587
+r1
+xGenerateDSYMFile
+x/Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/Notification.app.dSYM
+x/Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/Notification.app/Notification
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/Notification.app.dSYM build/Debug-iphonesimulator/Notification.app/Notification332456051#332456051#0(0"0(0#0#92"/Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/Notification.app/Notification8605348640#386"    cd /Developer/nyu-iphone/Notification    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/Notification.app/Notification -o /Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/Notification.app.dSYM0#
 
 CGenerateDSYMFile /Volumes/MAC/iPhone/Notification/build/Debug-iphonesimulator/Notification.app.dSYM /Volumes/MAC/iPhone/Notification/build/Debug-iphonesimulator/Notification.app/Notification
 s332384040.962322
@@ -195,6 +391,16 @@ xGenerateDSYMFile
 x/Volumes/MAC/iPhone/Notification/build/Debug-iphonesimulator/Notification.app.dSYM
 x/Volumes/MAC/iPhone/Notification/build/Debug-iphonesimulator/Notification.app/Notification
 lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/Notification.app.dSYM build/Debug-iphonesimulator/Notification.app/Notification332384040#332384041#0(0"0(0#0#90"/Volumes/MAC/iPhone/Notification/build/Debug-iphonesimulator/Notification.app/Notification8614843456#380"    cd /Volumes/MAC/iPhone/Notification    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Volumes/MAC/iPhone/Notification/build/Debug-iphonesimulator/Notification.app/Notification -o /Volumes/MAC/iPhone/Notification/build/Debug-iphonesimulator/Notification.app.dSYM0#
+
+CLd /Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/Notification.app/Notification normal i386
+s332456051.270548
+e332456051.285046
+r1
+xLd
+x/Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/Notification.app/Notification
+xnormal
+xi386
+lSLF07#2@97"Link /Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/Notification.app/Notification332456051#332456051#0(0"0(0#0#0"8606096064#905"    cd /Developer/nyu-iphone/Notification    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Developer/nyu-iphone/Notification/build/Debug-iphonesimulator -F/Developer/nyu-iphone/Notification/build/Debug-iphonesimulator -filelist /Developer/nyu-iphone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Objects-normal/i386/Notification.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/Notification.app/Notification0#
 
 CLd /Volumes/MAC/iPhone/Notification/build/Debug-iphonesimulator/Notification.app/Notification normal i386
 s332384040.937844
@@ -206,6 +412,15 @@ xnormal
 xi386
 lSLF07#2@95"Link /Volumes/MAC/iPhone/Notification/build/Debug-iphonesimulator/Notification.app/Notification332384040#332384040#0(0"0(0#0#0"8624915808#895"    cd /Volumes/MAC/iPhone/Notification    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Volumes/MAC/iPhone/Notification/build/Debug-iphonesimulator -F/Volumes/MAC/iPhone/Notification/build/Debug-iphonesimulator -filelist /Volumes/MAC/iPhone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Objects-normal/i386/Notification.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Volumes/MAC/iPhone/Notification/build/Debug-iphonesimulator/Notification.app/Notification0#
 
+CProcessInfoPlistFile /Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/Notification.app/Info.plist Notification-Info.plist
+s332455239.102609
+e332455239.105426
+r1
+xProcessInfoPlistFile
+x/Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/Notification.app/Info.plist
+xNotification-Info.plist
+lSLF07#2@31"Process Notification-Info.plist332455239#332455239#0(0"0(0#0#58"/Developer/nyu-iphone/Notification/Notification-Info.plist8603021568#482"    cd /Developer/nyu-iphone/Notification    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Notification-Info.plist -genpkginfo /Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/Notification.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/Notification.app/Info.plist0#
+
 CProcessInfoPlistFile /Volumes/MAC/iPhone/Notification/build/Debug-iphonesimulator/Notification.app/Info.plist Notification-Info.plist
 s332383926.016117
 e332383926.160075
@@ -214,6 +429,19 @@ xProcessInfoPlistFile
 x/Volumes/MAC/iPhone/Notification/build/Debug-iphonesimulator/Notification.app/Info.plist
 xNotification-Info.plist
 lSLF07#2@31"Process Notification-Info.plist332383926#332383926#0(0"0(0#0#56"/Volumes/MAC/iPhone/Notification/Notification-Info.plist8600361696#476"    cd /Volumes/MAC/iPhone/Notification    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Notification-Info.plist -genpkginfo /Volumes/MAC/iPhone/Notification/build/Debug-iphonesimulator/Notification.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Volumes/MAC/iPhone/Notification/build/Debug-iphonesimulator/Notification.app/Info.plist0#
+
+CProcessPCH /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Notification_Prefix-gtruxjimoalpasgeazxcypwmqdas/Notification_Prefix.pch.gch Notification_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s332455239.125246
+e332455239.781197
+r1
+xProcessPCH
+x/var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Notification_Prefix-gtruxjimoalpasgeazxcypwmqdas/Notification_Prefix.pch.gch
+xNotification_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile Notification_Prefix.pch332455239#332455239#0(0"0(0#0#58"/Developer/nyu-iphone/Notification/Notification_Prefix.pch8614160288#1867"    cd /Developer/nyu-iphone/Notification    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Developer/nyu-iphone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Notification-generated-files.hmap -I/Developer/nyu-iphone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Notification-own-target-headers.hmap -I/Developer/nyu-iphone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Notification-all-target-headers.hmap -iquote /Developer/nyu-iphone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Notification-project-headers.hmap -F/Developer/nyu-iphone/Notification/build/Debug-iphonesimulator -I/Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/include -I/Developer/nyu-iphone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/DerivedSources/i386 -I/Developer/nyu-iphone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/DerivedSources -c /Developer/nyu-iphone/Notification/Notification_Prefix.pch -o /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Notification_Prefix-gtruxjimoalpasgeazxcypwmqdas/Notification_Prefix.pch.gch0#
 
 CProcessPCH /var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Notification_Prefix-gdawdhzvpvwtlaemicewbydlvczh/Notification_Prefix.pch.gch Notification_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
 s332383926.510778
@@ -227,6 +455,14 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@34"Precompile Notification_Prefix.pch332383926#332383927#0(0"0(0#0#56"/Volumes/MAC/iPhone/Notification/Notification_Prefix.pch8613475232#1841"    cd /Volumes/MAC/iPhone/Notification    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Volumes/MAC/iPhone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Notification-generated-files.hmap -I/Volumes/MAC/iPhone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Notification-own-target-headers.hmap -I/Volumes/MAC/iPhone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Notification-all-target-headers.hmap -iquote /Volumes/MAC/iPhone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/Notification-project-headers.hmap -F/Volumes/MAC/iPhone/Notification/build/Debug-iphonesimulator -I/Volumes/MAC/iPhone/Notification/build/Debug-iphonesimulator/include -I/Volumes/MAC/iPhone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/DerivedSources/i386 -I/Volumes/MAC/iPhone/Notification/build/Notification.build/Debug-iphonesimulator/Notification.build/DerivedSources -c /Volumes/MAC/iPhone/Notification/Notification_Prefix.pch -o /var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Notification_Prefix-gdawdhzvpvwtlaemicewbydlvczh/Notification_Prefix.pch.gch0#
+
+CTouch /Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/Notification.app
+s332456051.294672
+e332456051.296171
+r1
+xTouch
+x/Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/Notification.app
+lSLF07#2@85"Touch /Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/Notification.app332456051#332456051#0(0"0(0#0#0"8605180224#275"    cd /Developer/nyu-iphone/Notification    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Developer/nyu-iphone/Notification/build/Debug-iphonesimulator/Notification.app0#
 
 CTouch /Volumes/MAC/iPhone/Notification/build/Debug-iphonesimulator/Notification.app
 s332384041.176950

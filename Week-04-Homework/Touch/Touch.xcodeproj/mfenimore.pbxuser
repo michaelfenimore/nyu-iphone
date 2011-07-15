@@ -23,7 +23,7 @@
 	};
 	24D342D013C0CDF40013E08E /* View.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {936, 2016}}";
+			sepNavIntBoundsRect = "{{0, 0}, {936, 2000}}";
 			sepNavSelRange = "{855, 96}";
 			sepNavVisRange = "{767, 1078}";
 		};
@@ -98,10 +98,11 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 332370826;
-			PBXWorkspaceStateSaveDate = 332370826;
+			PBXPerProjectTemplateStateSaveDate = 332452202;
+			PBXWorkspaceStateSaveDate = 332452202;
 		};
 		perUserProjectItems = {
+			AD4A43B613D0D16F004BA23E /* PBXTextBookmark */ = AD4A43B613D0D16F004BA23E /* PBXTextBookmark */;
 			ADBDF0A713BE1EFC008395C3 /* PBXTextBookmark */ = ADBDF0A713BE1EFC008395C3 /* PBXTextBookmark */;
 			ADBDF0B413BE1F3B008395C3 /* PBXTextBookmark */ = ADBDF0B413BE1F3B008395C3 /* PBXTextBookmark */;
 			ADBDF0D413BE211B008395C3 /* PlistBookmark */ = ADBDF0D413BE211B008395C3 /* PlistBookmark */;
@@ -109,7 +110,6 @@
 			ADC33FD913CF8F86008CECBC /* PBXTextBookmark */ = ADC33FD913CF8F86008CECBC /* PBXTextBookmark */;
 			ADC33FDA13CF8F86008CECBC /* PBXTextBookmark */ = ADC33FDA13CF8F86008CECBC /* PBXTextBookmark */;
 			ADC33FDB13CF8F86008CECBC /* PBXTextBookmark */ = ADC33FDB13CF8F86008CECBC /* PBXTextBookmark */;
-			ADC33FDD13CF8F86008CECBC /* PBXTextBookmark */ = ADC33FDD13CF8F86008CECBC /* PBXTextBookmark */;
 			ADC3407113CF9DDB008CECBC /* PBXTextBookmark */ = ADC3407113CF9DDB008CECBC /* PBXTextBookmark */;
 		};
 		sourceControlManager = ADBDF07F13BE1DB5008395C3 /* Source Control */;
@@ -130,6 +130,16 @@
 			sepNavSelRange = "{0, 0}";
 			sepNavVisRange = "{0, 179}";
 		};
+	};
+	AD4A43B613D0D16F004BA23E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24D342D013C0CDF40013E08E /* View.m */;
+		name = "View.m: 32";
+		rLen = 96;
+		rLoc = 855;
+		rType = 0;
+		vrLen = 1078;
+		vrLoc = 767;
 	};
 	ADBDF06A13BE1D97008395C3 /* PBXBookmarkGroup */ = {
 		isa = PBXBookmarkGroup;
@@ -260,16 +270,6 @@
 		rType = 0;
 		vrLen = 380;
 		vrLoc = 0;
-	};
-	ADC33FDD13CF8F86008CECBC /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 24D342D013C0CDF40013E08E /* View.m */;
-		name = "View.m: 96";
-		rLen = 0;
-		rLoc = 3004;
-		rType = 0;
-		vrLen = 1330;
-		vrLoc = 1844;
 	};
 	ADC3407113CF9DDB008CECBC /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
