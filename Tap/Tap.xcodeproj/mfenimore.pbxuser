@@ -1,0 +1,205 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* TapAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {945, 529}}";
+			sepNavSelRange = "{283, 0}";
+			sepNavVisRange = "{0, 349}";
+		};
+	};
+	1D3623250D0F684500981E51 /* TapAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2244, 1472}}";
+			sepNavSelRange = "{684, 0}";
+			sepNavVisRange = "{0, 814}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Tap */ = {
+		activeExec = 0;
+		executables = (
+			ADCDF93513CB553200374348 /* Tap */,
+		);
+	};
+	24EAF9B213CA021700B02A0C /* View.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {945, 529}}";
+			sepNavSelRange = "{257, 0}";
+			sepNavVisRange = "{0, 257}";
+			sepNavWindowFrame = "{{15, 315}, {750, 558}}";
+		};
+	};
+	24EAF9B313CA021700B02A0C /* View.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {700, 1760}}";
+			sepNavSelRange = "{2888, 0}";
+			sepNavVisRange = "{1192, 341}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = ADCDF93513CB553200374348 /* Tap */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Tap */;
+		codeSenseManager = ADCDF94413CB554F00374348 /* Code sense */;
+		executables = (
+			ADCDF93513CB553200374348 /* Tap */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					767,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 332092722;
+			PBXWorkspaceStateSaveDate = 332092722;
+		};
+		perUserProjectItems = {
+			ADCDF95913CB574900374348 /* PBXTextBookmark */ = ADCDF95913CB574900374348 /* PBXTextBookmark */;
+			ADCDF95C13CB57B300374348 /* PlistBookmark */ = ADCDF95C13CB57B300374348 /* PlistBookmark */;
+			ADCDFA5213CB963000374348 /* PBXTextBookmark */ = ADCDFA5213CB963000374348 /* PBXTextBookmark */;
+			ADCDFA5313CB963000374348 /* PBXTextBookmark */ = ADCDFA5313CB963000374348 /* PBXTextBookmark */;
+			ADCDFA5413CB963000374348 /* PBXTextBookmark */ = ADCDFA5413CB963000374348 /* PBXTextBookmark */;
+			ADCDFA5513CB963000374348 /* PBXTextBookmark */ = ADCDFA5513CB963000374348 /* PBXTextBookmark */;
+			ADCDFA5F13CB981400374348 /* PBXTextBookmark */ = ADCDFA5F13CB981400374348 /* PBXTextBookmark */;
+		};
+		sourceControlManager = ADCDF94313CB554F00374348 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {945, 554}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 377}";
+		};
+	};
+	ADCDF93513CB553200374348 /* Tap */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Tap;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	ADCDF94313CB554F00374348 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	ADCDF94413CB554F00374348 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	ADCDF95913CB574900374348 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 377;
+		vrLoc = 0;
+	};
+	ADCDF95C13CB57B300374348 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Tap-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Developer/iPhone Applications/Tap/Tap-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	ADCDFA5213CB963000374348 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* TapAppDelegate.h */;
+		name = "TapAppDelegate.h: 15";
+		rLen = 0;
+		rLoc = 283;
+		rType = 0;
+		vrLen = 349;
+		vrLoc = 0;
+	};
+	ADCDFA5313CB963000374348 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* TapAppDelegate.m */;
+		name = "TapAppDelegate.m: 27";
+		rLen = 0;
+		rLoc = 684;
+		rType = 0;
+		vrLen = 814;
+		vrLoc = 0;
+	};
+	ADCDFA5413CB963000374348 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24EAF9B213CA021700B02A0C /* View.h */;
+		name = "View.h: 18";
+		rLen = 0;
+		rLoc = 257;
+		rType = 0;
+		vrLen = 257;
+		vrLoc = 0;
+	};
+	ADCDFA5513CB963000374348 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24EAF9B313CA021700B02A0C /* View.m */;
+		name = "View.m: 105";
+		rLen = 0;
+		rLoc = 2891;
+		rType = 0;
+		vrLen = 506;
+		vrLoc = 0;
+	};
+	ADCDFA5F13CB981400374348 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24EAF9B313CA021700B02A0C /* View.m */;
+		name = "View.m: 103";
+		rLen = 0;
+		rLoc = 2888;
+		rType = 0;
+		vrLen = 1109;
+		vrLoc = 1852;
+	};
+}

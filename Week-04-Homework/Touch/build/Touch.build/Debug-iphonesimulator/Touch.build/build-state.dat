@@ -169,6 +169,145 @@ t1309533961
 s376
 i<UIKit/UIKit.h>
 
+N/Developer/nyu-iphone/Week-04-Homework/Touch/Classes/TouchAppDelegate.h
+c000000004E1B6FB8000000000000015F
+t1310420920
+s351
+i<UIKit/UIKit.h>
+
+N/Developer/nyu-iphone/Week-04-Homework/Touch/Classes/TouchAppDelegate.m
+c000000004E1B6FB80000000000000A8F
+t1310420920
+s2703
+i"TouchAppDelegate.h"
+i"View.h"
+
+N/Developer/nyu-iphone/Week-04-Homework/Touch/Classes/View.h
+c000000004E1B6FB8000000000000017C
+t1310420920
+s380
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Developer/nyu-iphone/Week-04-Homework/Touch/Classes/View.m
+c000000004E1B6FB80000000000000DD0
+t1310420920
+s3536
+i"View.h"
+
+N/Developer/nyu-iphone/Week-04-Homework/Touch/MainWindow.xib
+c000000004E1B6FB800000000000020FE
+t1310420920
+s8446
+
+N/Developer/nyu-iphone/Week-04-Homework/Touch/Touch_Prefix.pch
+c000000004E1B6FB800000000000000B3
+t1310420920
+s179
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Developer/nyu-iphone/Week-04-Homework/Touch/build/Debug-iphonesimulator/Touch.app
+t1310420920
+s476
+
+N/Developer/nyu-iphone/Week-04-Homework/Touch/build/Debug-iphonesimulator/Touch.app.dSYM
+t1310420920
+s102
+
+N/Developer/nyu-iphone/Week-04-Homework/Touch/build/Debug-iphonesimulator/Touch.app/Info.plist
+t1310420920
+s653
+
+N/Developer/nyu-iphone/Week-04-Homework/Touch/build/Debug-iphonesimulator/Touch.app/MainWindow.nib
+t1310420920
+s1529
+
+N/Developer/nyu-iphone/Week-04-Homework/Touch/build/Debug-iphonesimulator/Touch.app/PkgInfo
+t1310420920
+s8
+
+N/Developer/nyu-iphone/Week-04-Homework/Touch/build/Debug-iphonesimulator/Touch.app/Touch
+t1310420920
+s22808
+
+N/Developer/nyu-iphone/Week-04-Homework/Touch/build/Debug-iphonesimulator/Touch.app/engage.mp3
+t1310420920
+s11434
+
+N/Developer/nyu-iphone/Week-04-Homework/Touch/build/Debug-iphonesimulator/Touch.app/enterprise.png
+t1310420920
+s6163
+
+N/Developer/nyu-iphone/Week-04-Homework/Touch/build/Debug-iphonesimulator/Touch.app/icon114.png
+t1310420920
+s22835
+
+N/Developer/nyu-iphone/Week-04-Homework/Touch/build/Debug-iphonesimulator/Touch.app/icon57.png
+t1310420920
+s8036
+
+N/Developer/nyu-iphone/Week-04-Homework/Touch/build/Debug-iphonesimulator/Touch.app/icon72.png
+t1310420920
+s10906
+
+N/Developer/nyu-iphone/Week-04-Homework/Touch/build/Debug-iphonesimulator/Touch.app/nightsky.png
+t1310420920
+s94767
+
+N/Developer/nyu-iphone/Week-04-Homework/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/Objects-normal/i386/Touch.LinkFileList
+c000000004E1B6FB800000000000001C2
+t1310420920
+s450
+
+N/Developer/nyu-iphone/Week-04-Homework/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/Objects-normal/i386/TouchAppDelegate.o
+t1310420920
+s52376
+
+N/Developer/nyu-iphone/Week-04-Homework/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/Objects-normal/i386/View.o
+t2
+s0
+
+N/Developer/nyu-iphone/Week-04-Homework/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/Objects-normal/i386/main.o
+t1310420920
+s6548
+
+N/Developer/nyu-iphone/Week-04-Homework/Touch/engage.mp3
+c000000004E1B6FB80000000000002CAA
+t1310420920
+s11434
+
+N/Developer/nyu-iphone/Week-04-Homework/Touch/enterprise.png
+c000000004E1B6FB80000000000001813
+t1310420920
+s6163
+
+N/Developer/nyu-iphone/Week-04-Homework/Touch/icon114.png
+c000000004E1B6FB80000000000005933
+t1310420920
+s22835
+
+N/Developer/nyu-iphone/Week-04-Homework/Touch/icon57.png
+c000000004E1B6FB80000000000001F64
+t1310420920
+s8036
+
+N/Developer/nyu-iphone/Week-04-Homework/Touch/icon72.png
+c000000004E1B6FB80000000000002A9A
+t1310420920
+s10906
+
+N/Developer/nyu-iphone/Week-04-Homework/Touch/main.m
+c000000004E1B6FB80000000000000178
+t1310420920
+s376
+i<UIKit/UIKit.h>
+
+N/Developer/nyu-iphone/Week-04-Homework/Touch/nightsky.png
+c000000004E1B6FB8000000000001722F
+t1310420920
+s94767
+
 N/Users/michaelfenimore/Documents/nyu-iphone/Week-04-Homework/Touch/Classes/TouchAppDelegate.h
 c000000004E11E12A000000000000015F
 t1309794602
@@ -330,13 +469,17 @@ N/var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/
 t1309533870
 s15814064
 
+N/var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Touch_Prefix-euyghpbdyecmihedppeuytkgqgus/Touch_Prefix.pch.gch
+t2
+s0
+
 N/var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Touch_Prefix-grxtsfrkwuqltrddjxvrjzxwrbmw/Touch_Prefix.pch.gch
 t1309710102
 s15814064
 
 NTouch-Info.plist
-c000000004E0DE92800000000000003E9
-t1309534504
+c000000004E1B6FB800000000000003E9
+t1310420920
 s1001
 
 CCheck dependencies
@@ -355,6 +498,9 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@71"Compile /Developer/iPhone Applications/Touch/Classes/TouchAppDelegate.m331227393#331227393#0(0"0(0#0#63"/Developer/iPhone Applications/Touch/Classes/TouchAppDelegate.m8615186688#1912"    cd "/Developer/iPhone Applications/Touch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Developer/iPhone Applications/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/Touch-generated-files.hmap" "-I/Developer/iPhone Applications/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/Touch-own-target-headers.hmap" "-I/Developer/iPhone Applications/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/Touch-all-target-headers.hmap" -iquote "/Developer/iPhone Applications/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/Touch-project-headers.hmap" "-F/Developer/iPhone Applications/Touch/build/Debug-iphonesimulator" "-I/Developer/iPhone Applications/Touch/build/Debug-iphonesimulator/include" "-I/Developer/iPhone Applications/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/DerivedSources/i386" "-I/Developer/iPhone Applications/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/DerivedSources" -include /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Touch_Prefix-awibvujxypddazgwlnwemiosdmne/Touch_Prefix.pch -c "/Developer/iPhone Applications/Touch/Classes/TouchAppDelegate.m" -o "/Developer/iPhone Applications/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/Objects-normal/i386/TouchAppDelegate.o"0#
+
+CCompileC build/Touch.build/Debug-iphonesimulator/Touch.build/Objects-normal/i386/TouchAppDelegate.o /Developer/nyu-iphone/Week-04-Homework/Touch/Classes/TouchAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
 
 CCompileC build/Touch.build/Debug-iphonesimulator/Touch.build/Objects-normal/i386/TouchAppDelegate.o /Users/michaelfenimore/Documents/nyu-iphone/Week-04-Homework/Touch/Classes/TouchAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s331502159.135452
@@ -382,6 +528,9 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@59"Compile /Developer/iPhone Applications/Touch/Classes/View.m331238439#331238439#0(0"0(0#0#51"/Developer/iPhone Applications/Touch/Classes/View.m8629002816#1888"    cd "/Developer/iPhone Applications/Touch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Developer/iPhone Applications/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/Touch-generated-files.hmap" "-I/Developer/iPhone Applications/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/Touch-own-target-headers.hmap" "-I/Developer/iPhone Applications/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/Touch-all-target-headers.hmap" -iquote "/Developer/iPhone Applications/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/Touch-project-headers.hmap" "-F/Developer/iPhone Applications/Touch/build/Debug-iphonesimulator" "-I/Developer/iPhone Applications/Touch/build/Debug-iphonesimulator/include" "-I/Developer/iPhone Applications/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/DerivedSources/i386" "-I/Developer/iPhone Applications/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/DerivedSources" -include /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Touch_Prefix-awibvujxypddazgwlnwemiosdmne/Touch_Prefix.pch -c "/Developer/iPhone Applications/Touch/Classes/View.m" -o "/Developer/iPhone Applications/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/Objects-normal/i386/View.o"0#
 
+CCompileC build/Touch.build/Debug-iphonesimulator/Touch.build/Objects-normal/i386/View.o /Developer/nyu-iphone/Week-04-Homework/Touch/Classes/View.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/Touch.build/Debug-iphonesimulator/Touch.build/Objects-normal/i386/View.o /Users/michaelfenimore/Documents/nyu-iphone/Week-04-Homework/Touch/Classes/View.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s331506294.726506
 e331506294.851796
@@ -408,6 +557,9 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@51"Compile /Developer/iPhone Applications/Touch/main.m331226762#331226762#0(0"0(0#0#43"/Developer/iPhone Applications/Touch/main.m8613524032#1880"    cd "/Developer/iPhone Applications/Touch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Developer/iPhone Applications/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/Touch-generated-files.hmap" "-I/Developer/iPhone Applications/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/Touch-own-target-headers.hmap" "-I/Developer/iPhone Applications/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/Touch-all-target-headers.hmap" -iquote "/Developer/iPhone Applications/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/Touch-project-headers.hmap" "-F/Developer/iPhone Applications/Touch/build/Debug-iphonesimulator" "-I/Developer/iPhone Applications/Touch/build/Debug-iphonesimulator/include" "-I/Developer/iPhone Applications/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/DerivedSources/i386" "-I/Developer/iPhone Applications/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/DerivedSources" -include /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Touch_Prefix-awibvujxypddazgwlnwemiosdmne/Touch_Prefix.pch -c "/Developer/iPhone Applications/Touch/main.m" -o "/Developer/iPhone Applications/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/Objects-normal/i386/main.o"0#
 
+CCompileC build/Touch.build/Debug-iphonesimulator/Touch.build/Objects-normal/i386/main.o /Developer/nyu-iphone/Week-04-Homework/Touch/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/Touch.build/Debug-iphonesimulator/Touch.build/Objects-normal/i386/main.o /Users/michaelfenimore/Documents/nyu-iphone/Week-04-Homework/Touch/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s331402902.150329
 e331402902.248240
@@ -428,6 +580,9 @@ r1
 xCompileXIB
 x/Developer/iPhone Applications/Touch/MainWindow.xib
 lSLF07#2@25"CompileXIB MainWindow.xib331226670#331226670#0(0"0(0#0#51"/Developer/iPhone Applications/Touch/MainWindow.xib8614552448#568"    cd "/Developer/iPhone Applications/Touch"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Developer/iPhone Applications/Touch/build/Debug-iphonesimulator/Touch.app/MainWindow.nib" "/Developer/iPhone Applications/Touch/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Developer/nyu-iphone/Week-04-Homework/Touch/MainWindow.xib
+r0
 
 CCompileXIB /Users/michaelfenimore/Documents/nyu-iphone/Week-04-Homework/Touch/MainWindow.xib
 r0
@@ -522,6 +677,9 @@ x/Developer/iPhone Applications/Touch/build/Debug-iphonesimulator/Touch.app.dSYM
 x/Developer/iPhone Applications/Touch/build/Debug-iphonesimulator/Touch.app/Touch
 lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/Touch.app.dSYM build/Debug-iphonesimulator/Touch.app/Touch331238439#331238439#0(0"0(0#0#80"/Developer/iPhone Applications/Touch/build/Debug-iphonesimulator/Touch.app/Touch8631280448#377"    cd "/Developer/iPhone Applications/Touch"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Developer/iPhone Applications/Touch/build/Debug-iphonesimulator/Touch.app/Touch" -o "/Developer/iPhone Applications/Touch/build/Debug-iphonesimulator/Touch.app.dSYM"0#
 
+CGenerateDSYMFile /Developer/nyu-iphone/Week-04-Homework/Touch/build/Debug-iphonesimulator/Touch.app.dSYM /Developer/nyu-iphone/Week-04-Homework/Touch/build/Debug-iphonesimulator/Touch.app/Touch
+r0
+
 CGenerateDSYMFile /Users/michaelfenimore/Documents/nyu-iphone/Week-04-Homework/Touch/build/Debug-iphonesimulator/Touch.app.dSYM /Users/michaelfenimore/Documents/nyu-iphone/Week-04-Homework/Touch/build/Debug-iphonesimulator/Touch.app/Touch
 s331506294.873755
 e331506294.885821
@@ -540,6 +698,9 @@ x/Developer/iPhone Applications/Touch/build/Debug-iphonesimulator/Touch.app/Touc
 xnormal
 xi386
 lSLF07#2@85"Link /Developer/iPhone Applications/Touch/build/Debug-iphonesimulator/Touch.app/Touch331238439#331238439#0(0"0(0#0#0"8631609088#890"    cd "/Developer/iPhone Applications/Touch"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk "-L/Developer/iPhone Applications/Touch/build/Debug-iphonesimulator" "-F/Developer/iPhone Applications/Touch/build/Debug-iphonesimulator" -filelist "/Developer/iPhone Applications/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/Objects-normal/i386/Touch.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Developer/iPhone Applications/Touch/build/Debug-iphonesimulator/Touch.app/Touch"0#
+
+CLd /Developer/nyu-iphone/Week-04-Homework/Touch/build/Debug-iphonesimulator/Touch.app/Touch normal i386
+r0
 
 CLd /Users/michaelfenimore/Documents/nyu-iphone/Week-04-Homework/Touch/build/Debug-iphonesimulator/Touch.app/Touch normal i386
 s331506294.851867
@@ -560,6 +721,9 @@ x/Developer/iPhone Applications/Touch/build/Debug-iphonesimulator/Touch.app/Info
 xTouch-Info.plist
 lSLF07#2@24"Process Touch-Info.plist331227304#331227304#0(0"0(0#0#53"/Developer/iPhone Applications/Touch/Touch-Info.plist8615423360#473"    cd "/Developer/iPhone Applications/Touch"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Touch-Info.plist -genpkginfo "/Developer/iPhone Applications/Touch/build/Debug-iphonesimulator/Touch.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Developer/iPhone Applications/Touch/build/Debug-iphonesimulator/Touch.app/Info.plist"0#
 
+CProcessInfoPlistFile /Developer/nyu-iphone/Week-04-Homework/Touch/build/Debug-iphonesimulator/Touch.app/Info.plist Touch-Info.plist
+r0
+
 CProcessInfoPlistFile /Users/michaelfenimore/Documents/nyu-iphone/Week-04-Homework/Touch/build/Debug-iphonesimulator/Touch.app/Info.plist Touch-Info.plist
 r0
 
@@ -575,6 +739,9 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@27"Precompile Touch_Prefix.pch331226670#331226671#0(0"0(0#0#53"/Developer/iPhone Applications/Touch/Touch_Prefix.pch8614000256#1774"    cd "/Developer/iPhone Applications/Touch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Developer/iPhone Applications/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/Touch-generated-files.hmap" "-I/Developer/iPhone Applications/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/Touch-own-target-headers.hmap" "-I/Developer/iPhone Applications/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/Touch-all-target-headers.hmap" -iquote "/Developer/iPhone Applications/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/Touch-project-headers.hmap" "-F/Developer/iPhone Applications/Touch/build/Debug-iphonesimulator" "-I/Developer/iPhone Applications/Touch/build/Debug-iphonesimulator/include" "-I/Developer/iPhone Applications/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/DerivedSources/i386" "-I/Developer/iPhone Applications/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/DerivedSources" -c "/Developer/iPhone Applications/Touch/Touch_Prefix.pch" -o /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Touch_Prefix-awibvujxypddazgwlnwemiosdmne/Touch_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/B6/B676d6wXEoCFEVa2mjb8MXG0G8E/-Caches-/com.apple.Xcode.880953508/SharedPrecompiledHeaders/Touch_Prefix-euyghpbdyecmihedppeuytkgqgus/Touch_Prefix.pch.gch Touch_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
 
 CProcessPCH /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Touch_Prefix-grxtsfrkwuqltrddjxvrjzxwrbmw/Touch_Prefix.pch.gch Touch_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
 s331402901.548163
@@ -596,6 +763,9 @@ r1
 xTouch
 x/Developer/iPhone Applications/Touch/build/Debug-iphonesimulator/Touch.app
 lSLF07#2@80"Touch /Developer/iPhone Applications/Touch/build/Debug-iphonesimulator/Touch.app331238439#331238439#0(0"0(0#0#0"8630977120#276"    cd "/Developer/iPhone Applications/Touch"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Developer/iPhone Applications/Touch/build/Debug-iphonesimulator/Touch.app"0#
+
+CTouch /Developer/nyu-iphone/Week-04-Homework/Touch/build/Debug-iphonesimulator/Touch.app
+r0
 
 CTouch /Users/michaelfenimore/Documents/nyu-iphone/Week-04-Homework/Touch/build/Debug-iphonesimulator/Touch.app
 s331506294.885878
