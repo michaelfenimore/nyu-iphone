@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+67866c70a421612cbfa984c17a556015 f7ab124c2a73da645160801e419a5634 ffffffffffffffffffffffffffffffff 0 /Users/michaelfenimore/Documents/nyu-iphone/Week-04-Homework/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/Objects-normal/i386/View.o
+=======
 ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 0 /Developer/nyu-iphone/Week-04-Homework/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/Objects-normal/i386/View.o
 ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 52376 /Developer/nyu-iphone/Week-04-Homework/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/Objects-normal/i386/TouchAppDelegate.o
 ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 6548 /Developer/nyu-iphone/Week-04-Homework/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/Objects-normal/i386/main.o
@@ -15,6 +18,7 @@ ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffff
 ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 8 /Developer/nyu-iphone/Week-04-Homework/Touch/build/Debug-iphonesimulator/Touch.app/PkgInfo
 ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 653 /Developer/nyu-iphone/Week-04-Homework/Touch/build/Debug-iphonesimulator/Touch.app/Info.plist
 67866c70a421612cbfa984c17a556015 f7ab124c2a73da645160801e419a5634 ffffffffffffffffffffffffffffffff 50072 /Users/michaelfenimore/Documents/nyu-iphone/Week-04-Homework/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/Objects-normal/i386/View.o
+>>>>>>> b68800cc186290785be8a352d3c7bee2db79540e
 67866c70a7655e63bfa984c17a556cb4 4a3af33f4c0129252e472d1903041fcc ffffffffffffffffffffffffffffffff 52376 /Users/michaelfenimore/Documents/nyu-iphone/Week-04-Homework/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/Objects-normal/i386/TouchAppDelegate.o
 67866c70a77208e9bfa984c17a556a11 52882597c5c47b7d9808ceff6f412c23 ffffffffffffffffffffffffffffffff 6548 /Users/michaelfenimore/Documents/nyu-iphone/Week-04-Homework/Touch/build/Touch.build/Debug-iphonesimulator/Touch.build/Objects-normal/i386/main.o
 00000000000000000000000000000000 bca5c099ed68a9e78a2b34897d5a08bd ffffffffffffffffffffffffffffffff 102 /Users/michaelfenimore/Documents/nyu-iphone/Week-04-Homework/Touch/build/Debug-iphonesimulator/Touch.app.dSYM

@@ -51,16 +51,6 @@
 		vrLen = 380;
 		vrLoc = 0;
 	};
-	248126B713C2529700B5FA16 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 24D342D013C0CDF40013E08E /* View.m */;
-		name = "View.m: 9";
-		rLen = 0;
-		rLoc = 152;
-		rType = 0;
-		vrLen = 1745;
-		vrLoc = 0;
-	};
 	2481274B13C262F800B5FA16 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 24D342D013C0CDF40013E08E /* View.m */;
@@ -70,6 +60,16 @@
 		rType = 0;
 		vrLen = 1738;
 		vrLoc = 1730;
+	};
+	248EB8D413C26946004D762E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24D342D013C0CDF40013E08E /* View.m */;
+		name = "View.m: 82";
+		rLen = 0;
+		rLoc = 2367;
+		rType = 0;
+		vrLen = 1710;
+		vrLoc = 135;
 	};
 	24D342C213C0CD530013E08E /* Touch */ = {
 		isa = PBXExecutable;
@@ -115,9 +115,9 @@
 	};
 	24D342D013C0CDF40013E08E /* View.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {844, 1965}}";
-			sepNavSelRange = "{1841, 0}";
-			sepNavVisRange = "{428, 1090}";
+			sepNavIntBoundsRect = "{{0, 0}, {1087, 1830}}";
+			sepNavSelRange = "{2367, 0}";
+			sepNavVisRange = "{135, 1710}";
 			sepNavWindowFrame = "{{38, 393}, {1278, 999}}";
 		};
 	};
@@ -140,7 +140,7 @@
 					20,
 					909,
 					20,
-					48.16259765625,
+					48,
 					43,
 					43,
 					20,
@@ -155,15 +155,15 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 331481943;
-			PBXWorkspaceStateSaveDate = 331481943;
+			PBXPerProjectTemplateStateSaveDate = 331507999;
+			PBXWorkspaceStateSaveDate = 331507999;
 		};
 		perUserProjectItems = {
 			248126B413C2529700B5FA16 /* PBXTextBookmark */ = 248126B413C2529700B5FA16 /* PBXTextBookmark */;
 			248126B513C2529700B5FA16 /* PBXTextBookmark */ = 248126B513C2529700B5FA16 /* PBXTextBookmark */;
 			248126B613C2529700B5FA16 /* PBXTextBookmark */ = 248126B613C2529700B5FA16 /* PBXTextBookmark */;
-			248126B713C2529700B5FA16 /* PBXTextBookmark */ = 248126B713C2529700B5FA16 /* PBXTextBookmark */;
 			2481274B13C262F800B5FA16 /* PBXTextBookmark */ = 2481274B13C262F800B5FA16 /* PBXTextBookmark */;
+			248EB8D413C26946004D762E /* PBXTextBookmark */ = 248EB8D413C26946004D762E /* PBXTextBookmark */;
 		};
 		sourceControlManager = 24D342CD13C0CD720013E08E /* Source Control */;
 		userBuildSettings = {
