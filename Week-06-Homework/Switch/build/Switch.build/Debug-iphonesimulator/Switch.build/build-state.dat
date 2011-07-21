@@ -1,0 +1,349 @@
+TSwitch
+v7
+r0
+t332909798.442013
+cCheck dependencies
+cProcessInfoPlistFile /Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app/Info.plist Switch-Info.plist
+cCompileXIB /Users/michaelfenimore/Documents/nyu-iphone/Switch/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/Switch.app/switch57.png switch57.png
+cCpResource build/Debug-iphonesimulator/Switch.app/switch72.png switch72.png
+cCpResource build/Debug-iphonesimulator/Switch.app/switch114.png switch114.png
+cCpResource build/Debug-iphonesimulator/Switch.app/musette.mp3 musette.mp3
+cCpResource build/Debug-iphonesimulator/Switch.app/nightsky.png nightsky.png
+cProcessPCH /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Switch_Prefix-hgmcgqrlyaphkcdnwfqtgnjwbfqo/Switch_Prefix.pch.gch Switch_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Switch.build/Debug-iphonesimulator/Switch.build/Objects-normal/i386/main.o /Users/michaelfenimore/Documents/nyu-iphone/Switch/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Switch.build/Debug-iphonesimulator/Switch.build/Objects-normal/i386/SwitchAppDelegate.o /Users/michaelfenimore/Documents/nyu-iphone/Switch/Classes/SwitchAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Switch.build/Debug-iphonesimulator/Switch.build/Objects-normal/i386/View.o /Users/michaelfenimore/Documents/nyu-iphone/Switch/Classes/View.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app/Switch normal i386
+cGenerateDSYMFile /Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app.dSYM /Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app/Switch
+cTouch /Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004D5EBEC300000000001340C0
+t1298054851
+s1261760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVAudioPlayer.h
+c000000004D5EBEBB00000000000012F8
+t1298054843
+s4856
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004D5EBEBB00000000000007D0
+t1298054843
+s2000
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Switch/Classes/SwitchAppDelegate.h
+c000000004E2785E000000000000001DE
+t1311213024
+s478
+i<UIKit/UIKit.h>
+i<AVFoundation/AVAudioPlayer.h>
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Switch/Classes/SwitchAppDelegate.m
+c000000004E2793C300000000000011D8
+t1311216579
+s4568
+i"SwitchAppDelegate.h"
+i"View.h"
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Switch/Classes/View.h
+c000000004E27932B0000000000000269
+t1311216427
+s617
+i<UIKit/UIKit.h>
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Switch/Classes/View.m
+c000000004E2795650000000000000D20
+t1311216997
+s3360
+i"View.h"
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Switch/MainWindow.xib
+c000000004E2775A10000000000002103
+t1311208865
+s8451
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Switch/Switch_Prefix.pch
+c000000004E2775A100000000000000B5
+t1311208865
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app
+t1311216998
+s374
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app.dSYM
+t1311216998
+s102
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app/Info.plist
+t1311209559
+s636
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app/MainWindow.nib
+t1311209559
+s1530
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app/PkgInfo
+t1311209559
+s8
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app/Switch
+t1311216998
+s23516
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app/musette.mp3
+t1311213987
+s401239
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app/nightsky.png
+t1311216998
+s94767
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app/switch114.png
+t1311210089
+s8734
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app/switch57.png
+t1311210089
+s4280
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app/switch72.png
+t1311210089
+s5287
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Switch.build/Debug-iphonesimulator/Switch.build/Objects-normal/i386/Switch.LinkFileList
+c000000004E2778570000000000000199
+t1311209559
+s409
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Switch.build/Debug-iphonesimulator/Switch.build/Objects-normal/i386/SwitchAppDelegate.o
+t1311216580
+s58244
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Switch.build/Debug-iphonesimulator/Switch.build/Objects-normal/i386/View.o
+t1311216998
+s52964
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Switch.build/Debug-iphonesimulator/Switch.build/Objects-normal/i386/main.o
+t1311209560
+s6516
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Switch/main.m
+c000000004E2776C3000000000000017F
+t1311209155
+s383
+i<UIKit/UIKit.h>
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Switch/musette.mp3
+c000000004E277FB00000000000061F57
+t1311211440
+s401239
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Switch/nightsky.png
+c000000004E11CD40000000000001722F
+t1309789504
+s94767
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Switch/switch114.png
+c000000004E2779BB000000000000221E
+t1311209915
+s8734
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Switch/switch57.png
+c000000004E2779E900000000000010B8
+t1311209961
+s4280
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Switch/switch72.png
+c000000004E2779D100000000000014A7
+t1311209937
+s5287
+
+N/var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Switch_Prefix-hgmcgqrlyaphkcdnwfqtgnjwbfqo/Switch_Prefix.pch.gch
+t1311209560
+s15814064
+
+NSwitch-Info.plist
+c000000004E27775700000000000003BC
+t1311209303
+s956
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies332909798#332909798#0(0"0(0#1#0"8617667712#0"0#
+
+CCompileC build/Switch.build/Debug-iphonesimulator/Switch.build/Objects-normal/i386/SwitchAppDelegate.o /Users/michaelfenimore/Documents/nyu-iphone/Switch/Classes/SwitchAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332909380.867752
+e332909380.959120
+r1
+xCompileC
+xbuild/Switch.build/Debug-iphonesimulator/Switch.build/Objects-normal/i386/SwitchAppDelegate.o
+x/Users/michaelfenimore/Documents/nyu-iphone/Switch/Classes/SwitchAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/michaelfenimore/Documents/nyu-iphone/Switch/Classes/SwitchAppDelegate.m332909380#332909380#0(0"0(0#0#78"/Users/michaelfenimore/Documents/nyu-iphone/Switch/Classes/SwitchAppDelegate.m8617381536#2060"    cd /Users/michaelfenimore/Documents/nyu-iphone/Switch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Switch.build/Debug-iphonesimulator/Switch.build/Switch-generated-files.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Switch.build/Debug-iphonesimulator/Switch.build/Switch-own-target-headers.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Switch.build/Debug-iphonesimulator/Switch.build/Switch-all-target-headers.hmap -iquote /Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Switch.build/Debug-iphonesimulator/Switch.build/Switch-project-headers.hmap -F/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator -I/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/include -I/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Switch.build/Debug-iphonesimulator/Switch.build/DerivedSources/i386 -I/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Switch.build/Debug-iphonesimulator/Switch.build/DerivedSources -include /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Switch_Prefix-hgmcgqrlyaphkcdnwfqtgnjwbfqo/Switch_Prefix.pch -c /Users/michaelfenimore/Documents/nyu-iphone/Switch/Classes/SwitchAppDelegate.m -o /Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Switch.build/Debug-iphonesimulator/Switch.build/Objects-normal/i386/SwitchAppDelegate.o0#
+
+CCompileC build/Switch.build/Debug-iphonesimulator/Switch.build/Objects-normal/i386/View.o /Users/michaelfenimore/Documents/nyu-iphone/Switch/Classes/View.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332909798.301313
+e332909798.403934
+r1
+xCompileC
+xbuild/Switch.build/Debug-iphonesimulator/Switch.build/Objects-normal/i386/View.o
+x/Users/michaelfenimore/Documents/nyu-iphone/Switch/Classes/View.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/michaelfenimore/Documents/nyu-iphone/Switch/Classes/View.m332909798#332909798#0(0"0(0#0#65"/Users/michaelfenimore/Documents/nyu-iphone/Switch/Classes/View.m8620615136#2034"    cd /Users/michaelfenimore/Documents/nyu-iphone/Switch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Switch.build/Debug-iphonesimulator/Switch.build/Switch-generated-files.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Switch.build/Debug-iphonesimulator/Switch.build/Switch-own-target-headers.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Switch.build/Debug-iphonesimulator/Switch.build/Switch-all-target-headers.hmap -iquote /Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Switch.build/Debug-iphonesimulator/Switch.build/Switch-project-headers.hmap -F/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator -I/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/include -I/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Switch.build/Debug-iphonesimulator/Switch.build/DerivedSources/i386 -I/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Switch.build/Debug-iphonesimulator/Switch.build/DerivedSources -include /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Switch_Prefix-hgmcgqrlyaphkcdnwfqtgnjwbfqo/Switch_Prefix.pch -c /Users/michaelfenimore/Documents/nyu-iphone/Switch/Classes/View.m -o /Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Switch.build/Debug-iphonesimulator/Switch.build/Objects-normal/i386/View.o0#
+
+CCompileC build/Switch.build/Debug-iphonesimulator/Switch.build/Objects-normal/i386/main.o /Users/michaelfenimore/Documents/nyu-iphone/Switch/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332902360.291829
+e332902360.409306
+r1
+xCompileC
+xbuild/Switch.build/Debug-iphonesimulator/Switch.build/Objects-normal/i386/main.o
+x/Users/michaelfenimore/Documents/nyu-iphone/Switch/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/michaelfenimore/Documents/nyu-iphone/Switch/main.m332902360#332902360#0(0"0(0#0#57"/Users/michaelfenimore/Documents/nyu-iphone/Switch/main.m8614556512#2026"    cd /Users/michaelfenimore/Documents/nyu-iphone/Switch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Switch.build/Debug-iphonesimulator/Switch.build/Switch-generated-files.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Switch.build/Debug-iphonesimulator/Switch.build/Switch-own-target-headers.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Switch.build/Debug-iphonesimulator/Switch.build/Switch-all-target-headers.hmap -iquote /Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Switch.build/Debug-iphonesimulator/Switch.build/Switch-project-headers.hmap -F/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator -I/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/include -I/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Switch.build/Debug-iphonesimulator/Switch.build/DerivedSources/i386 -I/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Switch.build/Debug-iphonesimulator/Switch.build/DerivedSources -include /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Switch_Prefix-hgmcgqrlyaphkcdnwfqtgnjwbfqo/Switch_Prefix.pch -c /Users/michaelfenimore/Documents/nyu-iphone/Switch/main.m -o /Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Switch.build/Debug-iphonesimulator/Switch.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/michaelfenimore/Documents/nyu-iphone/Switch/MainWindow.xib
+s332902359.244766
+e332902359.610854
+r1
+xCompileXIB
+x/Users/michaelfenimore/Documents/nyu-iphone/Switch/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib332902359#332902359#0(0"0(0#0#65"/Users/michaelfenimore/Documents/nyu-iphone/Switch/MainWindow.xib8614407872#605"    cd /Users/michaelfenimore/Documents/nyu-iphone/Switch    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app/MainWindow.nib /Users/michaelfenimore/Documents/nyu-iphone/Switch/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource build/Debug-iphonesimulator/Switch.app/musette.mp3 musette.mp3
+s332906787.699127
+e332906787.705617
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Switch.app/musette.mp3
+xmusette.mp3
+lSLF07#2@16"Copy musette.mp3332906787#332906787#0(0"0(0#0#62"/Users/michaelfenimore/Documents/nyu-iphone/Switch/musette.mp328429466576683116#504"    cd /Users/michaelfenimore/Documents/nyu-iphone/Switch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/michaelfenimore/Documents/nyu-iphone/Switch/musette.mp3 /Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app0#
+
+CCpResource build/Debug-iphonesimulator/Switch.app/nightsky.png nightsky.png
+s332909798.296970
+e332909798.301056
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Switch.app/nightsky.png
+xnightsky.png
+lSLF07#2@17"Copy nightsky.png332909798#332909798#0(0"0(0#0#63"/Users/michaelfenimore/Documents/nyu-iphone/Switch/nightsky.png8618954784#505"    cd /Users/michaelfenimore/Documents/nyu-iphone/Switch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/michaelfenimore/Documents/nyu-iphone/Switch/nightsky.png /Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app0#
+
+CCpResource build/Debug-iphonesimulator/Switch.app/switch114.png switch114.png
+s332902889.916593
+e332902889.937734
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Switch.app/switch114.png
+xswitch114.png
+lSLF07#2@18"Copy switch114.png332902889#332902889#0(0"0(0#0#64"/Users/michaelfenimore/Documents/nyu-iphone/Switch/switch114.png8613342400#506"    cd /Users/michaelfenimore/Documents/nyu-iphone/Switch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/michaelfenimore/Documents/nyu-iphone/Switch/switch114.png /Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app0#
+
+CCpResource build/Debug-iphonesimulator/Switch.app/switch57.png switch57.png
+s332902889.915547
+e332902889.937583
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Switch.app/switch57.png
+xswitch57.png
+lSLF07#2@17"Copy switch57.png332902889#332902889#0(0"0(0#0#63"/Users/michaelfenimore/Documents/nyu-iphone/Switch/switch57.png32651548277801076#505"    cd /Users/michaelfenimore/Documents/nyu-iphone/Switch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/michaelfenimore/Documents/nyu-iphone/Switch/switch57.png /Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app0#
+
+CCpResource build/Debug-iphonesimulator/Switch.app/switch72.png switch72.png
+s332902889.916101
+e332902889.937381
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Switch.app/switch72.png
+xswitch72.png
+lSLF07#2@17"Copy switch72.png332902889#332902889#0(0"0(0#0#63"/Users/michaelfenimore/Documents/nyu-iphone/Switch/switch72.png8614311456#505"    cd /Users/michaelfenimore/Documents/nyu-iphone/Switch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/michaelfenimore/Documents/nyu-iphone/Switch/switch72.png /Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app0#
+
+CGenerateDSYMFile /Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app.dSYM /Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app/Switch
+s332909798.427078
+e332909798.439931
+r1
+xGenerateDSYMFile
+x/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app.dSYM
+x/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app/Switch
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/Switch.app.dSYM build/Debug-iphonesimulator/Switch.app/Switch332909798#332909798#0(0"0(0#0#96"/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app/Switch8618574560#416"    cd /Users/michaelfenimore/Documents/nyu-iphone/Switch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app/Switch -o /Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app.dSYM0#
+
+CLd /Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app/Switch normal i386
+s332909798.404004
+e332909798.427012
+r1
+xLd
+x/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app/Switch
+xnormal
+xi386
+lSLF07#2@101"Link /Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app/Switch332909798#332909798#0(0"0(0#0#0"8620017120#979"    cd /Users/michaelfenimore/Documents/nyu-iphone/Switch    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator -F/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator -filelist /Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Switch.build/Debug-iphonesimulator/Switch.build/Objects-normal/i386/Switch.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework AVFoundation -o /Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app/Switch0#
+
+CProcessInfoPlistFile /Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app/Info.plist Switch-Info.plist
+s332902359.223396
+e332902359.244703
+r1
+xProcessInfoPlistFile
+x/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app/Info.plist
+xSwitch-Info.plist
+lSLF07#2@25"Process Switch-Info.plist332902359#332902359#0(0"0(0#0#68"/Users/michaelfenimore/Documents/nyu-iphone/Switch/Switch-Info.plist12948325676744814#512"    cd /Users/michaelfenimore/Documents/nyu-iphone/Switch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Switch-Info.plist -genpkginfo /Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app/Info.plist0#
+
+CProcessPCH /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Switch_Prefix-hgmcgqrlyaphkcdnwfqtgnjwbfqo/Switch_Prefix.pch.gch Switch_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s332902359.610979
+e332902360.291760
+r1
+xProcessPCH
+x/var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Switch_Prefix-hgmcgqrlyaphkcdnwfqtgnjwbfqo/Switch_Prefix.pch.gch
+xSwitch_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Switch_Prefix.pch332902359#332902360#0(0"0(0#0#68"/Users/michaelfenimore/Documents/nyu-iphone/Switch/Switch_Prefix.pch8604023456#1907"    cd /Users/michaelfenimore/Documents/nyu-iphone/Switch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Switch.build/Debug-iphonesimulator/Switch.build/Switch-generated-files.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Switch.build/Debug-iphonesimulator/Switch.build/Switch-own-target-headers.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Switch.build/Debug-iphonesimulator/Switch.build/Switch-all-target-headers.hmap -iquote /Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Switch.build/Debug-iphonesimulator/Switch.build/Switch-project-headers.hmap -F/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator -I/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/include -I/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Switch.build/Debug-iphonesimulator/Switch.build/DerivedSources/i386 -I/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Switch.build/Debug-iphonesimulator/Switch.build/DerivedSources -c /Users/michaelfenimore/Documents/nyu-iphone/Switch/Switch_Prefix.pch -o /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Switch_Prefix-hgmcgqrlyaphkcdnwfqtgnjwbfqo/Switch_Prefix.pch.gch0#
+
+CTouch /Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app
+s332909798.439996
+e332909798.441985
+r1
+xTouch
+x/Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app
+lSLF07#2@95"Touch /Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app332909798#332909798#0(0"0(0#0#0"8617116480#301"    cd /Users/michaelfenimore/Documents/nyu-iphone/Switch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/michaelfenimore/Documents/nyu-iphone/Switch/build/Debug-iphonesimulator/Switch.app0#
+

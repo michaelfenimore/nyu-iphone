@@ -1,0 +1,246 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* SwitchAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {957, 772}}";
+			sepNavSelRange = "{356, 0}";
+			sepNavVisRange = "{0, 478}";
+			sepNavWindowFrame = "{{15, 414}, {1278, 999}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* SwitchAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2244, 2100}}";
+			sepNavSelRange = "{683, 0}";
+			sepNavVisRange = "{0, 1484}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Switch */ = {
+		activeExec = 0;
+		executables = (
+			2440AD9B13D7AD21009D8C54 /* Switch */,
+		);
+	};
+	2440AD9B13D7AD21009D8C54 /* Switch */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Switch;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	2440ADAB13D7AD40009D8C54 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2440ADAC13D7AD40009D8C54 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2440ADAF13D7AEFC009D8C54 /* View.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {957, 749}}";
+			sepNavSelRange = "{617, 0}";
+			sepNavVisRange = "{0, 617}";
+		};
+	};
+	2440ADB013D7AEFC009D8C54 /* View.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {812, 2355}}";
+			sepNavSelRange = "{3354, 0}";
+			sepNavVisRange = "{524, 342}";
+			sepNavWindowFrame = "{{15, 414}, {1278, 999}}";
+		};
+	};
+	2440ADBC13D7B031009D8C54 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Switch-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/michaelfenimore/Documents/nyu-iphone/Switch/Switch-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	2440ADD713D7B1EB009D8C54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* Switch_Prefix.pch */;
+		name = "Switch_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 181;
+		vrLoc = 0;
+	};
+	2440AEAD13D7BB68009D8C54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2440AEAE13D7BB68009D8C54 /* AVAudioPlayer.h */;
+		name = "AVAudioPlayer.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2020;
+		vrLoc = 0;
+	};
+	2440AEAE13D7BB68009D8C54 /* AVAudioPlayer.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = AVAudioPlayer.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVAudioPlayer.h;
+		sourceTree = "<absolute>";
+	};
+	24AA35D313D7BCAB003B568C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 7";
+		rLen = 0;
+		rLoc = 135;
+		rType = 0;
+		vrLen = 383;
+		vrLoc = 0;
+	};
+	24AA36EA13D7CD26003B568C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2440ADB013D7AEFC009D8C54 /* View.m */;
+		name = "View.m: 122";
+		rLen = 0;
+		rLoc = 3318;
+		rType = 0;
+		vrLen = 1271;
+		vrLoc = 0;
+	};
+	24AA36EB13D7CD26003B568C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2440ADAF13D7AEFC009D8C54 /* View.h */;
+		name = "View.h: 27";
+		rLen = 0;
+		rLoc = 617;
+		rType = 0;
+		vrLen = 617;
+		vrLoc = 0;
+	};
+	24AA36EC13D7CD26003B568C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SwitchAppDelegate.m */;
+		name = "SwitchAppDelegate.m: 26";
+		rLen = 0;
+		rLoc = 683;
+		rType = 0;
+		vrLen = 1484;
+		vrLoc = 0;
+	};
+	24AA36ED13D7CD26003B568C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SwitchAppDelegate.h */;
+		name = "SwitchAppDelegate.h: 16";
+		rLen = 0;
+		rLoc = 356;
+		rType = 0;
+		vrLen = 478;
+		vrLoc = 0;
+	};
+	24AA36EE13D7CD26003B568C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SwitchAppDelegate.h */;
+		name = "SwitchAppDelegate.h: 16";
+		rLen = 0;
+		rLoc = 356;
+		rType = 0;
+		vrLen = 478;
+		vrLoc = 0;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2440AD9B13D7AD21009D8C54 /* Switch */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Switch */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Switch */,
+		);
+		codeSenseManager = 2440ADAC13D7AD40009D8C54 /* Code sense */;
+		executables = (
+			2440AD9B13D7AD21009D8C54 /* Switch */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					779,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 332906756;
+			PBXWorkspaceStateSaveDate = 332906756;
+		};
+		perUserProjectItems = {
+			2440ADBC13D7B031009D8C54 /* PlistBookmark */ = 2440ADBC13D7B031009D8C54 /* PlistBookmark */;
+			2440ADD713D7B1EB009D8C54 /* PBXTextBookmark */ = 2440ADD713D7B1EB009D8C54 /* PBXTextBookmark */;
+			2440AEAD13D7BB68009D8C54 /* PBXTextBookmark */ = 2440AEAD13D7BB68009D8C54 /* PBXTextBookmark */;
+			24AA35D313D7BCAB003B568C /* PBXTextBookmark */ = 24AA35D313D7BCAB003B568C /* PBXTextBookmark */;
+			24AA36EA13D7CD26003B568C /* PBXTextBookmark */ = 24AA36EA13D7CD26003B568C /* PBXTextBookmark */;
+			24AA36EB13D7CD26003B568C /* PBXTextBookmark */ = 24AA36EB13D7CD26003B568C /* PBXTextBookmark */;
+			24AA36EC13D7CD26003B568C /* PBXTextBookmark */ = 24AA36EC13D7CD26003B568C /* PBXTextBookmark */;
+			24AA36ED13D7CD26003B568C /* PBXTextBookmark */ = 24AA36ED13D7CD26003B568C /* PBXTextBookmark */;
+			24AA36EE13D7CD26003B568C /* PBXTextBookmark */ = 24AA36EE13D7CD26003B568C /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2440ADAB13D7AD40009D8C54 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {957, 752}}";
+			sepNavSelRange = "{135, 0}";
+			sepNavVisRange = "{0, 383}";
+			sepNavWindowFrame = "{{38, 393}, {1278, 999}}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* Switch_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {957, 781}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 181}";
+		};
+	};
+}
