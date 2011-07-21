@@ -12,12 +12,20 @@
 
 @interface SwitchAppDelegate : NSObject <UIApplicationDelegate, AVAudioPlayerDelegate> {
 	
-	AVAudioPlayer *player;
+	AVAudioPlayer *player1;
+	AVAudioPlayer *player2;
+	AVAudioPlayer *player3;
+	AVAudioPlayer *player4;
+	AVAudioPlayer *player5;
 	View *myView;
 	UIWindow *window;
 }
 
-- (void) valueChanged: (id) sender;
+- (void) valueChanged1: (id) sender;
+- (void) valueChanged2: (id) sender;
+- (void) valueChanged3: (id) sender;
+- (void) valueChanged4: (id) sender;
+- (void) valueChanged5: (id) sender;
 
 @property (nonatomic, retain) IBOutlet UIWindow *window;
 

@@ -8,7 +8,6 @@
 
 #import "View.h"
 
-
 @implementation View
 @synthesize mySwitch01;
 @synthesize mySwitch02;
@@ -58,44 +57,60 @@
 		mySwitch05.on = NO;	//the default
 		
 		[mySwitch01 addTarget: [UIApplication sharedApplication].delegate
-					 action: @selector(valueChanged:)
+					 action: @selector(valueChanged1:)
 		   forControlEvents: UIControlEventValueChanged
 		 ];
 		
 		[mySwitch02 addTarget: [UIApplication sharedApplication].delegate
-					   action: @selector(valueChanged:)
+					   action: @selector(valueChanged2:)
 			 forControlEvents: UIControlEventValueChanged
 		 ];
 		
 		[mySwitch03 addTarget: [UIApplication sharedApplication].delegate
-					   action: @selector(valueChanged:)
+					   action: @selector(valueChanged3:)
 			 forControlEvents: UIControlEventValueChanged
 		 ];
 		
 		[mySwitch04 addTarget: [UIApplication sharedApplication].delegate
-					   action: @selector(valueChanged:)
+					   action: @selector(valueChanged4:)
 			 forControlEvents: UIControlEventValueChanged
 		 ];
 		
 		[mySwitch05 addTarget: [UIApplication sharedApplication].delegate
-					   action: @selector(valueChanged:)
+					   action: @selector(valueChanged5:)
 			 forControlEvents: UIControlEventValueChanged
 		 ];
 		
 		//Center the switch in the SwitchView.
-		CGRect b = self.bounds;
+		//CGRect b = self.bounds;
 		
 		mySwitch01.center = CGPointMake(
-									  b.origin.x + b.size.width / 2,
-									  b.origin.y + b.size.height / 2
-									  );
+										60,
+										mySwitch01.frame.size.height * 3
+										);
+		mySwitch02.center = CGPointMake(
+										60,
+										mySwitch02.frame.size.height * 5
+										);
+		mySwitch03.center = CGPointMake(
+										60,
+										mySwitch03.frame.size.height * 7
+										);
+		mySwitch04.center = CGPointMake(
+										60,
+										mySwitch04.frame.size.height * 9
+										);
+		mySwitch05.center = CGPointMake(
+										60,
+										mySwitch03.frame.size.height * 11
+										);
 		
-		NSLog(@"mySwitch.frame == (%g, %g), %g × %g",
-			  mySwitch01.frame.origin.x,
-			  mySwitch01.frame.origin.y,
-			  mySwitch01.frame.size.width,
-			  mySwitch01.frame.size.height
-			  );
+//		NSLog(@"mySwitch.frame == (%g, %g), %g × %g",
+//			  mySwitch01.frame.origin.x,
+//			  mySwitch01.frame.origin.y,
+//			  mySwitch01.frame.size.width,
+//			  mySwitch01.frame.size.height
+//			  );
 		
 		[self addSubview: mySwitch01];
 		[self addSubview: mySwitch02];

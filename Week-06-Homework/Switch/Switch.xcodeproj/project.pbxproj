@@ -16,16 +16,25 @@
 		2440ADD213D7B183009D8C54 /* switch57.png in Resources */ = {isa = PBXBuildFile; fileRef = 2440ADCF13D7B183009D8C54 /* switch57.png */; };
 		2440ADD313D7B183009D8C54 /* switch72.png in Resources */ = {isa = PBXBuildFile; fileRef = 2440ADD013D7B183009D8C54 /* switch72.png */; };
 		2440ADD413D7B183009D8C54 /* switch114.png in Resources */ = {isa = PBXBuildFile; fileRef = 2440ADD113D7B183009D8C54 /* switch114.png */; };
-		24AA364313D7C116003B568C /* musette.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24AA364213D7C116003B568C /* musette.mp3 */; };
 		24AA36E013D7CB64003B568C /* nightsky.png in Resources */ = {isa = PBXBuildFile; fileRef = 24AA36DF13D7CB64003B568C /* nightsky.png */; };
 		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
 		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		ADB156F213D8B06400CD4AA5 /* beam_scotty.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = ADB156ED13D8B06400CD4AA5 /* beam_scotty.mp3 */; };
+		ADB156F313D8B06400CD4AA5 /* fascinating.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = ADB156EE13D8B06400CD4AA5 /* fascinating.mp3 */; };
+		ADB156F413D8B06400CD4AA5 /* get_off_bridge.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = ADB156EF13D8B06400CD4AA5 /* get_off_bridge.mp3 */; };
+		ADB156F513D8B06400CD4AA5 /* soundhug.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = ADB156F013D8B06400CD4AA5 /* soundhug.mp3 */; };
+		ADB156F613D8B06400CD4AA5 /* soundtribble.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = ADB156F113D8B06400CD4AA5 /* soundtribble.mp3 */; };
+		ADB157B013D8CD3C00CD4AA5 /* kirk.png in Resources */ = {isa = PBXBuildFile; fileRef = ADB157AB13D8CD3C00CD4AA5 /* kirk.png */; };
+		ADB157B113D8CD3C00CD4AA5 /* picard.png in Resources */ = {isa = PBXBuildFile; fileRef = ADB157AC13D8CD3C00CD4AA5 /* picard.png */; };
+		ADB157B213D8CD3C00CD4AA5 /* spock.png in Resources */ = {isa = PBXBuildFile; fileRef = ADB157AD13D8CD3C00CD4AA5 /* spock.png */; };
+		ADB157B313D8CD3C00CD4AA5 /* tribble.png in Resources */ = {isa = PBXBuildFile; fileRef = ADB157AE13D8CD3C00CD4AA5 /* tribble.png */; };
+		ADB157B413D8CD3C00CD4AA5 /* worf.png in Resources */ = {isa = PBXBuildFile; fileRef = ADB157AF13D8CD3C00CD4AA5 /* worf.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		1D3623240D0F684500981E51 /* SwitchAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SwitchAppDelegate.h; path = "/Users/michaelfenimore/Documents/nyu-iphone/Switch/Classes/SwitchAppDelegate.h"; sourceTree = "<absolute>"; };
-		1D3623250D0F684500981E51 /* SwitchAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SwitchAppDelegate.m; path = "/Users/michaelfenimore/Documents/nyu-iphone/Switch/Classes/SwitchAppDelegate.m"; sourceTree = "<absolute>"; };
+		1D3623240D0F684500981E51 /* SwitchAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SwitchAppDelegate.h; path = "nyu-iphone/Week-06-Homework/Switch/Classes/SwitchAppDelegate.h"; sourceTree = DEVELOPER_DIR; };
+		1D3623250D0F684500981E51 /* SwitchAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SwitchAppDelegate.m; path = "nyu-iphone/Week-06-Homework/Switch/Classes/SwitchAppDelegate.m"; sourceTree = DEVELOPER_DIR; };
 		1D6058910D05DD3D006BFB54 /* Switch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Switch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		2440ADAF13D7AEFC009D8C54 /* View.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = View.h; sourceTree = "<group>"; };
@@ -34,13 +43,22 @@
 		2440ADCF13D7B183009D8C54 /* switch57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = switch57.png; sourceTree = "<group>"; };
 		2440ADD013D7B183009D8C54 /* switch72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = switch72.png; sourceTree = "<group>"; };
 		2440ADD113D7B183009D8C54 /* switch114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = switch114.png; sourceTree = "<group>"; };
-		24AA364213D7C116003B568C /* musette.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = musette.mp3; sourceTree = "<group>"; };
 		24AA36DF13D7CB64003B568C /* nightsky.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nightsky.png; sourceTree = "<group>"; };
 		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		32CA4F630368D1EE00C91783 /* Switch_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Switch_Prefix.pch; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* Switch-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Switch-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		ADB156ED13D8B06400CD4AA5 /* beam_scotty.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = beam_scotty.mp3; path = "nyu-iphone/Week-06-Homework/Switch/beam_scotty.mp3"; sourceTree = DEVELOPER_DIR; };
+		ADB156EE13D8B06400CD4AA5 /* fascinating.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = fascinating.mp3; path = "nyu-iphone/Week-06-Homework/Switch/fascinating.mp3"; sourceTree = DEVELOPER_DIR; };
+		ADB156EF13D8B06400CD4AA5 /* get_off_bridge.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = get_off_bridge.mp3; path = "nyu-iphone/Week-06-Homework/Switch/get_off_bridge.mp3"; sourceTree = DEVELOPER_DIR; };
+		ADB156F013D8B06400CD4AA5 /* soundhug.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = soundhug.mp3; path = "nyu-iphone/Week-06-Homework/Switch/soundhug.mp3"; sourceTree = DEVELOPER_DIR; };
+		ADB156F113D8B06400CD4AA5 /* soundtribble.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = soundtribble.mp3; path = "nyu-iphone/Week-06-Homework/Switch/soundtribble.mp3"; sourceTree = DEVELOPER_DIR; };
+		ADB157AB13D8CD3C00CD4AA5 /* kirk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = kirk.png; path = "nyu-iphone/Week-06-Homework/Switch/kirk.png"; sourceTree = DEVELOPER_DIR; };
+		ADB157AC13D8CD3C00CD4AA5 /* picard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = picard.png; path = "nyu-iphone/Week-06-Homework/Switch/picard.png"; sourceTree = DEVELOPER_DIR; };
+		ADB157AD13D8CD3C00CD4AA5 /* spock.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = spock.png; path = "nyu-iphone/Week-06-Homework/Switch/spock.png"; sourceTree = DEVELOPER_DIR; };
+		ADB157AE13D8CD3C00CD4AA5 /* tribble.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tribble.png; path = "nyu-iphone/Week-06-Homework/Switch/tribble.png"; sourceTree = DEVELOPER_DIR; };
+		ADB157AF13D8CD3C00CD4AA5 /* worf.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = worf.png; path = "nyu-iphone/Week-06-Homework/Switch/worf.png"; sourceTree = DEVELOPER_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,8 +110,17 @@
 		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
 			isa = PBXGroup;
 			children = (
+				ADB157AB13D8CD3C00CD4AA5 /* kirk.png */,
+				ADB157AC13D8CD3C00CD4AA5 /* picard.png */,
+				ADB157AD13D8CD3C00CD4AA5 /* spock.png */,
+				ADB157AE13D8CD3C00CD4AA5 /* tribble.png */,
+				ADB157AF13D8CD3C00CD4AA5 /* worf.png */,
+				ADB156ED13D8B06400CD4AA5 /* beam_scotty.mp3 */,
+				ADB156EE13D8B06400CD4AA5 /* fascinating.mp3 */,
+				ADB156EF13D8B06400CD4AA5 /* get_off_bridge.mp3 */,
+				ADB156F013D8B06400CD4AA5 /* soundhug.mp3 */,
+				ADB156F113D8B06400CD4AA5 /* soundtribble.mp3 */,
 				24AA36DF13D7CB64003B568C /* nightsky.png */,
-				24AA364213D7C116003B568C /* musette.mp3 */,
 				2440ADCF13D7B183009D8C54 /* switch57.png */,
 				2440ADD013D7B183009D8C54 /* switch72.png */,
 				2440ADD113D7B183009D8C54 /* switch114.png */,
@@ -176,8 +203,17 @@
 				2440ADD213D7B183009D8C54 /* switch57.png in Resources */,
 				2440ADD313D7B183009D8C54 /* switch72.png in Resources */,
 				2440ADD413D7B183009D8C54 /* switch114.png in Resources */,
-				24AA364313D7C116003B568C /* musette.mp3 in Resources */,
 				24AA36E013D7CB64003B568C /* nightsky.png in Resources */,
+				ADB156F213D8B06400CD4AA5 /* beam_scotty.mp3 in Resources */,
+				ADB156F313D8B06400CD4AA5 /* fascinating.mp3 in Resources */,
+				ADB156F413D8B06400CD4AA5 /* get_off_bridge.mp3 in Resources */,
+				ADB156F513D8B06400CD4AA5 /* soundhug.mp3 in Resources */,
+				ADB156F613D8B06400CD4AA5 /* soundtribble.mp3 in Resources */,
+				ADB157B013D8CD3C00CD4AA5 /* kirk.png in Resources */,
+				ADB157B113D8CD3C00CD4AA5 /* picard.png in Resources */,
+				ADB157B213D8CD3C00CD4AA5 /* spock.png in Resources */,
+				ADB157B313D8CD3C00CD4AA5 /* tribble.png in Resources */,
+				ADB157B413D8CD3C00CD4AA5 /* worf.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
