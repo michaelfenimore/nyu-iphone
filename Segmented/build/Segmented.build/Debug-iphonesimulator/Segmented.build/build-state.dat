@@ -1,0 +1,249 @@
+TSegmented
+v7
+r0
+t332983493.669831
+cCheck dependencies
+cProcessInfoPlistFile /Volumes/MAC/Segmented/build/Debug-iphonesimulator/Segmented.app/Info.plist Segmented-Info.plist
+cCompileXIB /Volumes/MAC/Segmented/MainWindow.xib
+cProcessPCH /var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Segmented_Prefix-aauaiwhuqpitzualcwmzvtvlfccl/Segmented_Prefix.pch.gch Segmented_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Segmented.build/Debug-iphonesimulator/Segmented.build/Objects-normal/i386/main.o /Volumes/MAC/Segmented/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Segmented.build/Debug-iphonesimulator/Segmented.build/Objects-normal/i386/SegmentedAppDelegate.o /Volumes/MAC/Segmented/Classes/SegmentedAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Segmented.build/Debug-iphonesimulator/Segmented.build/Objects-normal/i386/View.o /Volumes/MAC/Segmented/Classes/View.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Volumes/MAC/Segmented/build/Debug-iphonesimulator/Segmented.app/Segmented normal i386
+cGenerateDSYMFile /Volumes/MAC/Segmented/build/Debug-iphonesimulator/Segmented.app.dSYM /Volumes/MAC/Segmented/build/Debug-iphonesimulator/Segmented.app/Segmented
+cTouch /Volumes/MAC/Segmented/build/Debug-iphonesimulator/Segmented.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004D5EBEC300000000001340C0
+t1298054851
+s1261760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004D5EBEBB00000000000007D0
+t1298054843
+s2000
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Volumes/MAC/Segmented/Classes/SegmentedAppDelegate.h
+c000000004E28B1760000000000000221
+t1311289718
+s545
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Volumes/MAC/Segmented/Classes/SegmentedAppDelegate.m
+c000000004E28B5100000000000001B6A
+t1311290640
+s7018
+i"SegmentedAppDelegate.h"
+i"View.h"
+
+N/Volumes/MAC/Segmented/Classes/View.h
+c000000004E28B0E8000000000000012B
+t1311289576
+s299
+i<UIKit/UIKit.h>
+
+N/Volumes/MAC/Segmented/Classes/View.m
+c000000004E28B11E00000000000005E5
+t1311289630
+s1509
+i"View.h"
+
+N/Volumes/MAC/Segmented/MainWindow.xib
+c000000004E28AF2A0000000000002112
+t1311289130
+s8466
+
+N/Volumes/MAC/Segmented/Segmented_Prefix.pch
+c000000004E28AF2A00000000000000BB
+t1311289130
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Volumes/MAC/Segmented/build/Debug-iphonesimulator/Segmented.app
+t1311290692
+s4096
+
+N/Volumes/MAC/Segmented/build/Debug-iphonesimulator/Segmented.app.dSYM
+t1311290692
+s4096
+
+N/Volumes/MAC/Segmented/build/Debug-iphonesimulator/Segmented.app/Info.plist
+t1311289604
+s682
+
+N/Volumes/MAC/Segmented/build/Debug-iphonesimulator/Segmented.app/MainWindow.nib
+t1311289604
+s1533
+
+N/Volumes/MAC/Segmented/build/Debug-iphonesimulator/Segmented.app/PkgInfo
+t1311289604
+s8
+
+N/Volumes/MAC/Segmented/build/Debug-iphonesimulator/Segmented.app/Segmented
+t1311290692
+s23732
+
+N/Volumes/MAC/Segmented/build/Segmented.build/Debug-iphonesimulator/Segmented.build/Objects-normal/i386/Segmented.LinkFileList
+c000000004E28B102000000000000015A
+t1311289602
+s346
+
+N/Volumes/MAC/Segmented/build/Segmented.build/Debug-iphonesimulator/Segmented.build/Objects-normal/i386/SegmentedAppDelegate.o
+t1311290692
+s68304
+
+N/Volumes/MAC/Segmented/build/Segmented.build/Debug-iphonesimulator/Segmented.build/Objects-normal/i386/View.o
+t1311289632
+s46296
+
+N/Volumes/MAC/Segmented/build/Segmented.build/Debug-iphonesimulator/Segmented.build/Objects-normal/i386/main.o
+t1311289632
+s6464
+
+N/Volumes/MAC/Segmented/main.m
+c000000004E28AFC60000000000000184
+t1311289286
+s388
+i<UIKit/UIKit.h>
+
+N/var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Segmented_Prefix-aauaiwhuqpitzualcwmzvtvlfccl/Segmented_Prefix.pch.gch
+t1311289605
+s15814064
+
+NSegmented-Info.plist
+c000000004E28AF660000000000000430
+t1311289190
+s1072
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies332983492#332983493#0(0"0(0#1#0"8626737344#0"0#
+
+CCompileC build/Segmented.build/Debug-iphonesimulator/Segmented.build/Objects-normal/i386/SegmentedAppDelegate.o /Volumes/MAC/Segmented/Classes/SegmentedAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332983493.179738
+e332983493.374722
+r1
+xCompileC
+xbuild/Segmented.build/Debug-iphonesimulator/Segmented.build/Objects-normal/i386/SegmentedAppDelegate.o
+x/Volumes/MAC/Segmented/Classes/SegmentedAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Volumes/MAC/Segmented/Classes/SegmentedAppDelegate.m332983493#332983493#0(0"0(0#0#53"/Volumes/MAC/Segmented/Classes/SegmentedAppDelegate.m8628346208#1818"    cd /Volumes/MAC/Segmented    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Volumes/MAC/Segmented/build/Segmented.build/Debug-iphonesimulator/Segmented.build/Segmented-generated-files.hmap -I/Volumes/MAC/Segmented/build/Segmented.build/Debug-iphonesimulator/Segmented.build/Segmented-own-target-headers.hmap -I/Volumes/MAC/Segmented/build/Segmented.build/Debug-iphonesimulator/Segmented.build/Segmented-all-target-headers.hmap -iquote /Volumes/MAC/Segmented/build/Segmented.build/Debug-iphonesimulator/Segmented.build/Segmented-project-headers.hmap -F/Volumes/MAC/Segmented/build/Debug-iphonesimulator -I/Volumes/MAC/Segmented/build/Debug-iphonesimulator/include -I/Volumes/MAC/Segmented/build/Segmented.build/Debug-iphonesimulator/Segmented.build/DerivedSources/i386 -I/Volumes/MAC/Segmented/build/Segmented.build/Debug-iphonesimulator/Segmented.build/DerivedSources -include /var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Segmented_Prefix-aauaiwhuqpitzualcwmzvtvlfccl/Segmented_Prefix.pch -c /Volumes/MAC/Segmented/Classes/SegmentedAppDelegate.m -o /Volumes/MAC/Segmented/build/Segmented.build/Debug-iphonesimulator/Segmented.build/Objects-normal/i386/SegmentedAppDelegate.o0#
+
+CCompileC build/Segmented.build/Debug-iphonesimulator/Segmented.build/Objects-normal/i386/View.o /Volumes/MAC/Segmented/Classes/View.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332982432.370898
+e332982432.695500
+r1
+xCompileC
+xbuild/Segmented.build/Debug-iphonesimulator/Segmented.build/Objects-normal/i386/View.o
+x/Volumes/MAC/Segmented/Classes/View.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Volumes/MAC/Segmented/Classes/View.m332982432#332982432#0(0"0(0#0#37"/Volumes/MAC/Segmented/Classes/View.m8610841216#1786"    cd /Volumes/MAC/Segmented    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Volumes/MAC/Segmented/build/Segmented.build/Debug-iphonesimulator/Segmented.build/Segmented-generated-files.hmap -I/Volumes/MAC/Segmented/build/Segmented.build/Debug-iphonesimulator/Segmented.build/Segmented-own-target-headers.hmap -I/Volumes/MAC/Segmented/build/Segmented.build/Debug-iphonesimulator/Segmented.build/Segmented-all-target-headers.hmap -iquote /Volumes/MAC/Segmented/build/Segmented.build/Debug-iphonesimulator/Segmented.build/Segmented-project-headers.hmap -F/Volumes/MAC/Segmented/build/Debug-iphonesimulator -I/Volumes/MAC/Segmented/build/Debug-iphonesimulator/include -I/Volumes/MAC/Segmented/build/Segmented.build/Debug-iphonesimulator/Segmented.build/DerivedSources/i386 -I/Volumes/MAC/Segmented/build/Segmented.build/Debug-iphonesimulator/Segmented.build/DerivedSources -include /var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Segmented_Prefix-aauaiwhuqpitzualcwmzvtvlfccl/Segmented_Prefix.pch -c /Volumes/MAC/Segmented/Classes/View.m -o /Volumes/MAC/Segmented/build/Segmented.build/Debug-iphonesimulator/Segmented.build/Objects-normal/i386/View.o0#
+
+CCompileC build/Segmented.build/Debug-iphonesimulator/Segmented.build/Objects-normal/i386/main.o /Volumes/MAC/Segmented/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332982432.091503
+e332982432.370794
+r1
+xCompileC
+xbuild/Segmented.build/Debug-iphonesimulator/Segmented.build/Objects-normal/i386/main.o
+x/Volumes/MAC/Segmented/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Compile /Volumes/MAC/Segmented/main.m332982432#332982432#0(0"0(0#0#29"/Volumes/MAC/Segmented/main.m8610088288#1778"    cd /Volumes/MAC/Segmented    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Volumes/MAC/Segmented/build/Segmented.build/Debug-iphonesimulator/Segmented.build/Segmented-generated-files.hmap -I/Volumes/MAC/Segmented/build/Segmented.build/Debug-iphonesimulator/Segmented.build/Segmented-own-target-headers.hmap -I/Volumes/MAC/Segmented/build/Segmented.build/Debug-iphonesimulator/Segmented.build/Segmented-all-target-headers.hmap -iquote /Volumes/MAC/Segmented/build/Segmented.build/Debug-iphonesimulator/Segmented.build/Segmented-project-headers.hmap -F/Volumes/MAC/Segmented/build/Debug-iphonesimulator -I/Volumes/MAC/Segmented/build/Debug-iphonesimulator/include -I/Volumes/MAC/Segmented/build/Segmented.build/Debug-iphonesimulator/Segmented.build/DerivedSources/i386 -I/Volumes/MAC/Segmented/build/Segmented.build/Debug-iphonesimulator/Segmented.build/DerivedSources -include /var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Segmented_Prefix-aauaiwhuqpitzualcwmzvtvlfccl/Segmented_Prefix.pch -c /Volumes/MAC/Segmented/main.m -o /Volumes/MAC/Segmented/build/Segmented.build/Debug-iphonesimulator/Segmented.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Volumes/MAC/Segmented/MainWindow.xib
+s332982404.178991
+e332982404.524891
+r1
+xCompileXIB
+x/Volumes/MAC/Segmented/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib332982404#332982404#0(0"0(0#0#37"/Volumes/MAC/Segmented/MainWindow.xib8627924128#524"    cd /Volumes/MAC/Segmented    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Volumes/MAC/Segmented/build/Debug-iphonesimulator/Segmented.app/MainWindow.nib /Volumes/MAC/Segmented/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Volumes/MAC/Segmented/build/Debug-iphonesimulator/Segmented.app.dSYM /Volumes/MAC/Segmented/build/Debug-iphonesimulator/Segmented.app/Segmented
+s332983493.423171
+e332983493.666881
+r1
+xGenerateDSYMFile
+x/Volumes/MAC/Segmented/build/Debug-iphonesimulator/Segmented.app.dSYM
+x/Volumes/MAC/Segmented/build/Debug-iphonesimulator/Segmented.app/Segmented
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/Segmented.app.dSYM build/Debug-iphonesimulator/Segmented.app/Segmented332983493#332983493#0(0"0(0#0#74"/Volumes/MAC/Segmented/build/Debug-iphonesimulator/Segmented.app/Segmented8627043840#341"    cd /Volumes/MAC/Segmented    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Volumes/MAC/Segmented/build/Debug-iphonesimulator/Segmented.app/Segmented -o /Volumes/MAC/Segmented/build/Debug-iphonesimulator/Segmented.app.dSYM0#
+
+CLd /Volumes/MAC/Segmented/build/Debug-iphonesimulator/Segmented.app/Segmented normal i386
+s332983493.374807
+e332983493.423080
+r1
+xLd
+x/Volumes/MAC/Segmented/build/Debug-iphonesimulator/Segmented.app/Segmented
+xnormal
+xi386
+lSLF07#2@79"Link /Volumes/MAC/Segmented/build/Debug-iphonesimulator/Segmented.app/Segmented332983493#332983493#0(0"0(0#0#0"8628316736#854"    cd /Volumes/MAC/Segmented    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Volumes/MAC/Segmented/build/Debug-iphonesimulator -F/Volumes/MAC/Segmented/build/Debug-iphonesimulator -filelist /Volumes/MAC/Segmented/build/Segmented.build/Debug-iphonesimulator/Segmented.build/Objects-normal/i386/Segmented.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework AVFoundation -o /Volumes/MAC/Segmented/build/Debug-iphonesimulator/Segmented.app/Segmented0#
+
+CProcessInfoPlistFile /Volumes/MAC/Segmented/build/Debug-iphonesimulator/Segmented.app/Info.plist Segmented-Info.plist
+s332982404.000575
+e332982404.178916
+r1
+xProcessInfoPlistFile
+x/Volumes/MAC/Segmented/build/Debug-iphonesimulator/Segmented.app/Info.plist
+xSegmented-Info.plist
+lSLF07#2@28"Process Segmented-Info.plist332982404#332982404#0(0"0(0#0#43"/Volumes/MAC/Segmented/Segmented-Info.plist8599176640#437"    cd /Volumes/MAC/Segmented    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Segmented-Info.plist -genpkginfo /Volumes/MAC/Segmented/build/Debug-iphonesimulator/Segmented.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Volumes/MAC/Segmented/build/Debug-iphonesimulator/Segmented.app/Info.plist0#
+
+CProcessPCH /var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Segmented_Prefix-aauaiwhuqpitzualcwmzvtvlfccl/Segmented_Prefix.pch.gch Segmented_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s332982404.524995
+e332982405.305209
+r1
+xProcessPCH
+x/var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Segmented_Prefix-aauaiwhuqpitzualcwmzvtvlfccl/Segmented_Prefix.pch.gch
+xSegmented_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Segmented_Prefix.pch332982404#332982405#0(0"0(0#0#43"/Volumes/MAC/Segmented/Segmented_Prefix.pch8627215008#1684"    cd /Volumes/MAC/Segmented    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Volumes/MAC/Segmented/build/Segmented.build/Debug-iphonesimulator/Segmented.build/Segmented-generated-files.hmap -I/Volumes/MAC/Segmented/build/Segmented.build/Debug-iphonesimulator/Segmented.build/Segmented-own-target-headers.hmap -I/Volumes/MAC/Segmented/build/Segmented.build/Debug-iphonesimulator/Segmented.build/Segmented-all-target-headers.hmap -iquote /Volumes/MAC/Segmented/build/Segmented.build/Debug-iphonesimulator/Segmented.build/Segmented-project-headers.hmap -F/Volumes/MAC/Segmented/build/Debug-iphonesimulator -I/Volumes/MAC/Segmented/build/Debug-iphonesimulator/include -I/Volumes/MAC/Segmented/build/Segmented.build/Debug-iphonesimulator/Segmented.build/DerivedSources/i386 -I/Volumes/MAC/Segmented/build/Segmented.build/Debug-iphonesimulator/Segmented.build/DerivedSources -c /Volumes/MAC/Segmented/Segmented_Prefix.pch -o /var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Segmented_Prefix-aauaiwhuqpitzualcwmzvtvlfccl/Segmented_Prefix.pch.gch0#
+
+CTouch /Volumes/MAC/Segmented/build/Debug-iphonesimulator/Segmented.app
+s332983493.667188
+e332983493.669798
+r1
+xTouch
+x/Volumes/MAC/Segmented/build/Debug-iphonesimulator/Segmented.app
+lSLF07#2@70"Touch /Volumes/MAC/Segmented/build/Debug-iphonesimulator/Segmented.app332983493#332983493#0(0"0(0#0#0"8627388704#248"    cd /Volumes/MAC/Segmented    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Volumes/MAC/Segmented/build/Debug-iphonesimulator/Segmented.app0#
+

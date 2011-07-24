@@ -1,0 +1,3 @@
+/Volumes/MAC/ViewController/Classes/ViewControllerAppDelegate.m: In function '-[ViewControllerAppDelegate application:didFinishLaunchingWithOptions:]':
+/Volumes/MAC/ViewController/Classes/ViewControllerAppDelegate.m:24: warning: receiver 'ViewController' is a forward class and corresponding @interface may not exist
+/Volumes/MAC/ViewController/Classes/ViewControllerAppDelegate.m:32: warning: incompatible Objective-C types 'struct ViewController *', expected 'struct UIViewController *' when passing argument 1 of 'setRootViewController:' from distinct Objective-C type
