@@ -1,0 +1,341 @@
+TPong
+v7
+r0
+t333233072.099590
+cCheck dependencies
+cProcessInfoPlistFile /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app/Info.plist Pong-Info.plist
+cCompileXIB /Users/michaelfenimore/Documents/nyu-iphone/Pong/MainWindow.xib
+cCompileXIB /Users/michaelfenimore/Documents/nyu-iphone/Pong/PongViewController.xib
+cCpResource build/Debug-iphonesimulator/Pong.app/pong57.png pong57.png
+cCpResource build/Debug-iphonesimulator/Pong.app/pong72.png pong72.png
+cCpResource build/Debug-iphonesimulator/Pong.app/pong114.png pong114.png
+cProcessPCH /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pong_Prefix-ctkzucnatsemxldslffjkkphstpz/Pong_Prefix.pch.gch Pong_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/main.o /Users/michaelfenimore/Documents/nyu-iphone/Pong/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/PongAppDelegate.o /Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/PongViewController.o /Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/View.o /Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/View.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004D54D2DD00000000000000C4
+t1297404637
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004D54D4200000000000162C50
+t1297404960
+s1453136
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongAppDelegate.h
+c000000004E2C80CE00000000000001D2
+t1311539406
+s466
+i<UIKit/UIKit.h>
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongAppDelegate.m
+c000000004E2C80D20000000000000AA0
+t1311539410
+s2720
+i"PongAppDelegate.h"
+i"PongViewController.h"
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongViewController.h
+c000000004E2C830A000000000000015A
+t1311539978
+s346
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongViewController.m
+c000000004E2C842D0000000000000741
+t1311540269
+s1857
+i"PongViewController.h"
+i"View.h"
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/View.h
+c000000004E2C83A500000000000000C3
+t1311540133
+s195
+i<UIKit/UIKit.h>
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/View.m
+c000000004E2C83A5000000000000023D
+t1311540133
+s573
+i"View.h"
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Pong/MainWindow.xib
+c000000004E2C808A0000000000004E05
+t1311539338
+s19973
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Pong/PongViewController.xib
+c000000004E2C808A0000000000001A39
+t1311539338
+s6713
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Pong/Pong_Prefix.pch
+c000000004E2C808A00000000000000B1
+t1311539338
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app
+t2
+s0
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app.dSYM
+t2
+s0
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app/Info.plist
+t1311540270
+s653
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app/MainWindow.nib
+t1311540271
+s1675
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app/PkgInfo
+t1311540270
+s8
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app/Pong
+t2
+s0
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app/PongViewController.nib
+t1311540271
+s1269
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app/pong114.png
+t1311540271
+s9065
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app/pong57.png
+t1311540271
+s3764
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app/pong72.png
+t1311540271
+s4780
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/Pong.LinkFileList
+c000000004E2C842E0000000000000211
+t1311540270
+s529
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/PongAppDelegate.o
+t1311540272
+s51904
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/PongViewController.o
+t2
+s0
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/View.o
+t1311540272
+s37360
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/main.o
+t1311540272
+s6512
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Pong/main.m
+c000000004E2C80CA0000000000000179
+t1311539402
+s377
+i<UIKit/UIKit.h>
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Pong/pong114.png
+c000000004E2C81DB0000000000002369
+t1311539675
+s9065
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Pong/pong57.png
+c000000004E2C82030000000000000EB4
+t1311539715
+s3764
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Pong/pong72.png
+c000000004E2C81EC00000000000012AC
+t1311539692
+s4780
+
+N/var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pong_Prefix-ctkzucnatsemxldslffjkkphstpz/Pong_Prefix.pch.gch
+t1311540271
+s15814064
+
+NPong-Info.plist
+c000000004E2C832100000000000003ED
+t1311540001
+s1005
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies333233070#333233070#0(0"0(0#1#0"8247620834010738688#0"0#
+
+CCompileC build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/PongAppDelegate.o /Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s333233071.987946
+e333233072.099545
+r1
+xCompileC
+xbuild/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/PongAppDelegate.o
+x/Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongAppDelegate.m333233071#333233072#0(0"0(0#0#74"/Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongAppDelegate.m8612904256#1994"    cd /Users/michaelfenimore/Documents/nyu-iphone/Pong    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-generated-files.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-own-target-headers.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-all-target-headers.hmap -iquote /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-project-headers.hmap -F/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/include -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources/i386 -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources -include /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pong_Prefix-ctkzucnatsemxldslffjkkphstpz/Pong_Prefix.pch -c /Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongAppDelegate.m -o /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/PongAppDelegate.o0#
+
+CCompileC build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/PongViewController.o /Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s333233071.988605
+e333233072.091525
+r0
+xCompileC
+xbuild/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/PongViewController.o
+x/Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongViewController.m: In function '-[PongViewController loadView]':
+o/Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongViewController.m:30: error: expected ']' before 'f'
+o/Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongViewController.m:30: warning: no '-initWithFrame' method found
+o/Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongViewController.m:30: warning: (Messages without a matching method signature
+o/Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongViewController.m:30: warning: will be assumed to return 'id' and accept
+o/Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongViewController.m:30: warning: '...' as arguments.)
+o/Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongViewController.m:29: warning: unused variable 'f'
+lSLF07#2@85"Compile /Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongViewController.m333233071#333233072#0(855"/Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongViewController.m: In function '-[PongViewController loadView]':/Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongViewController.m:30: error: expected ']' before 'f'/Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongViewController.m:30: warning: no '-initWithFrame' method found/Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongViewController.m:30: warning: (Messages without a matching method signature/Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongViewController.m:30: warning: will be assumed to return 'id' and accept/Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongViewController.m:30: warning: '...' as arguments.)/Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongViewController.m:29: warning: unused variable 'f'4(4@23"Expected ']' before 'f'333233072#125#113#0(6@77"/Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongViewController.m333233069#30#0#30#0#19"expected * before *0(22@32"No '-initWithFrame' method found333233072#238#124#0(6@77"/Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongViewController.m333233069#30#0#30#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)333233072#362#137#0(6@77"/Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongViewController.m333233069#30#0#30#0#0"0(22@19"Unused variable 'f'333233072#744#111#0(6@77"/Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongViewController.m333233069#29#0#29#0#19"unused variable '*'0(0#0#77"/Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongViewController.m8615643168#2000"    cd /Users/michaelfenimore/Documents/nyu-iphone/Pong    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-generated-files.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-own-target-headers.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-all-target-headers.hmap -iquote /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-project-headers.hmap -F/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/include -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources/i386 -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources -include /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pong_Prefix-ctkzucnatsemxldslffjkkphstpz/Pong_Prefix.pch -c /Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongViewController.m -o /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/PongViewController.o1#
+
+CCompileC build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/View.o /Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/View.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s333233071.989282
+e333233072.098865
+r1
+xCompileC
+xbuild/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/View.o
+x/Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/View.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/View.m333233071#333233072#0(0"0(0#0#63"/Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/View.m8615274496#1972"    cd /Users/michaelfenimore/Documents/nyu-iphone/Pong    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-generated-files.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-own-target-headers.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-all-target-headers.hmap -iquote /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-project-headers.hmap -F/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/include -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources/i386 -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources -include /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pong_Prefix-ctkzucnatsemxldslffjkkphstpz/Pong_Prefix.pch -c /Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/View.m -o /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/View.o0#
+
+CCompileC build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/main.o /Users/michaelfenimore/Documents/nyu-iphone/Pong/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s333233071.987091
+e333233072.091762
+r1
+xCompileC
+xbuild/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/main.o
+x/Users/michaelfenimore/Documents/nyu-iphone/Pong/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/michaelfenimore/Documents/nyu-iphone/Pong/main.m333233071#333233072#0(0"0(0#0#55"/Users/michaelfenimore/Documents/nyu-iphone/Pong/main.m8614459872#1964"    cd /Users/michaelfenimore/Documents/nyu-iphone/Pong    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-generated-files.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-own-target-headers.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-all-target-headers.hmap -iquote /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-project-headers.hmap -F/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/include -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources/i386 -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources -include /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pong_Prefix-ctkzucnatsemxldslffjkkphstpz/Pong_Prefix.pch -c /Users/michaelfenimore/Documents/nyu-iphone/Pong/main.m -o /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/michaelfenimore/Documents/nyu-iphone/Pong/MainWindow.xib
+s333233070.984783
+e333233071.341814
+r1
+xCompileXIB
+x/Users/michaelfenimore/Documents/nyu-iphone/Pong/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib333233070#333233071#0(0"0(0#0#63"/Users/michaelfenimore/Documents/nyu-iphone/Pong/MainWindow.xib8604588352#597"    cd /Users/michaelfenimore/Documents/nyu-iphone/Pong    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app/MainWindow.nib /Users/michaelfenimore/Documents/nyu-iphone/Pong/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/michaelfenimore/Documents/nyu-iphone/Pong/PongViewController.xib
+s333233070.990885
+e333233071.341968
+r1
+xCompileXIB
+x/Users/michaelfenimore/Documents/nyu-iphone/Pong/PongViewController.xib
+lSLF07#2@33"CompileXIB PongViewController.xib333233070#333233071#0(0"0(0#0#71"/Users/michaelfenimore/Documents/nyu-iphone/Pong/PongViewController.xib8617446816#613"    cd /Users/michaelfenimore/Documents/nyu-iphone/Pong    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app/PongViewController.nib /Users/michaelfenimore/Documents/nyu-iphone/Pong/PongViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource build/Debug-iphonesimulator/Pong.app/pong114.png pong114.png
+s333233070.992429
+e333233071.016048
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pong.app/pong114.png
+xpong114.png
+lSLF07#2@16"Copy pong114.png333233070#333233071#0(0"0(0#0#60"/Users/michaelfenimore/Documents/nyu-iphone/Pong/pong114.png8615398080#496"    cd /Users/michaelfenimore/Documents/nyu-iphone/Pong    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/michaelfenimore/Documents/nyu-iphone/Pong/pong114.png /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app0#
+
+CCpResource build/Debug-iphonesimulator/Pong.app/pong57.png pong57.png
+s333233070.991405
+e333233071.017308
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pong.app/pong57.png
+xpong57.png
+lSLF07#2@15"Copy pong57.png333233070#333233071#0(0"0(0#0#59"/Users/michaelfenimore/Documents/nyu-iphone/Pong/pong57.png8616819648#495"    cd /Users/michaelfenimore/Documents/nyu-iphone/Pong    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/michaelfenimore/Documents/nyu-iphone/Pong/pong57.png /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app0#
+
+CCpResource build/Debug-iphonesimulator/Pong.app/pong72.png pong72.png
+s333233070.991883
+e333233071.015827
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pong.app/pong72.png
+xpong72.png
+lSLF07#2@15"Copy pong72.png333233070#333233071#0(0"0(0#0#59"/Users/michaelfenimore/Documents/nyu-iphone/Pong/pong72.png8615789600#495"    cd /Users/michaelfenimore/Documents/nyu-iphone/Pong    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/michaelfenimore/Documents/nyu-iphone/Pong/pong72.png /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app0#
+
+CGenerateDSYMFile /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app.dSYM /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app/Pong
+r0
+
+CLd /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app/Pong normal i386
+r0
+
+CProcessInfoPlistFile /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app/Info.plist Pong-Info.plist
+s333233070.963760
+e333233070.984698
+r1
+xProcessInfoPlistFile
+x/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app/Info.plist
+xPong-Info.plist
+lSLF07#2@23"Process Pong-Info.plist333233070#333233070#0(0"0(0#0#64"/Users/michaelfenimore/Documents/nyu-iphone/Pong/Pong-Info.plist31525648366108776#500"    cd /Users/michaelfenimore/Documents/nyu-iphone/Pong    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Pong-Info.plist -genpkginfo /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app/Info.plist0#
+
+CProcessPCH /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pong_Prefix-ctkzucnatsemxldslffjkkphstpz/Pong_Prefix.pch.gch Pong_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s333233071.342075
+e333233071.987023
+r1
+xProcessPCH
+x/var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pong_Prefix-ctkzucnatsemxldslffjkkphstpz/Pong_Prefix.pch.gch
+xPong_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile Pong_Prefix.pch333233071#333233071#0(0"0(0#0#64"/Users/michaelfenimore/Documents/nyu-iphone/Pong/Pong_Prefix.pch8612578208#1849"    cd /Users/michaelfenimore/Documents/nyu-iphone/Pong    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-generated-files.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-own-target-headers.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-all-target-headers.hmap -iquote /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-project-headers.hmap -F/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/include -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources/i386 -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources -c /Users/michaelfenimore/Documents/nyu-iphone/Pong/Pong_Prefix.pch -o /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pong_Prefix-ctkzucnatsemxldslffjkkphstpz/Pong_Prefix.pch.gch0#
+
+CTouch /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app
+r0
+
