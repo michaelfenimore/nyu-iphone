@@ -1,11 +1,11 @@
 TPong
 v7
 r0
-t333255669.219600
+t333512592.583213
 cCheck dependencies
-cProcessInfoPlistFile /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app/Info.plist Pong-Info.plist
-cCompileXIB /Users/michaelfenimore/Documents/nyu-iphone/Pong/MainWindow.xib
-cCompileXIB /Users/michaelfenimore/Documents/nyu-iphone/Pong/PongViewController.xib
+cProcessInfoPlistFile /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app/Info.plist Pong-Info.plist
+cCompileXIB /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/MainWindow.xib
+cCompileXIB /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/PongViewController.xib
 cCpResource build/Debug-iphonesimulator/Pong.app/pong57.png pong57.png
 cCpResource build/Debug-iphonesimulator/Pong.app/pong72.png pong72.png
 cCpResource build/Debug-iphonesimulator/Pong.app/pong114.png pong114.png
@@ -13,14 +13,25 @@ cCpResource build/Debug-iphonesimulator/Pong.app/invader01.png invader01.png
 cCpResource build/Debug-iphonesimulator/Pong.app/horizon.png horizon.png
 cCpResource build/Debug-iphonesimulator/Pong.app/paddle.png paddle.png
 cCpResource build/Debug-iphonesimulator/Pong.app/pong.mp3 pong.mp3
-cProcessPCH /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pong_Prefix-ctkzucnatsemxldslffjkkphstpz/Pong_Prefix.pch.gch Pong_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/main.o /Users/michaelfenimore/Documents/nyu-iphone/Pong/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/PongAppDelegate.o /Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/PongViewController.o /Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/View.o /Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/View.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app/Pong normal i386
-cGenerateDSYMFile /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app.dSYM /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app/Pong
-cTouch /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app
+cCpResource build/Debug-iphonesimulator/Pong.app/invader02.png invader02.png
+cCpResource build/Debug-iphonesimulator/Pong.app/invader03.png invader03.png
+cCpResource build/Debug-iphonesimulator/Pong.app/invader04.png invader04.png
+cCpResource build/Debug-iphonesimulator/Pong.app/invader05.png invader05.png
+cCpResource build/Debug-iphonesimulator/Pong.app/invader06.png invader06.png
+cCpResource build/Debug-iphonesimulator/Pong.app/invader07.png invader07.png
+cCpResource build/Debug-iphonesimulator/Pong.app/invader08.png invader08.png
+cCpResource build/Debug-iphonesimulator/Pong.app/invader09.png invader09.png
+cCpResource build/Debug-iphonesimulator/Pong.app/invader10.png invader10.png
+cCpResource build/Debug-iphonesimulator/Pong.app/invader11.png invader11.png
+cCpResource build/Debug-iphonesimulator/Pong.app/invader12.png invader12.png
+cProcessPCH /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pong_Prefix-ffkxkjzxjpyovygywqyvetrchgqw/Pong_Prefix.pch.gch Pong_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/main.o /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/PongAppDelegate.o /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/PongAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/PongViewController.o /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/PongViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/View.o /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/View.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app/Pong normal i386
+cGenerateDSYMFile /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app.dSYM /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app/Pong
+cTouch /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app
 
 N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
 c000000004D5C9B4E0000000000000110
@@ -258,8 +269,366 @@ c000000004E2C81EC00000000000012AC
 t1311539692
 s4780
 
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/PongAppDelegate.h
+c000000004E2C80CE00000000000001D2
+t1311539406
+s466
+i<UIKit/UIKit.h>
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/PongAppDelegate.m
+c000000004E2C80D20000000000000AA0
+t1311539410
+s2720
+i"PongAppDelegate.h"
+i"PongViewController.h"
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/PongViewController.h
+c000000004E2C830A000000000000015A
+t1311539978
+s346
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/PongViewController.m
+c000000004E2C84B900000000000007CA
+t1311540409
+s1994
+i"PongViewController.h"
+i"View.h"
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/Sprite.h
+c000000004E30BC900000000000000198
+t1311816848
+s408
+i<UIKit/UIKit.h>
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/Sprite.m
+c000000004E30C183000000000000026D
+t1311818115
+s621
+i"Sprite.h"
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/SpriteHelpers.h
+c000000004E30C1AA00000000000001C5
+t1311818154
+s453
+i"Sprite.h"
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/SpriteHelpers.m
+c000000004E30C2F80000000000000C02
+t1311818488
+s3074
+i"SpriteHelpers.h"
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/View.h
+c000000004E30C447000000000000018E
+t1311818823
+s398
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/View.m
+c000000004E30C8050000000000000FE1
+t1311819781
+s4065
+i"View.h"
+i<QuartzCore/QuartzCore.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/untitled.h
+c000000004E30BB5D00000000000000CB
+t1311816541
+s203
+i<UIKit/UIKit.h>
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/untitled.m
+c000000004E30BB5D0000000000000249
+t1311816541
+s585
+i"untitled.h"
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/MainWindow.xib
+c000000004E2C808A0000000000004E05
+t1311539338
+s19973
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/PongViewController.xib
+c000000004E2C808A0000000000001A39
+t1311539338
+s6713
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Pong_Prefix.pch
+c000000004E2C808A00000000000000B1
+t1311539338
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/animated-invader/invader01.png
+c000000004E2C988D0000000000000450
+t1311545485
+s1104
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/animated-invader/invader02.png
+c000000004E2C8B650000000000000448
+t1311542117
+s1096
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/animated-invader/invader03.png
+c000000004E2C8C34000000000000043D
+t1311542324
+s1085
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/animated-invader/invader04.png
+c000000004E2C8C6C0000000000000445
+t1311542380
+s1093
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/animated-invader/invader05.png
+c000000004E2C8D6E0000000000000409
+t1311542638
+s1033
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/animated-invader/invader06.png
+c000000004E2C8D810000000000000414
+t1311542657
+s1044
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app
+t1311819783
+s884
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app.dSYM
+t1311819783
+s102
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app/Info.plist
+t1311540270
+s653
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app/MainWindow.nib
+t1311540271
+s1675
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app/PkgInfo
+t1311540270
+s8
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app/Pong
+t1311819783
+s24424
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app/PongViewController.nib
+t1311540271
+s1269
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app/horizon.png
+t1311555082
+s138854
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app/invader01.png
+t1311817984
+s1104
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app/invader02.png
+t1311817984
+s1114
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app/invader03.png
+t1311817984
+s1102
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app/invader04.png
+t1311817984
+s1110
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app/invader05.png
+t1311817984
+s1102
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app/invader06.png
+t1311817984
+s1114
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app/invader07.png
+t1311817984
+s1104
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app/invader08.png
+t1311817984
+s1111
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app/invader09.png
+t1311817984
+s1102
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app/invader10.png
+t1311817984
+s1114
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app/invader11.png
+t1311817984
+s1102
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app/invader12.png
+t1311817984
+s1111
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app/paddle.png
+t1311558196
+s1565
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app/pong.mp3
+t1311560129
+s13791
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app/pong114.png
+t1311540271
+s9065
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app/pong57.png
+t1311540271
+s3764
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app/pong72.png
+t1311540271
+s4780
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/Pong.LinkFileList
+c000000004E30C4390000000000000255
+t1311818809
+s597
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/PongAppDelegate.o
+t1311817985
+s51940
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/PongViewController.o
+t1311818824
+s43736
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/Sprite.o
+t1311818116
+s40240
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/SpriteHelpers.o
+t2
+s0
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/View.o
+t1311819783
+s52820
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/main.o
+t1311817985
+s6544
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/untitled.o
+t2
+s0
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/horizon.png
+c000000004E2CBDE90000000000021E66
+t1311555049
+s138854
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/invader01.png
+c000000004E30BFF90000000000000450
+t1311817721
+s1104
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/invader02.png
+c000000004E30C043000000000000045A
+t1311817795
+s1114
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/invader03.png
+c000000004E30C054000000000000044E
+t1311817812
+s1102
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/invader04.png
+c000000004E30C05E0000000000000456
+t1311817822
+s1110
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/invader05.png
+c000000004E30C067000000000000044E
+t1311817831
+s1102
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/invader06.png
+c000000004E30C071000000000000045A
+t1311817841
+s1114
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/invader07.png
+c000000004E30C07D0000000000000450
+t1311817853
+s1104
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/invader08.png
+c000000004E30C0880000000000000457
+t1311817864
+s1111
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/invader09.png
+c000000004E30C095000000000000044E
+t1311817877
+s1102
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/invader10.png
+c000000004E30C0A1000000000000045A
+t1311817889
+s1114
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/invader11.png
+c000000004E30C0AC000000000000044E
+t1311817900
+s1102
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/invader12.png
+c000000004E30C0BA0000000000000457
+t1311817914
+s1111
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/main.m
+c000000004E2C80CA0000000000000179
+t1311539402
+s377
+i<UIKit/UIKit.h>
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/paddle.png
+c000000004E2CCA04000000000000061D
+t1311558148
+s1565
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/pong.mp3
+c000000004E2CCF9500000000000035DF
+t1311559573
+s13791
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/pong114.png
+c000000004E2C81DB0000000000002369
+t1311539675
+s9065
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/pong57.png
+c000000004E2C82030000000000000EB4
+t1311539715
+s3764
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/pong72.png
+c000000004E2C81EC00000000000012AC
+t1311539692
+s4780
+
 N/var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pong_Prefix-ctkzucnatsemxldslffjkkphstpz/Pong_Prefix.pch.gch
 t1311540271
+s15814064
+
+N/var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pong_Prefix-ffkxkjzxjpyovygywqyvetrchgqw/Pong_Prefix.pch.gch
+t1311817985
 s15814064
 
 NPong-Info.plist
@@ -269,7 +638,7 @@ s1005
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies333255669#333255669#0(0"0(0#1#0"8631037248#0"0#
+lSLF07#2@18"Check dependencies333512592#333512592#0(0"0(0#1#0"8611121216#0"0#
 
 CCompileC build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/PongAppDelegate.o /Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s333233071.987946
@@ -284,6 +653,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@82"Compile /Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongAppDelegate.m333233071#333233072#0(0"0(0#0#74"/Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongAppDelegate.m8612904256#1994"    cd /Users/michaelfenimore/Documents/nyu-iphone/Pong    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-generated-files.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-own-target-headers.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-all-target-headers.hmap -iquote /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-project-headers.hmap -F/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/include -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources/i386 -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources -include /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pong_Prefix-ctkzucnatsemxldslffjkkphstpz/Pong_Prefix.pch -c /Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongAppDelegate.m -o /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/PongAppDelegate.o0#
 
+CCompileC build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/PongAppDelegate.o /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/PongAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s333510785.628398
+e333510785.834539
+r1
+xCompileC
+xbuild/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/PongAppDelegate.o
+x/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/PongAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/PongAppDelegate.m333510785#333510785#0(0"0(0#0#91"/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/PongAppDelegate.m8610264576#2181"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-generated-files.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-own-target-headers.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-all-target-headers.hmap -iquote /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-project-headers.hmap -F/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator -I/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/include -I/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources/i386 -I/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources -include /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pong_Prefix-ffkxkjzxjpyovygywqyvetrchgqw/Pong_Prefix.pch -c /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/PongAppDelegate.m -o /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/PongAppDelegate.o0#
+
 CCompileC build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/PongViewController.o /Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s333253217.728671
 e333253217.806776
@@ -296,6 +678,47 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@85"Compile /Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongViewController.m333253217#333253217#0(0"0(0#0#77"/Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongViewController.m8619524992#2000"    cd /Users/michaelfenimore/Documents/nyu-iphone/Pong    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-generated-files.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-own-target-headers.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-all-target-headers.hmap -iquote /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-project-headers.hmap -F/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/include -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources/i386 -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources -include /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pong_Prefix-ctkzucnatsemxldslffjkkphstpz/Pong_Prefix.pch -c /Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/PongViewController.m -o /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/PongViewController.o0#
+
+CCompileC build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/PongViewController.o /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/PongViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s333511624.213050
+e333511624.291351
+r1
+xCompileC
+xbuild/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/PongViewController.o
+x/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/PongViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/PongViewController.m333511624#333511624#0(0"0(0#0#94"/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/PongViewController.m8612213504#2187"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-generated-files.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-own-target-headers.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-all-target-headers.hmap -iquote /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-project-headers.hmap -F/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator -I/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/include -I/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources/i386 -I/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources -include /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pong_Prefix-ffkxkjzxjpyovygywqyvetrchgqw/Pong_Prefix.pch -c /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/PongViewController.m -o /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/PongViewController.o0#
+
+CCompileC build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/Sprite.o /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/Sprite.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s333510916.266086
+e333510916.359641
+r1
+xCompileC
+xbuild/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/Sprite.o
+x/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/Sprite.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/Sprite.m333510916#333510916#0(0"0(0#0#82"/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/Sprite.m8615459392#2163"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-generated-files.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-own-target-headers.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-all-target-headers.hmap -iquote /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-project-headers.hmap -F/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator -I/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/include -I/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources/i386 -I/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources -include /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pong_Prefix-ffkxkjzxjpyovygywqyvetrchgqw/Pong_Prefix.pch -c /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/Sprite.m -o /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/Sprite.o0#
+
+CCompileC build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/SpriteHelpers.o /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/SpriteHelpers.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s333511524.257202
+e333511524.287371
+r0
+xCompileC
+xbuild/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/SpriteHelpers.o
+x/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/SpriteHelpers.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/SpriteHelpers.m: In function '+[SpriteHelpers setupAnimatedSprite:numFrames:withFilePrefix:withDuration:ofType:withValue:withCenter:]':
+o/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/SpriteHelpers.m:59: error: incompatible type for argument 1 of 'setCenter:'
+lSLF07#2@97"Compile /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/SpriteHelpers.m333511524#333511524#0(360"/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/SpriteHelpers.m: In function '+[SpriteHelpers setupAnimatedSprite:numFrames:withFilePrefix:withDuration:ofType:withValue:withCenter:]':/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/SpriteHelpers.m:59: error: incompatible type for argument 1 of 'setCenter:'1(4@48"Incompatible type for argument 1 of 'setCenter:'333511524#210#150#0(6@89"/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/SpriteHelpers.m333511288#59#0#59#0#0"0(0#0#89"/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/SpriteHelpers.m8615458752#2177"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-generated-files.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-own-target-headers.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-all-target-headers.hmap -iquote /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-project-headers.hmap -F/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator -I/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/include -I/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources/i386 -I/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources -include /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pong_Prefix-ffkxkjzxjpyovygywqyvetrchgqw/Pong_Prefix.pch -c /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/SpriteHelpers.m -o /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/SpriteHelpers.o1#
 
 CCompileC build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/View.o /Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/View.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s333255664.620471
@@ -310,6 +733,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@71"Compile /Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/View.m333255664#333255664#0(0"0(0#0#63"/Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/View.m8630687872#1972"    cd /Users/michaelfenimore/Documents/nyu-iphone/Pong    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-generated-files.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-own-target-headers.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-all-target-headers.hmap -iquote /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-project-headers.hmap -F/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/include -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources/i386 -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources -include /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pong_Prefix-ctkzucnatsemxldslffjkkphstpz/Pong_Prefix.pch -c /Users/michaelfenimore/Documents/nyu-iphone/Pong/Classes/View.m -o /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/View.o0#
 
+CCompileC build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/View.o /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/View.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s333512582.958954
+e333512583.090602
+r1
+xCompileC
+xbuild/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/View.o
+x/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/View.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/View.m333512582#333512583#0(0"0(0#0#80"/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/View.m8629932608#2159"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-generated-files.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-own-target-headers.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-all-target-headers.hmap -iquote /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-project-headers.hmap -F/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator -I/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/include -I/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources/i386 -I/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources -include /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pong_Prefix-ffkxkjzxjpyovygywqyvetrchgqw/Pong_Prefix.pch -c /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/View.m -o /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/View.o0#
+
 CCompileC build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/main.o /Users/michaelfenimore/Documents/nyu-iphone/Pong/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s333233071.987091
 e333233072.091762
@@ -322,6 +758,22 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@63"Compile /Users/michaelfenimore/Documents/nyu-iphone/Pong/main.m333233071#333233072#0(0"0(0#0#55"/Users/michaelfenimore/Documents/nyu-iphone/Pong/main.m8614459872#1964"    cd /Users/michaelfenimore/Documents/nyu-iphone/Pong    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-generated-files.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-own-target-headers.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-all-target-headers.hmap -iquote /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-project-headers.hmap -F/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/include -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources/i386 -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources -include /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pong_Prefix-ctkzucnatsemxldslffjkkphstpz/Pong_Prefix.pch -c /Users/michaelfenimore/Documents/nyu-iphone/Pong/main.m -o /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/main.o0#
+
+CCompileC build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/main.o /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s333510785.627677
+e333510785.826166
+r1
+xCompileC
+xbuild/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/main.o
+x/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/main.m333510785#333510785#0(0"0(0#0#72"/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/main.m8611189056#2151"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-generated-files.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-own-target-headers.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-all-target-headers.hmap -iquote /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-project-headers.hmap -F/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator -I/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/include -I/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources/i386 -I/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources -include /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pong_Prefix-ffkxkjzxjpyovygywqyvetrchgqw/Pong_Prefix.pch -c /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/main.m -o /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/main.o0#
+
+CCompileC build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/untitled.o /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Classes/untitled.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
 
 CCompileXIB /Users/michaelfenimore/Documents/nyu-iphone/Pong/MainWindow.xib
 s333233070.984783
@@ -338,6 +790,12 @@ r1
 xCompileXIB
 x/Users/michaelfenimore/Documents/nyu-iphone/Pong/PongViewController.xib
 lSLF07#2@33"CompileXIB PongViewController.xib333233070#333233071#0(0"0(0#0#71"/Users/michaelfenimore/Documents/nyu-iphone/Pong/PongViewController.xib8617446816#613"    cd /Users/michaelfenimore/Documents/nyu-iphone/Pong    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app/PongViewController.nib /Users/michaelfenimore/Documents/nyu-iphone/Pong/PongViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/MainWindow.xib
+r0
+
+CCompileXIB /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/PongViewController.xib
+r0
 
 CCpResource build/Debug-iphonesimulator/Pong.app/horizon.png horizon.png
 s333247882.561427
@@ -357,14 +815,131 @@ xbuild/Debug-iphonesimulator/Pong.app/invader.gif
 xinvader.gif
 lSLF07#2@16"Copy invader.gif333237490#333237490#0(0"0(0#0#60"/Users/michaelfenimore/Documents/nyu-iphone/Pong/invader.gif8612476768#496"    cd /Users/michaelfenimore/Documents/nyu-iphone/Pong    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/michaelfenimore/Documents/nyu-iphone/Pong/invader.gif /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app0#
 
+CCpResource build/Debug-iphonesimulator/Pong.app/invader01.png animated-invader/invader01.png
+r0
+
 CCpResource build/Debug-iphonesimulator/Pong.app/invader01.png invader01.png
-s333238694.384961
-e333238694.388689
+s333510784.937289
+e333510784.987688
 r1
 xCpResource
 xbuild/Debug-iphonesimulator/Pong.app/invader01.png
 xinvader01.png
-lSLF07#2@18"Copy invader01.png333238694#333238694#0(0"0(0#0#62"/Users/michaelfenimore/Documents/nyu-iphone/Pong/invader01.png8612878880#498"    cd /Users/michaelfenimore/Documents/nyu-iphone/Pong    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/michaelfenimore/Documents/nyu-iphone/Pong/invader01.png /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app0#
+lSLF07#2@18"Copy invader01.png333510784#333510784#0(0"0(0#0#79"/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/invader01.png13229813538947188#549"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/invader01.png /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app0#
+
+CCpResource build/Debug-iphonesimulator/Pong.app/invader02.png animated-invader/invader02.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Pong.app/invader02.png invader02.png
+s333510784.962515
+e333510784.987777
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pong.app/invader02.png
+xinvader02.png
+lSLF07#2@18"Copy invader02.png333510784#333510784#0(0"0(0#0#79"/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/invader02.png8612171840#549"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/invader02.png /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app0#
+
+CCpResource build/Debug-iphonesimulator/Pong.app/invader03.png animated-invader/invader03.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Pong.app/invader03.png invader03.png
+s333510784.963064
+e333510784.987874
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pong.app/invader03.png
+xinvader03.png
+lSLF07#2@18"Copy invader03.png333510784#333510784#0(0"0(0#0#79"/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/invader03.png8605482944#549"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/invader03.png /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app0#
+
+CCpResource build/Debug-iphonesimulator/Pong.app/invader04.png animated-invader/invader04.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Pong.app/invader04.png invader04.png
+s333510784.963731
+e333510784.987961
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pong.app/invader04.png
+xinvader04.png
+lSLF07#2@18"Copy invader04.png333510784#333510784#0(0"0(0#0#79"/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/invader04.png8614091648#549"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/invader04.png /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app0#
+
+CCpResource build/Debug-iphonesimulator/Pong.app/invader05.png animated-invader/invader05.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Pong.app/invader05.png invader05.png
+s333510784.964200
+e333510784.986299
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pong.app/invader05.png
+xinvader05.png
+lSLF07#2@18"Copy invader05.png333510784#333510784#0(0"0(0#0#79"/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/invader05.png8612867584#549"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/invader05.png /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app0#
+
+CCpResource build/Debug-iphonesimulator/Pong.app/invader06.png animated-invader/invader06.png
+r0
+
+CCpResource build/Debug-iphonesimulator/Pong.app/invader06.png invader06.png
+s333510784.964658
+e333510784.986424
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pong.app/invader06.png
+xinvader06.png
+lSLF07#2@18"Copy invader06.png333510784#333510784#0(0"0(0#0#79"/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/invader06.png8612726880#549"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/invader06.png /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app0#
+
+CCpResource build/Debug-iphonesimulator/Pong.app/invader07.png invader07.png
+s333510784.965121
+e333510784.988048
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pong.app/invader07.png
+xinvader07.png
+lSLF07#2@18"Copy invader07.png333510784#333510784#0(0"0(0#0#79"/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/invader07.png8612355424#549"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/invader07.png /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app0#
+
+CCpResource build/Debug-iphonesimulator/Pong.app/invader08.png invader08.png
+s333510784.965584
+e333510784.988137
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pong.app/invader08.png
+xinvader08.png
+lSLF07#2@18"Copy invader08.png333510784#333510784#0(0"0(0#0#79"/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/invader08.png8612211744#549"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/invader08.png /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app0#
+
+CCpResource build/Debug-iphonesimulator/Pong.app/invader09.png invader09.png
+s333510784.966044
+e333510784.988222
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pong.app/invader09.png
+xinvader09.png
+lSLF07#2@18"Copy invader09.png333510784#333510784#0(0"0(0#0#79"/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/invader09.png8612098816#549"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/invader09.png /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app0#
+
+CCpResource build/Debug-iphonesimulator/Pong.app/invader10.png invader10.png
+s333510784.966510
+e333510784.988312
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pong.app/invader10.png
+xinvader10.png
+lSLF07#2@18"Copy invader10.png333510784#333510784#0(0"0(0#0#79"/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/invader10.png8612037024#549"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/invader10.png /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app0#
+
+CCpResource build/Debug-iphonesimulator/Pong.app/invader11.png invader11.png
+s333510784.986492
+e333510784.990220
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pong.app/invader11.png
+xinvader11.png
+lSLF07#2@18"Copy invader11.png333510784#333510784#0(0"0(0#0#79"/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/invader11.png8611898656#549"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/invader11.png /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app0#
+
+CCpResource build/Debug-iphonesimulator/Pong.app/invader12.png invader12.png
+s333510784.987127
+e333510784.990615
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pong.app/invader12.png
+xinvader12.png
+lSLF07#2@18"Copy invader12.png333510784#333510784#0(0"0(0#0#79"/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/invader12.png8611862144#549"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/invader12.png /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app0#
 
 CCpResource build/Debug-iphonesimulator/Pong.app/paddle.png paddle.png
 s333250996.751706
@@ -420,6 +995,15 @@ x/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Po
 x/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app/Pong
 lSLF07#2@100"GenerateDSYMFile build/Debug-iphonesimulator/Pong.app.dSYM build/Debug-iphonesimulator/Pong.app/Pong333255664#333255664#0(0"0(0#0#90"/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app/Pong8617786752#404"    cd /Users/michaelfenimore/Documents/nyu-iphone/Pong    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app/Pong -o /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app.dSYM0#
 
+CGenerateDSYMFile /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app.dSYM /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app/Pong
+s333512583.114212
+e333512583.128435
+r1
+xGenerateDSYMFile
+x/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app.dSYM
+x/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app/Pong
+lSLF07#2@100"GenerateDSYMFile build/Debug-iphonesimulator/Pong.app.dSYM build/Debug-iphonesimulator/Pong.app/Pong333512583#333512583#0(0"0(0#0#107"/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app/Pong8631398848#455"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app/Pong -o /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app.dSYM0#
+
 CLd /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app/Pong normal i386
 s333255664.754840
 e333255664.776636
@@ -430,6 +1014,16 @@ xnormal
 xi386
 lSLF07#2@95"Link /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app/Pong333255664#333255664#0(0"0(0#0#0"8626285408#981"    cd /Users/michaelfenimore/Documents/nyu-iphone/Pong    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator -F/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator -filelist /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/Pong.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -framework AVFoundation -o /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app/Pong0#
 
+CLd /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app/Pong normal i386
+s333512583.090665
+e333512583.114139
+r1
+xLd
+x/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app/Pong
+xnormal
+xi386
+lSLF07#2@112"Link /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app/Pong333512583#333512583#0(0"0(0#0#0"8625654720#1066"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator -F/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator -filelist /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/Pong.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -framework AVFoundation -o /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app/Pong0#
+
 CProcessInfoPlistFile /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app/Info.plist Pong-Info.plist
 s333233070.963760
 e333233070.984698
@@ -438,6 +1032,9 @@ xProcessInfoPlistFile
 x/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app/Info.plist
 xPong-Info.plist
 lSLF07#2@23"Process Pong-Info.plist333233070#333233070#0(0"0(0#0#64"/Users/michaelfenimore/Documents/nyu-iphone/Pong/Pong-Info.plist31525648366108776#500"    cd /Users/michaelfenimore/Documents/nyu-iphone/Pong    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Pong-Info.plist -genpkginfo /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app/Info.plist Pong-Info.plist
+r0
 
 CProcessPCH /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pong_Prefix-ctkzucnatsemxldslffjkkphstpz/Pong_Prefix.pch.gch Pong_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
 s333233071.342075
@@ -452,6 +1049,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@26"Precompile Pong_Prefix.pch333233071#333233071#0(0"0(0#0#64"/Users/michaelfenimore/Documents/nyu-iphone/Pong/Pong_Prefix.pch8612578208#1849"    cd /Users/michaelfenimore/Documents/nyu-iphone/Pong    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-generated-files.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-own-target-headers.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-all-target-headers.hmap -iquote /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-project-headers.hmap -F/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/include -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources/i386 -I/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources -c /Users/michaelfenimore/Documents/nyu-iphone/Pong/Pong_Prefix.pch -o /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pong_Prefix-ctkzucnatsemxldslffjkkphstpz/Pong_Prefix.pch.gch0#
 
+CProcessPCH /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pong_Prefix-ffkxkjzxjpyovygywqyvetrchgqw/Pong_Prefix.pch.gch Pong_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s333510784.990745
+e333510785.627608
+r1
+xProcessPCH
+x/var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pong_Prefix-ffkxkjzxjpyovygywqyvetrchgqw/Pong_Prefix.pch.gch
+xPong_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile Pong_Prefix.pch333510784#333510785#0(0"0(0#0#81"/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Pong_Prefix.pch8611797856#2019"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-generated-files.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-own-target-headers.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-all-target-headers.hmap -iquote /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-project-headers.hmap -F/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator -I/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/include -I/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources/i386 -I/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources -c /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/Pong_Prefix.pch -o /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pong_Prefix-ffkxkjzxjpyovygywqyvetrchgqw/Pong_Prefix.pch.gch0#
+
 CTouch /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app
 s333255664.792030
 e333255664.793960
@@ -459,4 +1069,12 @@ r1
 xTouch
 x/Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app
 lSLF07#2@91"Touch /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app333255664#333255664#0(0"0(0#0#0"8615920416#295"    cd /Users/michaelfenimore/Documents/nyu-iphone/Pong    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/michaelfenimore/Documents/nyu-iphone/Pong/build/Debug-iphonesimulator/Pong.app0#
+
+CTouch /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app
+s333512583.128491
+e333512583.130355
+r1
+xTouch
+x/Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app
+lSLF07#2@108"Touch /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app333512583#333512583#0(0"0(0#0#0"8631185952#329"    cd /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/michaelfenimore/Documents/nyu-iphone/Week-07-Homework/Pong/build/Debug-iphonesimulator/Pong.app0#
 
