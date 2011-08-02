@@ -1,0 +1,262 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* GinzaAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {927, 850}}";
+			sepNavSelRange = "{390, 0}";
+			sepNavVisRange = "{0, 481}";
+		};
+	};
+	1D3623250D0F684500981E51 /* GinzaAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {964, 1470}}";
+			sepNavSelRange = "{1092, 0}";
+			sepNavVisRange = "{261, 1435}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Ginza */ = {
+		activeExec = 0;
+		executables = (
+			2468D19113E798E100A187FC /* Ginza */,
+		);
+	};
+	2468D19113E798E100A187FC /* Ginza */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Ginza;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	2468D19513E798FF00A187FC /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2468D19613E798FF00A187FC /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2468D19A13E7994D00A187FC /* StationController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {927, 850}}";
+			sepNavSelRange = "{224, 0}";
+			sepNavVisRange = "{0, 298}";
+			sepNavWindowFrame = "{{176, 267}, {1278, 999}}";
+		};
+	};
+	2468D19B13E7994D00A187FC /* StationController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1308, 1140}}";
+			sepNavSelRange = "{266, 0}";
+			sepNavVisRange = "{0, 1596}";
+		};
+	};
+	2468D1A713E79A4700A187FC /* StationView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {927, 850}}";
+			sepNavSelRange = "{98, 0}";
+			sepNavVisRange = "{0, 339}";
+		};
+	};
+	2468D1A813E79A4700A187FC /* StationView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {828, 705}}";
+			sepNavSelRange = "{401, 0}";
+			sepNavVisRange = "{226, 533}";
+		};
+	};
+	2468D21213E79D7400A187FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* Ginza_Prefix.pch */;
+		name = "Ginza_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 179;
+		vrLoc = 0;
+	};
+	2468D21313E79D7400A187FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 6";
+		rLen = 0;
+		rLoc = 108;
+		rType = 0;
+		vrLen = 379;
+		vrLoc = 0;
+	};
+	2468D22213E79EE400A187FC /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Ginza-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/michaelfenimore/Documents/nyu-iphone/Ginza/Ginza-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	2468D26113E7A53800A187FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2468D19B13E7994D00A187FC /* StationController.m */;
+		name = "StationController.m: 14";
+		rLen = 0;
+		rLoc = 266;
+		rType = 0;
+		vrLen = 1596;
+		vrLoc = 0;
+	};
+	2468D26213E7A53800A187FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GinzaAppDelegate.m */;
+		name = "GinzaAppDelegate.m: 51";
+		rLen = 0;
+		rLoc = 1092;
+		rType = 0;
+		vrLen = 1435;
+		vrLoc = 261;
+	};
+	2468D26313E7A53800A187FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* GinzaAppDelegate.h */;
+		name = "GinzaAppDelegate.h: 17";
+		rLen = 0;
+		rLoc = 390;
+		rType = 0;
+		vrLen = 481;
+		vrLoc = 0;
+	};
+	2468D26413E7A53800A187FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2468D19A13E7994D00A187FC /* StationController.h */;
+		name = "StationController.h: 13";
+		rLen = 0;
+		rLoc = 224;
+		rType = 0;
+		vrLen = 298;
+		vrLoc = 0;
+	};
+	2468D26513E7A53800A187FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2468D1A713E79A4700A187FC /* StationView.h */;
+		name = "StationView.h: 6";
+		rLen = 0;
+		rLoc = 98;
+		rType = 0;
+		vrLen = 339;
+		vrLoc = 0;
+	};
+	2468D26613E7A53800A187FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2468D1A813E79A4700A187FC /* StationView.m */;
+		name = "StationView.m: 30";
+		rLen = 0;
+		rLoc = 599;
+		rType = 0;
+		vrLen = 1493;
+		vrLoc = 0;
+	};
+	2468D26813E7A53B00A187FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2468D1A813E79A4700A187FC /* StationView.m */;
+		name = "StationView.m: 42";
+		rLen = 0;
+		rLoc = 1158;
+		rType = 0;
+		vrLen = 1207;
+		vrLoc = 0;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2468D19113E798E100A187FC /* Ginza */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Ginza */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Ginza */,
+		);
+		codeSenseManager = 2468D19613E798FF00A187FC /* Code sense */;
+		executables = (
+			2468D19113E798E100A187FC /* Ginza */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					749,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 333945925;
+			PBXWorkspaceStateSaveDate = 333945925;
+		};
+		perUserProjectItems = {
+			2468D21213E79D7400A187FC /* PBXTextBookmark */ = 2468D21213E79D7400A187FC /* PBXTextBookmark */;
+			2468D21313E79D7400A187FC /* PBXTextBookmark */ = 2468D21313E79D7400A187FC /* PBXTextBookmark */;
+			2468D22213E79EE400A187FC /* PlistBookmark */ = 2468D22213E79EE400A187FC /* PlistBookmark */;
+			2468D26113E7A53800A187FC /* PBXTextBookmark */ = 2468D26113E7A53800A187FC /* PBXTextBookmark */;
+			2468D26213E7A53800A187FC /* PBXTextBookmark */ = 2468D26213E7A53800A187FC /* PBXTextBookmark */;
+			2468D26313E7A53800A187FC /* PBXTextBookmark */ = 2468D26313E7A53800A187FC /* PBXTextBookmark */;
+			2468D26413E7A53800A187FC /* PBXTextBookmark */ = 2468D26413E7A53800A187FC /* PBXTextBookmark */;
+			2468D26513E7A53800A187FC /* PBXTextBookmark */ = 2468D26513E7A53800A187FC /* PBXTextBookmark */;
+			2468D26613E7A53800A187FC /* PBXTextBookmark */ = 2468D26613E7A53800A187FC /* PBXTextBookmark */;
+			2468D26813E7A53B00A187FC /* PBXTextBookmark */ = 2468D26813E7A53B00A187FC /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2468D19513E798FF00A187FC /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {839, 779}}";
+			sepNavSelRange = "{108, 0}";
+			sepNavVisRange = "{0, 379}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* Ginza_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {839, 779}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 179}";
+		};
+	};
+}

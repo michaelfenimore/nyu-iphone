@@ -1,0 +1,385 @@
+TGinza
+v7
+r0
+t333948210.678116
+cCheck dependencies
+cProcessInfoPlistFile /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app/Info.plist Ginza-Info.plist
+cCompileXIB /Users/michaelfenimore/Documents/nyu-iphone/Ginza/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/Ginza.app/ginza57.png ginza57.png
+cCpResource build/Debug-iphonesimulator/Ginza.app/ginza72.png ginza72.png
+cCpResource build/Debug-iphonesimulator/Ginza.app/ginza114.png ginza114.png
+cCpResource build/Debug-iphonesimulator/Ginza.app/station0.png station0.png
+cCpResource build/Debug-iphonesimulator/Ginza.app/station1.png station1.png
+cCpResource build/Debug-iphonesimulator/Ginza.app/station2.png station2.png
+cProcessPCH /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ginza_Prefix-dykwjzrxzaksaiabakkctmllrptw/Ginza_Prefix.pch.gch Ginza_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Ginza.build/Debug-iphonesimulator/Ginza.build/Objects-normal/i386/main.o /Users/michaelfenimore/Documents/nyu-iphone/Ginza/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Ginza.build/Debug-iphonesimulator/Ginza.build/Objects-normal/i386/GinzaAppDelegate.o /Users/michaelfenimore/Documents/nyu-iphone/Ginza/Classes/GinzaAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Ginza.build/Debug-iphonesimulator/Ginza.build/Objects-normal/i386/StationController.o /Users/michaelfenimore/Documents/nyu-iphone/Ginza/Classes/StationController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Ginza.build/Debug-iphonesimulator/Ginza.build/Objects-normal/i386/StationView.o /Users/michaelfenimore/Documents/nyu-iphone/Ginza/Classes/StationView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app/Ginza normal i386
+cGenerateDSYMFile /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app.dSYM /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app/Ginza
+cTouch /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Ginza/Classes/GinzaAppDelegate.h
+c000000004E376B3A00000000000001E1
+t1312254778
+s481
+i<UIKit/UIKit.h>
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Ginza/Classes/GinzaAppDelegate.m
+c000000004E376CF700000000000008B5
+t1312255223
+s2229
+i"GinzaAppDelegate.h"
+i"StationController.h"
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Ginza/Classes/StationController.h
+c000000004E3765D4000000000000012A
+t1312253396
+s298
+i<UIKit/UIKit.h>
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Ginza/Classes/StationController.m
+c000000004E376B0400000000000007FF
+t1312254724
+s2047
+i"StationController.h"
+i"GinzaAppDelegate.h"
+i"StationView.h"
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Ginza/Classes/StationView.h
+c000000004E3765D20000000000000153
+t1312253394
+s339
+i<UIKit/UIKit.h>
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Ginza/Classes/StationView.m
+c000000004E376DB200000000000004B7
+t1312255410
+s1207
+i"StationView.h"
+i"StationController.h"
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Ginza/Ginza_Prefix.pch
+c000000004E37616100000000000000B3
+t1312252257
+s179
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Ginza/MainWindow.xib
+c000000004E37616100000000000020FE
+t1312252257
+s8446
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app
+t1312255410
+s408
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app.dSYM
+t1312255410
+s102
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app/Ginza
+t1312255410
+s22764
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app/Info.plist
+t1312253692
+s587
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app/MainWindow.nib
+t1312252721
+s1529
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app/PkgInfo
+t1312253692
+s8
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app/ginza114.png
+t1312253692
+s7247
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app/ginza57.png
+t1312253692
+s3369
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app/ginza72.png
+t1312253692
+s4253
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app/station0.png
+t1312254638
+s79524
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app/station1.png
+t1312254638
+s114226
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app/station2.png
+t1312254638
+s64146
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/Objects-normal/i386/Ginza.LinkFileList
+c000000004E3763310000000000000224
+t1312252721
+s548
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/Objects-normal/i386/GinzaAppDelegate.o
+t1312255410
+s56440
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/Objects-normal/i386/StationController.o
+t1312254780
+s48872
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/Objects-normal/i386/StationView.o
+t1312255410
+s40892
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/Objects-normal/i386/main.o
+t1312253692
+s6512
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Ginza/ginza114.png
+c000000004E3766AD0000000000001C4F
+t1312253613
+s7247
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Ginza/ginza57.png
+c000000004E3766D10000000000000D29
+t1312253649
+s3369
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Ginza/ginza72.png
+c000000004E3766C0000000000000109D
+t1312253632
+s4253
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Ginza/main.m
+c000000004E3765DC000000000000017B
+t1312253404
+s379
+i<UIKit/UIKit.h>
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Ginza/station0.png
+c000000004E3767DF00000000000136A4
+t1312253919
+s79524
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Ginza/station1.png
+c000000004E37689D000000000001BE32
+t1312254109
+s114226
+
+N/Users/michaelfenimore/Documents/nyu-iphone/Ginza/station2.png
+c000000004E376960000000000000FA92
+t1312254304
+s64146
+
+N/var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ginza_Prefix-dykwjzrxzaksaiabakkctmllrptw/Ginza_Prefix.pch.gch
+t1312252721
+s15814064
+
+NGinza-Info.plist
+c000000004E3766FC0000000000000391
+t1312253692
+s913
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies333948210#333948210#0(0"0(0#1#0"8614570144#0"0#
+
+CCompileC build/Ginza.build/Debug-iphonesimulator/Ginza.build/Objects-normal/i386/GinzaAppDelegate.o /Users/michaelfenimore/Documents/nyu-iphone/Ginza/Classes/GinzaAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s333948210.514014
+e333948210.613254
+r1
+xCompileC
+xbuild/Ginza.build/Debug-iphonesimulator/Ginza.build/Objects-normal/i386/GinzaAppDelegate.o
+x/Users/michaelfenimore/Documents/nyu-iphone/Ginza/Classes/GinzaAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/michaelfenimore/Documents/nyu-iphone/Ginza/Classes/GinzaAppDelegate.m333948210#333948210#0(0"0(0#0#76"/Users/michaelfenimore/Documents/nyu-iphone/Ginza/Classes/GinzaAppDelegate.m8606658016#2027"    cd /Users/michaelfenimore/Documents/nyu-iphone/Ginza    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/Ginza-generated-files.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/Ginza-own-target-headers.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/Ginza-all-target-headers.hmap -iquote /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/Ginza-project-headers.hmap -F/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator -I/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/include -I/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/DerivedSources/i386 -I/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/DerivedSources -include /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ginza_Prefix-dykwjzrxzaksaiabakkctmllrptw/Ginza_Prefix.pch -c /Users/michaelfenimore/Documents/nyu-iphone/Ginza/Classes/GinzaAppDelegate.m -o /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/Objects-normal/i386/GinzaAppDelegate.o0#
+
+CCompileC build/Ginza.build/Debug-iphonesimulator/Ginza.build/Objects-normal/i386/StationController.o /Users/michaelfenimore/Documents/nyu-iphone/Ginza/Classes/StationController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s333947580.317562
+e333947580.366315
+r1
+xCompileC
+xbuild/Ginza.build/Debug-iphonesimulator/Ginza.build/Objects-normal/i386/StationController.o
+x/Users/michaelfenimore/Documents/nyu-iphone/Ginza/Classes/StationController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/michaelfenimore/Documents/nyu-iphone/Ginza/Classes/StationController.m333947580#333947580#0(0"0(0#0#77"/Users/michaelfenimore/Documents/nyu-iphone/Ginza/Classes/StationController.m8611287968#2029"    cd /Users/michaelfenimore/Documents/nyu-iphone/Ginza    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/Ginza-generated-files.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/Ginza-own-target-headers.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/Ginza-all-target-headers.hmap -iquote /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/Ginza-project-headers.hmap -F/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator -I/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/include -I/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/DerivedSources/i386 -I/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/DerivedSources -include /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ginza_Prefix-dykwjzrxzaksaiabakkctmllrptw/Ginza_Prefix.pch -c /Users/michaelfenimore/Documents/nyu-iphone/Ginza/Classes/StationController.m -o /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/Objects-normal/i386/StationController.o0#
+
+CCompileC build/Ginza.build/Debug-iphonesimulator/Ginza.build/Objects-normal/i386/StationView.o /Users/michaelfenimore/Documents/nyu-iphone/Ginza/Classes/StationView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s333948210.553748
+e333948210.638735
+r1
+xCompileC
+xbuild/Ginza.build/Debug-iphonesimulator/Ginza.build/Objects-normal/i386/StationView.o
+x/Users/michaelfenimore/Documents/nyu-iphone/Ginza/Classes/StationView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/michaelfenimore/Documents/nyu-iphone/Ginza/Classes/StationView.m333948210#333948210#0(0"0(0#0#71"/Users/michaelfenimore/Documents/nyu-iphone/Ginza/Classes/StationView.m8624952256#2017"    cd /Users/michaelfenimore/Documents/nyu-iphone/Ginza    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/Ginza-generated-files.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/Ginza-own-target-headers.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/Ginza-all-target-headers.hmap -iquote /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/Ginza-project-headers.hmap -F/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator -I/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/include -I/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/DerivedSources/i386 -I/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/DerivedSources -include /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ginza_Prefix-dykwjzrxzaksaiabakkctmllrptw/Ginza_Prefix.pch -c /Users/michaelfenimore/Documents/nyu-iphone/Ginza/Classes/StationView.m -o /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/Objects-normal/i386/StationView.o0#
+
+CCompileC build/Ginza.build/Debug-iphonesimulator/Ginza.build/Objects-normal/i386/main.o /Users/michaelfenimore/Documents/nyu-iphone/Ginza/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s333946492.776051
+e333946492.853624
+r1
+xCompileC
+xbuild/Ginza.build/Debug-iphonesimulator/Ginza.build/Objects-normal/i386/main.o
+x/Users/michaelfenimore/Documents/nyu-iphone/Ginza/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/michaelfenimore/Documents/nyu-iphone/Ginza/main.m333946492#333946492#0(0"0(0#0#56"/Users/michaelfenimore/Documents/nyu-iphone/Ginza/main.m8615031680#1995"    cd /Users/michaelfenimore/Documents/nyu-iphone/Ginza    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/Ginza-generated-files.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/Ginza-own-target-headers.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/Ginza-all-target-headers.hmap -iquote /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/Ginza-project-headers.hmap -F/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator -I/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/include -I/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/DerivedSources/i386 -I/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/DerivedSources -include /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ginza_Prefix-dykwjzrxzaksaiabakkctmllrptw/Ginza_Prefix.pch -c /Users/michaelfenimore/Documents/nyu-iphone/Ginza/main.m -o /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/michaelfenimore/Documents/nyu-iphone/Ginza/MainWindow.xib
+s333945521.121743
+e333945521.423330
+r1
+xCompileXIB
+x/Users/michaelfenimore/Documents/nyu-iphone/Ginza/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib333945521#333945521#0(0"0(0#0#64"/Users/michaelfenimore/Documents/nyu-iphone/Ginza/MainWindow.xib8611045376#601"    cd /Users/michaelfenimore/Documents/nyu-iphone/Ginza    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app/MainWindow.nib /Users/michaelfenimore/Documents/nyu-iphone/Ginza/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource build/Debug-iphonesimulator/Ginza.app/ginza114.png ginza114.png
+s333946492.772628
+e333946492.775919
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Ginza.app/ginza114.png
+xginza114.png
+lSLF07#2@17"Copy ginza114.png333946492#333946492#0(0"0(0#0#62"/Users/michaelfenimore/Documents/nyu-iphone/Ginza/ginza114.png8616372064#501"    cd /Users/michaelfenimore/Documents/nyu-iphone/Ginza    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/michaelfenimore/Documents/nyu-iphone/Ginza/ginza114.png /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app0#
+
+CCpResource build/Debug-iphonesimulator/Ginza.app/ginza57.png ginza57.png
+s333946492.771654
+e333946492.775181
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Ginza.app/ginza57.png
+xginza57.png
+lSLF07#2@16"Copy ginza57.png333946492#333946492#0(0"0(0#0#61"/Users/michaelfenimore/Documents/nyu-iphone/Ginza/ginza57.png8616810528#500"    cd /Users/michaelfenimore/Documents/nyu-iphone/Ginza    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/michaelfenimore/Documents/nyu-iphone/Ginza/ginza57.png /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app0#
+
+CCpResource build/Debug-iphonesimulator/Ginza.app/ginza72.png ginza72.png
+s333946492.772154
+e333946492.775493
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Ginza.app/ginza72.png
+xginza72.png
+lSLF07#2@16"Copy ginza72.png333946492#333946492#0(0"0(0#0#61"/Users/michaelfenimore/Documents/nyu-iphone/Ginza/ginza72.png8616528960#500"    cd /Users/michaelfenimore/Documents/nyu-iphone/Ginza    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/michaelfenimore/Documents/nyu-iphone/Ginza/ginza72.png /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app0#
+
+CCpResource build/Debug-iphonesimulator/Ginza.app/station0.png station0.png
+s333947438.334646
+e333947438.338722
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Ginza.app/station0.png
+xstation0.png
+lSLF07#2@17"Copy station0.png333947438#333947438#0(0"0(0#0#62"/Users/michaelfenimore/Documents/nyu-iphone/Ginza/station0.png8623940160#501"    cd /Users/michaelfenimore/Documents/nyu-iphone/Ginza    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/michaelfenimore/Documents/nyu-iphone/Ginza/station0.png /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app0#
+
+CCpResource build/Debug-iphonesimulator/Ginza.app/station1.png station1.png
+s333947438.335239
+e333947438.338854
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Ginza.app/station1.png
+xstation1.png
+lSLF07#2@17"Copy station1.png333947438#333947438#0(0"0(0#0#62"/Users/michaelfenimore/Documents/nyu-iphone/Ginza/station1.png8619454112#501"    cd /Users/michaelfenimore/Documents/nyu-iphone/Ginza    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/michaelfenimore/Documents/nyu-iphone/Ginza/station1.png /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app0#
+
+CCpResource build/Debug-iphonesimulator/Ginza.app/station2.png station2.png
+s333947438.335732
+e333947438.339413
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Ginza.app/station2.png
+xstation2.png
+lSLF07#2@17"Copy station2.png333947438#333947438#0(0"0(0#0#62"/Users/michaelfenimore/Documents/nyu-iphone/Ginza/station2.png8611067776#501"    cd /Users/michaelfenimore/Documents/nyu-iphone/Ginza    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/michaelfenimore/Documents/nyu-iphone/Ginza/station2.png /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app0#
+
+CGenerateDSYMFile /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app.dSYM /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app/Ginza
+s333948210.661615
+e333948210.676073
+r1
+xGenerateDSYMFile
+x/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app.dSYM
+x/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app/Ginza
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/Ginza.app.dSYM build/Debug-iphonesimulator/Ginza.app/Ginza333948210#333948210#0(0"0(0#0#93"/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app/Ginza8623660416#410"    cd /Users/michaelfenimore/Documents/nyu-iphone/Ginza    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app/Ginza -o /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app.dSYM0#
+
+CLd /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app/Ginza normal i386
+s333948210.638799
+e333948210.661552
+r1
+xLd
+x/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app/Ginza
+xnormal
+xi386
+lSLF07#2@98"Link /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app/Ginza333948210#333948210#0(0"0(0#0#0"8625031616#945"    cd /Users/michaelfenimore/Documents/nyu-iphone/Ginza    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator -F/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator -filelist /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/Objects-normal/i386/Ginza.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app/Ginza0#
+
+CProcessInfoPlistFile /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app/Info.plist Ginza-Info.plist
+s333946492.768467
+e333946492.771558
+r1
+xProcessInfoPlistFile
+x/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app/Info.plist
+xGinza-Info.plist
+lSLF07#2@24"Process Ginza-Info.plist333946492#333946492#0(0"0(0#0#66"/Users/michaelfenimore/Documents/nyu-iphone/Ginza/Ginza-Info.plist8620281216#506"    cd /Users/michaelfenimore/Documents/nyu-iphone/Ginza    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Ginza-Info.plist -genpkginfo /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app/Info.plist0#
+
+CProcessPCH /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ginza_Prefix-dykwjzrxzaksaiabakkctmllrptw/Ginza_Prefix.pch.gch Ginza_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s333945521.423411
+e333945522.002526
+r1
+xProcessPCH
+x/var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ginza_Prefix-dykwjzrxzaksaiabakkctmllrptw/Ginza_Prefix.pch.gch
+xGinza_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile Ginza_Prefix.pch333945521#333945522#0(0"0(0#0#66"/Users/michaelfenimore/Documents/nyu-iphone/Ginza/Ginza_Prefix.pch8621937280#1878"    cd /Users/michaelfenimore/Documents/nyu-iphone/Ginza    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/Ginza-generated-files.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/Ginza-own-target-headers.hmap -I/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/Ginza-all-target-headers.hmap -iquote /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/Ginza-project-headers.hmap -F/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator -I/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/include -I/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/DerivedSources/i386 -I/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Ginza.build/Debug-iphonesimulator/Ginza.build/DerivedSources -c /Users/michaelfenimore/Documents/nyu-iphone/Ginza/Ginza_Prefix.pch -o /var/folders/Kn/KnGDDeBsEbOgxYXdM1i2+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ginza_Prefix-dykwjzrxzaksaiabakkctmllrptw/Ginza_Prefix.pch.gch0#
+
+CTouch /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app
+s333948210.676159
+e333948210.678087
+r1
+xTouch
+x/Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app
+lSLF07#2@93"Touch /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app333948210#333948210#0(0"0(0#0#0"8622313152#298"    cd /Users/michaelfenimore/Documents/nyu-iphone/Ginza    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/michaelfenimore/Documents/nyu-iphone/Ginza/build/Debug-iphonesimulator/Ginza.app0#
+
