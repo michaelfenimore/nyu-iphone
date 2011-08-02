@@ -1,0 +1,12 @@
+00000000000000000000000000000000 181de9ac1b31407c2efe23238a1ced27 ffffffffffffffffffffffffffffffff 4096 /Volumes/MAC/Modal/build/Debug-iphonesimulator/Modal.app.dSYM
+1d8b3766907cbed8459e53aa160f24e0 d1703ee824390568766b9b6df0a445ed ffffffffffffffffffffffffffffffff 4096 /Volumes/MAC/Modal/build/Debug-iphonesimulator/Modal.app
+84b05d997c93350310adfbcad092eb30 993b6affecef8bdb5533a860c69dcfd0 ffffffffffffffffffffffffffffffff 24148 /Volumes/MAC/Modal/build/Debug-iphonesimulator/Modal.app/Modal
+cf84e85dd2a19def2a24063aad30402e de93ad5fd9f081b6bae019b3a5461571 ffffffffffffffffffffffffffffffff 42232 /Volumes/MAC/Modal/build/Modal.build/Debug-iphonesimulator/Modal.build/Objects-normal/i386/ModalViewController.o
+cf84e85dd0a339f52a24063aad304577 25c8b031c17d782fb2142c800ac018ca ffffffffffffffffffffffffffffffff 41256 /Volumes/MAC/Modal/build/Modal.build/Debug-iphonesimulator/Modal.build/Objects-normal/i386/ModalView.o
+cf84e85dd74c91bf2a24063aad30453f 2c99cd7e90dc9fab577558d43ba1a974 ffffffffffffffffffffffffffffffff 41308 /Volumes/MAC/Modal/build/Modal.build/Debug-iphonesimulator/Modal.build/Objects-normal/i386/MainView.o
+cf84e85dd445afe52a24063aad304a81 0cf5b10eacbeca79a8cec185b64070eb ffffffffffffffffffffffffffffffff 44192 /Volumes/MAC/Modal/build/Modal.build/Debug-iphonesimulator/Modal.build/Objects-normal/i386/MainViewController.o
+cf84e85dd0ce335b2a24063aad304405 2830fe27c8b7707e1a4ce845e7f5ba33 ffffffffffffffffffffffffffffffff 49104 /Volumes/MAC/Modal/build/Modal.build/Debug-iphonesimulator/Modal.build/Objects-normal/i386/ModalAppDelegate.o
+cf84e85d9a77aecb2a24063aad304d67 77b7c2a0db7363b4fdaebfed1576ac02 ffffffffffffffffffffffffffffffff 6452 /Volumes/MAC/Modal/build/Modal.build/Debug-iphonesimulator/Modal.build/Objects-normal/i386/main.o
+000000004bb2265a0000000000001e74 cf84e85dd0a303f72a24063aad3058d3 ffffffffffffffffffffffffffffffff 15814064 /var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Modal_Prefix-ggxtojnoexgyxgbbbcmflfjlnmyt/Modal_Prefix.pch.gch
+00000000000000000000000000000000 60585a81d9cca0bc07756ac122738f94 ffffffffffffffffffffffffffffffff 8 /Volumes/MAC/Modal/build/Debug-iphonesimulator/Modal.app/PkgInfo
+00000000000000000000000000000000 60585a81d9cca0bc07756ac122738f94 ffffffffffffffffffffffffffffffff 550 /Volumes/MAC/Modal/build/Debug-iphonesimulator/Modal.app/Info.plist

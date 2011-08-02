@@ -1,0 +1,258 @@
+TNavigate
+v7
+r0
+t333590422.616669
+cCheck dependencies
+cProcessInfoPlistFile /Volumes/MAC/Navigate/build/Debug-iphonesimulator/Navigate.app/Info.plist Navigate-Info.plist
+cProcessPCH /var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Navigate_Prefix-coiehpfrugwcrqgomawfdmciwrkm/Navigate_Prefix.pch.gch Navigate_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Navigate.build/Debug-iphonesimulator/Navigate.build/Objects-normal/i386/main.o /Volumes/MAC/Navigate/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Navigate.build/Debug-iphonesimulator/Navigate.build/Objects-normal/i386/NavigateAppDelegate.o /Volumes/MAC/Navigate/Classes/NavigateAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Navigate.build/Debug-iphonesimulator/Navigate.build/Objects-normal/i386/StationController.o /Volumes/MAC/Navigate/Classes/StationController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Navigate.build/Debug-iphonesimulator/Navigate.build/Objects-normal/i386/StationView.o /Volumes/MAC/Navigate/Classes/StationView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Volumes/MAC/Navigate/build/Debug-iphonesimulator/Navigate.app/Navigate normal i386
+cGenerateDSYMFile /Volumes/MAC/Navigate/build/Debug-iphonesimulator/Navigate.app.dSYM /Volumes/MAC/Navigate/build/Debug-iphonesimulator/Navigate.app/Navigate
+cTouch /Volumes/MAC/Navigate/build/Debug-iphonesimulator/Navigate.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CD5C66A0000000000B3E910
+t1289078378
+s11790608
+
+N/Volumes/MAC/Navigate/Classes/NavigateAppDelegate.h
+c000000004C2FEC6C00000000000001A6
+t1278209132
+s422
+i<UIKit/UIKit.h>
+
+N/Volumes/MAC/Navigate/Classes/NavigateAppDelegate.m
+c000000004C3071E00000000000000755
+t1278243296
+s1877
+i"NavigateAppDelegate.h"
+i"StationController.h"
+
+N/Volumes/MAC/Navigate/Classes/StationController.h
+c000000004C2FEC6C0000000000000125
+t1278209132
+s293
+i<UIKit/UIKit.h>
+
+N/Volumes/MAC/Navigate/Classes/StationController.m
+c000000004C30724C0000000000000800
+t1278243404
+s2048
+i"StationController.h"
+i"NavigateAppDelegate.h"
+i"StationView.h"
+
+N/Volumes/MAC/Navigate/Classes/StationView.h
+c000000004C2FE3020000000000000152
+t1278206722
+s338
+i<UIKit/UIKit.h>
+
+N/Volumes/MAC/Navigate/Classes/StationView.m
+c000000004C5DB2480000000000000616
+t1281208904
+s1558
+i"StationView.h"
+i"StationController.h"
+
+N/Volumes/MAC/Navigate/Navigate_Prefix.pch
+c000000004C2FDC3000000000000000B9
+t1278204976
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Volumes/MAC/Navigate/build/Debug-iphonesimulator/Navigate.app
+t1311897622
+s4096
+
+N/Volumes/MAC/Navigate/build/Debug-iphonesimulator/Navigate.app.dSYM
+t1311897622
+s4096
+
+N/Volumes/MAC/Navigate/build/Debug-iphonesimulator/Navigate.app/Info.plist
+t1311897620
+s562
+
+N/Volumes/MAC/Navigate/build/Debug-iphonesimulator/Navigate.app/Navigate
+t1311897622
+s22824
+
+N/Volumes/MAC/Navigate/build/Debug-iphonesimulator/Navigate.app/PkgInfo
+t1311897620
+s8
+
+N/Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/Objects-normal/i386/Navigate.LinkFileList
+c000000004E31F81400000000000001CF
+t1311897620
+s463
+
+N/Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/Objects-normal/i386/NavigateAppDelegate.o
+t1311897622
+s55676
+
+N/Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/Objects-normal/i386/StationController.o
+t1311897622
+s48792
+
+N/Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/Objects-normal/i386/StationView.o
+t1311897622
+s42612
+
+N/Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/Objects-normal/i386/main.o
+t1311897622
+s6460
+
+N/Volumes/MAC/Navigate/main.m
+c000000004C2FE02E000000000000016C
+t1278205998
+s364
+i<UIKit/UIKit.h>
+
+N/var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Navigate_Prefix-coiehpfrugwcrqgomawfdmciwrkm/Navigate_Prefix.pch.gch
+t1311897622
+s15814064
+
+NNavigate-Info.plist
+c000000004C2FE02E0000000000000356
+t1278205998
+s854
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies333590421#333590421#0(0"0(0#1#0"8626800000#0"0#
+
+CCompileC build/Navigate.build/Debug-iphonesimulator/Navigate.build/Objects-normal/i386/NavigateAppDelegate.o /Volumes/MAC/Navigate/Classes/NavigateAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s333590422.367589
+e333590422.455332
+r1
+xCompileC
+xbuild/Navigate.build/Debug-iphonesimulator/Navigate.build/Objects-normal/i386/NavigateAppDelegate.o
+x/Volumes/MAC/Navigate/Classes/NavigateAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Volumes/MAC/Navigate/Classes/NavigateAppDelegate.m333590422#333590422#0(0"0(0#0#51"/Volumes/MAC/Navigate/Classes/NavigateAppDelegate.m8628409504#1785"    cd /Volumes/MAC/Navigate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/Navigate-generated-files.hmap -I/Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/Navigate-own-target-headers.hmap -I/Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/Navigate-all-target-headers.hmap -iquote /Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/Navigate-project-headers.hmap -F/Volumes/MAC/Navigate/build/Debug-iphonesimulator -I/Volumes/MAC/Navigate/build/Debug-iphonesimulator/include -I/Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/DerivedSources/i386 -I/Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/DerivedSources -include /var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Navigate_Prefix-coiehpfrugwcrqgomawfdmciwrkm/Navigate_Prefix.pch -c /Volumes/MAC/Navigate/Classes/NavigateAppDelegate.m -o /Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/Objects-normal/i386/NavigateAppDelegate.o0#
+
+CCompileC build/Navigate.build/Debug-iphonesimulator/Navigate.build/Objects-normal/i386/StationController.o /Volumes/MAC/Navigate/Classes/StationController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s333590422.434592
+e333590422.512383
+r1
+xCompileC
+xbuild/Navigate.build/Debug-iphonesimulator/Navigate.build/Objects-normal/i386/StationController.o
+x/Volumes/MAC/Navigate/Classes/StationController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Volumes/MAC/Navigate/Classes/StationController.m333590422#333590422#0(0"0(0#0#49"/Volumes/MAC/Navigate/Classes/StationController.m8626702080#1781"    cd /Volumes/MAC/Navigate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/Navigate-generated-files.hmap -I/Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/Navigate-own-target-headers.hmap -I/Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/Navigate-all-target-headers.hmap -iquote /Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/Navigate-project-headers.hmap -F/Volumes/MAC/Navigate/build/Debug-iphonesimulator -I/Volumes/MAC/Navigate/build/Debug-iphonesimulator/include -I/Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/DerivedSources/i386 -I/Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/DerivedSources -include /var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Navigate_Prefix-coiehpfrugwcrqgomawfdmciwrkm/Navigate_Prefix.pch -c /Volumes/MAC/Navigate/Classes/StationController.m -o /Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/Objects-normal/i386/StationController.o0#
+
+CCompileC build/Navigate.build/Debug-iphonesimulator/Navigate.build/Objects-normal/i386/StationView.o /Volumes/MAC/Navigate/Classes/StationView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s333590422.455423
+e333590422.523012
+r1
+xCompileC
+xbuild/Navigate.build/Debug-iphonesimulator/Navigate.build/Objects-normal/i386/StationView.o
+x/Volumes/MAC/Navigate/Classes/StationView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Volumes/MAC/Navigate/Classes/StationView.m333590422#333590422#0(0"0(0#0#43"/Volumes/MAC/Navigate/Classes/StationView.m8629326400#1769"    cd /Volumes/MAC/Navigate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/Navigate-generated-files.hmap -I/Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/Navigate-own-target-headers.hmap -I/Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/Navigate-all-target-headers.hmap -iquote /Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/Navigate-project-headers.hmap -F/Volumes/MAC/Navigate/build/Debug-iphonesimulator -I/Volumes/MAC/Navigate/build/Debug-iphonesimulator/include -I/Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/DerivedSources/i386 -I/Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/DerivedSources -include /var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Navigate_Prefix-coiehpfrugwcrqgomawfdmciwrkm/Navigate_Prefix.pch -c /Volumes/MAC/Navigate/Classes/StationView.m -o /Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/Objects-normal/i386/StationView.o0#
+
+CCompileC build/Navigate.build/Debug-iphonesimulator/Navigate.build/Objects-normal/i386/main.o /Volumes/MAC/Navigate/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s333590422.366477
+e333590422.434498
+r1
+xCompileC
+xbuild/Navigate.build/Debug-iphonesimulator/Navigate.build/Objects-normal/i386/main.o
+x/Volumes/MAC/Navigate/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Compile /Volumes/MAC/Navigate/main.m333590422#333590422#0(0"0(0#0#28"/Volumes/MAC/Navigate/main.m8629347520#1747"    cd /Volumes/MAC/Navigate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/Navigate-generated-files.hmap -I/Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/Navigate-own-target-headers.hmap -I/Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/Navigate-all-target-headers.hmap -iquote /Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/Navigate-project-headers.hmap -F/Volumes/MAC/Navigate/build/Debug-iphonesimulator -I/Volumes/MAC/Navigate/build/Debug-iphonesimulator/include -I/Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/DerivedSources/i386 -I/Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/DerivedSources -include /var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Navigate_Prefix-coiehpfrugwcrqgomawfdmciwrkm/Navigate_Prefix.pch -c /Volumes/MAC/Navigate/main.m -o /Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/Objects-normal/i386/main.o0#
+
+CGenerateDSYMFile /Volumes/MAC/Navigate/build/Debug-iphonesimulator/Navigate.app.dSYM /Volumes/MAC/Navigate/build/Debug-iphonesimulator/Navigate.app/Navigate
+s333590422.554076
+e333590422.613562
+r1
+xGenerateDSYMFile
+x/Volumes/MAC/Navigate/build/Debug-iphonesimulator/Navigate.app.dSYM
+x/Volumes/MAC/Navigate/build/Debug-iphonesimulator/Navigate.app/Navigate
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/Navigate.app.dSYM build/Debug-iphonesimulator/Navigate.app/Navigate333590422#333590422#0(0"0(0#0#71"/Volumes/MAC/Navigate/build/Debug-iphonesimulator/Navigate.app/Navigate8627154976#335"    cd /Volumes/MAC/Navigate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Volumes/MAC/Navigate/build/Debug-iphonesimulator/Navigate.app/Navigate -o /Volumes/MAC/Navigate/build/Debug-iphonesimulator/Navigate.app.dSYM0#
+
+CLd /Volumes/MAC/Navigate/build/Debug-iphonesimulator/Navigate.app/Navigate normal i386
+s333590422.523098
+e333590422.553975
+r1
+xLd
+x/Volumes/MAC/Navigate/build/Debug-iphonesimulator/Navigate.app/Navigate
+xnormal
+xi386
+lSLF07#2@76"Link /Volumes/MAC/Navigate/build/Debug-iphonesimulator/Navigate.app/Navigate333590422#333590422#0(0"0(0#0#0"8627381632#842"    cd /Volumes/MAC/Navigate    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Volumes/MAC/Navigate/build/Debug-iphonesimulator -F/Volumes/MAC/Navigate/build/Debug-iphonesimulator -filelist /Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/Objects-normal/i386/Navigate.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework Foundation -o /Volumes/MAC/Navigate/build/Debug-iphonesimulator/Navigate.app/Navigate0#
+
+CProcessInfoPlistFile /Volumes/MAC/Navigate/build/Debug-iphonesimulator/Navigate.app/Info.plist Navigate-Info.plist
+s333590421.506983
+e333590421.549520
+r1
+xProcessInfoPlistFile
+x/Volumes/MAC/Navigate/build/Debug-iphonesimulator/Navigate.app/Info.plist
+xNavigate-Info.plist
+lSLF07#2@27"Process Navigate-Info.plist333590421#333590421#0(0"0(0#0#41"/Volumes/MAC/Navigate/Navigate-Info.plist8627447456#431"    cd /Volumes/MAC/Navigate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Navigate-Info.plist -genpkginfo /Volumes/MAC/Navigate/build/Debug-iphonesimulator/Navigate.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Volumes/MAC/Navigate/build/Debug-iphonesimulator/Navigate.app/Info.plist0#
+
+CProcessPCH /var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Navigate_Prefix-coiehpfrugwcrqgomawfdmciwrkm/Navigate_Prefix.pch.gch Navigate_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s333590421.549617
+e333590422.366391
+r1
+xProcessPCH
+x/var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Navigate_Prefix-coiehpfrugwcrqgomawfdmciwrkm/Navigate_Prefix.pch.gch
+xNavigate_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Navigate_Prefix.pch333590421#333590422#0(0"0(0#0#41"/Volumes/MAC/Navigate/Navigate_Prefix.pch8626821568#1655"    cd /Volumes/MAC/Navigate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/Navigate-generated-files.hmap -I/Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/Navigate-own-target-headers.hmap -I/Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/Navigate-all-target-headers.hmap -iquote /Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/Navigate-project-headers.hmap -F/Volumes/MAC/Navigate/build/Debug-iphonesimulator -I/Volumes/MAC/Navigate/build/Debug-iphonesimulator/include -I/Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/DerivedSources/i386 -I/Volumes/MAC/Navigate/build/Navigate.build/Debug-iphonesimulator/Navigate.build/DerivedSources -c /Volumes/MAC/Navigate/Navigate_Prefix.pch -o /var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Navigate_Prefix-coiehpfrugwcrqgomawfdmciwrkm/Navigate_Prefix.pch.gch0#
+
+CTouch /Volumes/MAC/Navigate/build/Debug-iphonesimulator/Navigate.app
+s333590422.613647
+e333590422.616635
+r1
+xTouch
+x/Volumes/MAC/Navigate/build/Debug-iphonesimulator/Navigate.app
+lSLF07#2@68"Touch /Volumes/MAC/Navigate/build/Debug-iphonesimulator/Navigate.app333590422#333590422#0(0"0(0#0#0"8627043456#245"    cd /Volumes/MAC/Navigate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Volumes/MAC/Navigate/build/Debug-iphonesimulator/Navigate.app0#
+

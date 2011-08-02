@@ -1,0 +1,27 @@
+TLTrain
+v7
+r1
+
+N/Volumes/MAC/LTrain/build/Debug/LTrain.app
+t2
+s0
+
+N/Volumes/MAC/LTrain/build/Debug/LTrain.app/Contents/Info.plist
+t2
+s0
+
+N/Volumes/MAC/LTrain/build/Debug/LTrain.app/Contents/PkgInfo
+t2
+s0
+
+NLTrain-Info.plist
+c000000004C3E24D80000000000000356
+t1279141080
+s854
+
+CProcessInfoPlistFile /Volumes/MAC/LTrain/build/Debug/LTrain.app/Contents/Info.plist LTrain-Info.plist
+r0
+
+CTouch /Volumes/MAC/LTrain/build/Debug/LTrain.app
+r0
+

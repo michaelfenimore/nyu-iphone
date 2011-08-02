@@ -1,0 +1,27 @@
+TNavigate
+v7
+r1
+
+N/Volumes/MAC/Navigate/build/Debug/Navigate.app
+t2
+s0
+
+N/Volumes/MAC/Navigate/build/Debug/Navigate.app/Contents/Info.plist
+t2
+s0
+
+N/Volumes/MAC/Navigate/build/Debug/Navigate.app/Contents/PkgInfo
+t2
+s0
+
+NNavigate-Info.plist
+c000000004C2FE02E0000000000000356
+t1278205998
+s854
+
+CProcessInfoPlistFile /Volumes/MAC/Navigate/build/Debug/Navigate.app/Contents/Info.plist Navigate-Info.plist
+r0
+
+CTouch /Volumes/MAC/Navigate/build/Debug/Navigate.app
+r0
+

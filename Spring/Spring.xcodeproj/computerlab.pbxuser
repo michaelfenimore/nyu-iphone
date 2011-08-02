@@ -1,0 +1,279 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* SpringAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {544, 548}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 479}";
+		};
+	};
+	1D3623250D0F684500981E51 /* SpringAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1222}}";
+			sepNavSelRange = "{622, 0}";
+			sepNavVisRange = "{0, 1345}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Spring */ = {
+		activeExec = 0;
+		executables = (
+			952C272113E21BDC00C98BAD /* Spring */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* SpringViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {543, 571}}";
+			sepNavSelRange = "{301, 0}";
+			sepNavVisRange = "{0, 301}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* SpringViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {978, 1001}}";
+			sepNavSelRange = "{1884, 0}";
+			sepNavVisRange = "{0, 1236}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 952C272113E21BDC00C98BAD /* Spring */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Spring */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Spring */,
+		);
+		codeSenseManager = 952C273213E21BFA00C98BAD /* Code sense */;
+		executables = (
+			952C272113E21BDC00C98BAD /* Spring */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					365,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 333585372;
+			PBXWorkspaceStateSaveDate = 333585372;
+		};
+		perUserProjectItems = {
+			952C275013E2234800C98BAD /* PBXTextBookmark */ = 952C275013E2234800C98BAD /* PBXTextBookmark */;
+			952C275113E2234800C98BAD /* PBXTextBookmark */ = 952C275113E2234800C98BAD /* PBXTextBookmark */;
+			952C275213E2234800C98BAD /* PBXTextBookmark */ = 952C275213E2234800C98BAD /* PBXTextBookmark */;
+			952C275313E2234800C98BAD /* PBXTextBookmark */ = 952C275313E2234800C98BAD /* PBXTextBookmark */;
+			952C275413E2234800C98BAD /* PBXTextBookmark */ = 952C275413E2234800C98BAD /* PBXTextBookmark */;
+			952C275513E2234800C98BAD /* PBXTextBookmark */ = 952C275513E2234800C98BAD /* PBXTextBookmark */;
+			952C275613E2234800C98BAD /* PBXTextBookmark */ = 952C275613E2234800C98BAD /* PBXTextBookmark */;
+			952C275713E2234800C98BAD /* PlistBookmark */ = 952C275713E2234800C98BAD /* PlistBookmark */;
+			952C275813E2234800C98BAD /* PBXTextBookmark */ = 952C275813E2234800C98BAD /* PBXTextBookmark */;
+			952C275913E2234800C98BAD /* PBXTextBookmark */ = 952C275913E2234800C98BAD /* PBXTextBookmark */;
+			952C275A13E2234800C98BAD /* PBXTextBookmark */ = 952C275A13E2234800C98BAD /* PBXTextBookmark */;
+		};
+		sourceControlManager = 952C273113E21BFA00C98BAD /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {543, 571}}";
+			sepNavSelRange = "{383, 0}";
+			sepNavVisRange = "{0, 383}";
+		};
+	};
+	952C272113E21BDC00C98BAD /* Spring */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Spring;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	952C273113E21BFA00C98BAD /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	952C273213E21BFA00C98BAD /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	952C273E13E21DBF00C98BAD /* View.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {543, 571}}";
+			sepNavSelRange = "{281, 0}";
+			sepNavVisRange = "{0, 281}";
+		};
+	};
+	952C273F13E21DBF00C98BAD /* View.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {543, 936}}";
+			sepNavSelRange = "{136, 0}";
+			sepNavVisRange = "{0, 1005}";
+		};
+	};
+	952C274713E21F8900C98BAD /* Pearl.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {543, 571}}";
+			sepNavSelRange = "{374, 0}";
+			sepNavVisRange = "{0, 374}";
+		};
+	};
+	952C274813E21F8900C98BAD /* Pearl.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {565, 988}}";
+			sepNavSelRange = "{1188, 0}";
+			sepNavVisRange = "{180, 1004}";
+		};
+	};
+	952C275013E2234800C98BAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 18";
+		rLen = 0;
+		rLoc = 383;
+		rType = 0;
+		vrLen = 383;
+		vrLoc = 0;
+	};
+	952C275113E2234800C98BAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SpringAppDelegate.m */;
+		name = "SpringAppDelegate.m: 27";
+		rLen = 0;
+		rLoc = 622;
+		rType = 0;
+		vrLen = 1345;
+		vrLoc = 0;
+	};
+	952C275213E2234800C98BAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* SpringViewController.h */;
+		name = "SpringViewController.h: 16";
+		rLen = 0;
+		rLoc = 301;
+		rType = 0;
+		vrLen = 301;
+		vrLoc = 0;
+	};
+	952C275313E2234800C98BAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SpringViewController.m */;
+		name = "SpringViewController.m: 67";
+		rLen = 0;
+		rLoc = 1884;
+		rType = 0;
+		vrLen = 1236;
+		vrLoc = 0;
+	};
+	952C275413E2234800C98BAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 952C273E13E21DBF00C98BAD /* View.h */;
+		name = "View.h: 19";
+		rLen = 0;
+		rLoc = 281;
+		rType = 0;
+		vrLen = 281;
+		vrLoc = 0;
+	};
+	952C275513E2234800C98BAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 952C273F13E21DBF00C98BAD /* View.m */;
+		name = "View.m: 8";
+		rLen = 0;
+		rLoc = 136;
+		rType = 0;
+		vrLen = 1005;
+		vrLoc = 0;
+	};
+	952C275613E2234800C98BAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 952C274813E21F8900C98BAD /* Pearl.m */;
+		name = "Pearl.m: 56";
+		rLen = 0;
+		rLoc = 1188;
+		rType = 0;
+		vrLen = 1004;
+		vrLoc = 180;
+	};
+	952C275713E2234800C98BAD /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Spring-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/MAC/Spring/Spring-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	952C275813E2234800C98BAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SpringAppDelegate.h */;
+		name = "SpringAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 479;
+		vrLoc = 0;
+	};
+	952C275913E2234800C98BAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 952C274713E21F8900C98BAD /* Pearl.h */;
+		name = "Pearl.h: 22";
+		rLen = 0;
+		rLoc = 374;
+		rType = 0;
+		vrLen = 374;
+		vrLoc = 0;
+	};
+	952C275A13E2234800C98BAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 952C274713E21F8900C98BAD /* Pearl.h */;
+		name = "Pearl.h: 22";
+		rLen = 0;
+		rLoc = 374;
+		rType = 0;
+		vrLen = 374;
+		vrLoc = 0;
+	};
+}

@@ -1,0 +1,80 @@
+TTabBar
+v7
+r1
+cCheck dependencies
+
+N/Users/nyuuser/Desktop/TabBar/bronx.png
+c000000004CF803AE0000000000000B88
+t1291322286
+s2952
+
+N/Users/nyuuser/Desktop/TabBar/brooklyn.png
+c000000004CF803C00000000000000BDA
+t1291322304
+s3034
+
+N/Users/nyuuser/Desktop/TabBar/build/Debug/TabBar.app
+t2
+s0
+
+N/Users/nyuuser/Desktop/TabBar/build/Debug/TabBar.app/Contents/Info.plist
+t2
+s0
+
+N/Users/nyuuser/Desktop/TabBar/build/Debug/TabBar.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/nyuuser/Desktop/TabBar/build/Debug/TabBar.app/Contents/Resources/bronx.png
+t2
+s0
+
+N/Users/nyuuser/Desktop/TabBar/build/Debug/TabBar.app/Contents/Resources/brooklyn.png
+t2
+s0
+
+N/Users/nyuuser/Desktop/TabBar/build/Debug/TabBar.app/Contents/Resources/manhattan.png
+t2
+s0
+
+N/Users/nyuuser/Desktop/TabBar/build/Debug/TabBar.app/Contents/Resources/queens.png
+t2
+s0
+
+N/Users/nyuuser/Desktop/TabBar/manhattan.png
+c000000004CF803CC0000000000000E8B
+t1291322316
+s3723
+
+N/Users/nyuuser/Desktop/TabBar/queens.png
+c000000004CF803D60000000000000C83
+t1291322326
+s3203
+
+NTabBar-Info.plist
+c000000004CF8020C0000000000000356
+t1291321868
+s854
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies326062452#326062452#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos4.3'1(4@58"error: There is no SDK with the name or path 'iphoneos4.3'326062452#18446744073709551615#0#0(1@0"0(0#1#0"8613127552#0"0#
+
+CCpResource build/Debug/TabBar.app/Contents/Resources/bronx.png bronx.png
+r0
+
+CCpResource build/Debug/TabBar.app/Contents/Resources/brooklyn.png brooklyn.png
+r0
+
+CCpResource build/Debug/TabBar.app/Contents/Resources/manhattan.png manhattan.png
+r0
+
+CCpResource build/Debug/TabBar.app/Contents/Resources/queens.png queens.png
+r0
+
+CProcessInfoPlistFile /Users/nyuuser/Desktop/TabBar/build/Debug/TabBar.app/Contents/Info.plist TabBar-Info.plist
+r0
+
+CTouch /Users/nyuuser/Desktop/TabBar/build/Debug/TabBar.app
+r0
+

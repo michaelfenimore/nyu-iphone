@@ -1,0 +1,256 @@
+TSpring
+v7
+r0
+t333585553.521762
+cCheck dependencies
+cProcessInfoPlistFile /Volumes/MAC/Spring/build/Debug-iphonesimulator/Spring.app/Info.plist Spring-Info.plist
+cCompileXIB /Volumes/MAC/Spring/MainWindow.xib
+cCompileXIB /Volumes/MAC/Spring/SpringViewController.xib
+cProcessPCH /var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Spring_Prefix-cvhbpjjtvjxyevasyaggwrbsrtbp/Spring_Prefix.pch.gch Spring_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Spring.build/Debug-iphonesimulator/Spring.build/Objects-normal/i386/main.o /Volumes/MAC/Spring/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Spring.build/Debug-iphonesimulator/Spring.build/Objects-normal/i386/SpringAppDelegate.o /Volumes/MAC/Spring/Classes/SpringAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Spring.build/Debug-iphonesimulator/Spring.build/Objects-normal/i386/SpringViewController.o /Volumes/MAC/Spring/Classes/SpringViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Volumes/MAC/Spring/build/Debug-iphonesimulator/Spring.app/Spring normal i386
+cGenerateDSYMFile /Volumes/MAC/Spring/build/Debug-iphonesimulator/Spring.app.dSYM /Volumes/MAC/Spring/build/Debug-iphonesimulator/Spring.app/Spring
+cTouch /Volumes/MAC/Spring/build/Debug-iphonesimulator/Spring.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Volumes/MAC/Spring/Classes/SpringAppDelegate.h
+c000000004E31E45A00000000000001DF
+t1311892570
+s479
+i<UIKit/UIKit.h>
+
+N/Volumes/MAC/Spring/Classes/SpringAppDelegate.m
+c000000004E31E50C0000000000000B0E
+t1311892748
+s2830
+i"SpringAppDelegate.h"
+i"SpringViewController.h"
+
+N/Volumes/MAC/Spring/Classes/SpringViewController.h
+c000000004E31E45C00000000000000F1
+t1311892572
+s241
+i<UIKit/UIKit.h>
+
+N/Volumes/MAC/Spring/Classes/SpringViewController.m
+c000000004E31E45C00000000000005C3
+t1311892572
+s1475
+i"SpringViewController.h"
+
+N/Volumes/MAC/Spring/MainWindow.xib
+c000000004E31E45C0000000000004E1D
+t1311892572
+s19997
+
+N/Volumes/MAC/Spring/SpringViewController.xib
+c000000004E31E45C0000000000001A41
+t1311892572
+s6721
+
+N/Volumes/MAC/Spring/Spring_Prefix.pch
+c000000004E31E45C00000000000000B5
+t1311892572
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Volumes/MAC/Spring/build/Debug-iphonesimulator/Spring.app
+t1311892752
+s4096
+
+N/Volumes/MAC/Spring/build/Debug-iphonesimulator/Spring.app.dSYM
+t1311892752
+s4096
+
+N/Volumes/MAC/Spring/build/Debug-iphonesimulator/Spring.app/Info.plist
+t1311892750
+s587
+
+N/Volumes/MAC/Spring/build/Debug-iphonesimulator/Spring.app/MainWindow.nib
+t1311892752
+s1679
+
+N/Volumes/MAC/Spring/build/Debug-iphonesimulator/Spring.app/PkgInfo
+t1311892750
+s8
+
+N/Volumes/MAC/Spring/build/Debug-iphonesimulator/Spring.app/Spring
+t1311892752
+s17176
+
+N/Volumes/MAC/Spring/build/Debug-iphonesimulator/Spring.app/SpringViewController.nib
+t1311892752
+s1269
+
+N/Volumes/MAC/Spring/build/Spring.build/Debug-iphonesimulator/Spring.build/Objects-normal/i386/Spring.LinkFileList
+c000000004E31E50E000000000000014C
+t1311892750
+s332
+
+N/Volumes/MAC/Spring/build/Spring.build/Debug-iphonesimulator/Spring.build/Objects-normal/i386/SpringAppDelegate.o
+t1311892752
+s52584
+
+N/Volumes/MAC/Spring/build/Spring.build/Debug-iphonesimulator/Spring.build/Objects-normal/i386/SpringViewController.o
+t1311892752
+s37888
+
+N/Volumes/MAC/Spring/build/Spring.build/Debug-iphonesimulator/Spring.build/Objects-normal/i386/main.o
+t1311892752
+s6456
+
+N/Volumes/MAC/Spring/main.m
+c000000004E31E47E000000000000017F
+t1311892606
+s383
+i<UIKit/UIKit.h>
+
+N/var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Spring_Prefix-cvhbpjjtvjxyevasyaggwrbsrtbp/Spring_Prefix.pch.gch
+t1311892752
+s15814064
+
+NSpring-Info.plist
+c000000004E31E45C000000000000038D
+t1311892572
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies333585551#333585551#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/Spring.build/Debug-iphonesimulator/Spring.build/Objects-normal/i386/SpringAppDelegate.o /Volumes/MAC/Spring/Classes/SpringAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s333585553.032758
+e333585553.169007
+r1
+xCompileC
+xbuild/Spring.build/Debug-iphonesimulator/Spring.build/Objects-normal/i386/SpringAppDelegate.o
+x/Volumes/MAC/Spring/Classes/SpringAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Volumes/MAC/Spring/Classes/SpringAppDelegate.m333585553#333585553#0(0"0(0#0#47"/Volumes/MAC/Spring/Classes/SpringAppDelegate.m8619454688#1719"    cd /Volumes/MAC/Spring    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Volumes/MAC/Spring/build/Spring.build/Debug-iphonesimulator/Spring.build/Spring-generated-files.hmap -I/Volumes/MAC/Spring/build/Spring.build/Debug-iphonesimulator/Spring.build/Spring-own-target-headers.hmap -I/Volumes/MAC/Spring/build/Spring.build/Debug-iphonesimulator/Spring.build/Spring-all-target-headers.hmap -iquote /Volumes/MAC/Spring/build/Spring.build/Debug-iphonesimulator/Spring.build/Spring-project-headers.hmap -F/Volumes/MAC/Spring/build/Debug-iphonesimulator -I/Volumes/MAC/Spring/build/Debug-iphonesimulator/include -I/Volumes/MAC/Spring/build/Spring.build/Debug-iphonesimulator/Spring.build/DerivedSources/i386 -I/Volumes/MAC/Spring/build/Spring.build/Debug-iphonesimulator/Spring.build/DerivedSources -include /var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Spring_Prefix-cvhbpjjtvjxyevasyaggwrbsrtbp/Spring_Prefix.pch -c /Volumes/MAC/Spring/Classes/SpringAppDelegate.m -o /Volumes/MAC/Spring/build/Spring.build/Debug-iphonesimulator/Spring.build/Objects-normal/i386/SpringAppDelegate.o0#
+
+CCompileC build/Spring.build/Debug-iphonesimulator/Spring.build/Objects-normal/i386/SpringViewController.o /Volumes/MAC/Spring/Classes/SpringViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s333585553.135439
+e333585553.199064
+r1
+xCompileC
+xbuild/Spring.build/Debug-iphonesimulator/Spring.build/Objects-normal/i386/SpringViewController.o
+x/Volumes/MAC/Spring/Classes/SpringViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Volumes/MAC/Spring/Classes/SpringViewController.m333585553#333585553#0(0"0(0#0#50"/Volumes/MAC/Spring/Classes/SpringViewController.m8612791968#1725"    cd /Volumes/MAC/Spring    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Volumes/MAC/Spring/build/Spring.build/Debug-iphonesimulator/Spring.build/Spring-generated-files.hmap -I/Volumes/MAC/Spring/build/Spring.build/Debug-iphonesimulator/Spring.build/Spring-own-target-headers.hmap -I/Volumes/MAC/Spring/build/Spring.build/Debug-iphonesimulator/Spring.build/Spring-all-target-headers.hmap -iquote /Volumes/MAC/Spring/build/Spring.build/Debug-iphonesimulator/Spring.build/Spring-project-headers.hmap -F/Volumes/MAC/Spring/build/Debug-iphonesimulator -I/Volumes/MAC/Spring/build/Debug-iphonesimulator/include -I/Volumes/MAC/Spring/build/Spring.build/Debug-iphonesimulator/Spring.build/DerivedSources/i386 -I/Volumes/MAC/Spring/build/Spring.build/Debug-iphonesimulator/Spring.build/DerivedSources -include /var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Spring_Prefix-cvhbpjjtvjxyevasyaggwrbsrtbp/Spring_Prefix.pch -c /Volumes/MAC/Spring/Classes/SpringViewController.m -o /Volumes/MAC/Spring/build/Spring.build/Debug-iphonesimulator/Spring.build/Objects-normal/i386/SpringViewController.o0#
+
+CCompileC build/Spring.build/Debug-iphonesimulator/Spring.build/Objects-normal/i386/main.o /Volumes/MAC/Spring/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s333585553.031775
+e333585553.135275
+r1
+xCompileC
+xbuild/Spring.build/Debug-iphonesimulator/Spring.build/Objects-normal/i386/main.o
+x/Volumes/MAC/Spring/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Compile /Volumes/MAC/Spring/main.m333585553#333585553#0(0"0(0#0#26"/Volumes/MAC/Spring/main.m8610309920#1685"    cd /Volumes/MAC/Spring    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Volumes/MAC/Spring/build/Spring.build/Debug-iphonesimulator/Spring.build/Spring-generated-files.hmap -I/Volumes/MAC/Spring/build/Spring.build/Debug-iphonesimulator/Spring.build/Spring-own-target-headers.hmap -I/Volumes/MAC/Spring/build/Spring.build/Debug-iphonesimulator/Spring.build/Spring-all-target-headers.hmap -iquote /Volumes/MAC/Spring/build/Spring.build/Debug-iphonesimulator/Spring.build/Spring-project-headers.hmap -F/Volumes/MAC/Spring/build/Debug-iphonesimulator -I/Volumes/MAC/Spring/build/Debug-iphonesimulator/include -I/Volumes/MAC/Spring/build/Spring.build/Debug-iphonesimulator/Spring.build/DerivedSources/i386 -I/Volumes/MAC/Spring/build/Spring.build/Debug-iphonesimulator/Spring.build/DerivedSources -include /var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Spring_Prefix-cvhbpjjtvjxyevasyaggwrbsrtbp/Spring_Prefix.pch -c /Volumes/MAC/Spring/main.m -o /Volumes/MAC/Spring/build/Spring.build/Debug-iphonesimulator/Spring.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Volumes/MAC/Spring/MainWindow.xib
+s333585551.726559
+e333585552.137717
+r1
+xCompileXIB
+x/Volumes/MAC/Spring/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib333585551#333585552#0(0"0(0#0#34"/Volumes/MAC/Spring/MainWindow.xib8619342912#512"    cd /Volumes/MAC/Spring    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Volumes/MAC/Spring/build/Debug-iphonesimulator/Spring.app/MainWindow.nib /Volumes/MAC/Spring/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Volumes/MAC/Spring/SpringViewController.xib
+s333585551.727910
+e333585552.137837
+r1
+xCompileXIB
+x/Volumes/MAC/Spring/SpringViewController.xib
+lSLF07#2@35"CompileXIB SpringViewController.xib333585551#333585552#0(0"0(0#0#44"/Volumes/MAC/Spring/SpringViewController.xib8612804992#532"    cd /Volumes/MAC/Spring    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Volumes/MAC/Spring/build/Debug-iphonesimulator/Spring.app/SpringViewController.nib /Volumes/MAC/Spring/SpringViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Volumes/MAC/Spring/build/Debug-iphonesimulator/Spring.app.dSYM /Volumes/MAC/Spring/build/Debug-iphonesimulator/Spring.app/Spring
+s333585553.476439
+e333585553.519308
+r1
+xGenerateDSYMFile
+x/Volumes/MAC/Spring/build/Debug-iphonesimulator/Spring.app.dSYM
+x/Volumes/MAC/Spring/build/Debug-iphonesimulator/Spring.app/Spring
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/Spring.app.dSYM build/Debug-iphonesimulator/Spring.app/Spring333585553#333585553#0(0"0(0#0#65"/Volumes/MAC/Spring/build/Debug-iphonesimulator/Spring.app/Spring8610659968#323"    cd /Volumes/MAC/Spring    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Volumes/MAC/Spring/build/Debug-iphonesimulator/Spring.app/Spring -o /Volumes/MAC/Spring/build/Debug-iphonesimulator/Spring.app.dSYM0#
+
+CLd /Volumes/MAC/Spring/build/Debug-iphonesimulator/Spring.app/Spring normal i386
+s333585553.199148
+e333585553.476341
+r1
+xLd
+x/Volumes/MAC/Spring/build/Debug-iphonesimulator/Spring.app/Spring
+xnormal
+xi386
+lSLF07#2@70"Link /Volumes/MAC/Spring/build/Debug-iphonesimulator/Spring.app/Spring333585553#333585553#0(0"0(0#0#0"8612159936#800"    cd /Volumes/MAC/Spring    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Volumes/MAC/Spring/build/Debug-iphonesimulator -F/Volumes/MAC/Spring/build/Debug-iphonesimulator -filelist /Volumes/MAC/Spring/build/Spring.build/Debug-iphonesimulator/Spring.build/Objects-normal/i386/Spring.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Volumes/MAC/Spring/build/Debug-iphonesimulator/Spring.app/Spring0#
+
+CProcessInfoPlistFile /Volumes/MAC/Spring/build/Debug-iphonesimulator/Spring.app/Info.plist Spring-Info.plist
+s333585551.588775
+e333585551.726480
+r1
+xProcessInfoPlistFile
+x/Volumes/MAC/Spring/build/Debug-iphonesimulator/Spring.app/Info.plist
+xSpring-Info.plist
+lSLF07#2@25"Process Spring-Info.plist333585551#333585551#0(0"0(0#0#37"/Volumes/MAC/Spring/Spring-Info.plist12948291317530728#419"    cd /Volumes/MAC/Spring    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Spring-Info.plist -genpkginfo /Volumes/MAC/Spring/build/Debug-iphonesimulator/Spring.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Volumes/MAC/Spring/build/Debug-iphonesimulator/Spring.app/Info.plist0#
+
+CProcessPCH /var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Spring_Prefix-cvhbpjjtvjxyevasyaggwrbsrtbp/Spring_Prefix.pch.gch Spring_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s333585552.137973
+e333585553.031679
+r1
+xProcessPCH
+x/var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Spring_Prefix-cvhbpjjtvjxyevasyaggwrbsrtbp/Spring_Prefix.pch.gch
+xSpring_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Spring_Prefix.pch333585552#333585553#0(0"0(0#0#37"/Volumes/MAC/Spring/Spring_Prefix.pch8610541664#1597"    cd /Volumes/MAC/Spring    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Volumes/MAC/Spring/build/Spring.build/Debug-iphonesimulator/Spring.build/Spring-generated-files.hmap -I/Volumes/MAC/Spring/build/Spring.build/Debug-iphonesimulator/Spring.build/Spring-own-target-headers.hmap -I/Volumes/MAC/Spring/build/Spring.build/Debug-iphonesimulator/Spring.build/Spring-all-target-headers.hmap -iquote /Volumes/MAC/Spring/build/Spring.build/Debug-iphonesimulator/Spring.build/Spring-project-headers.hmap -F/Volumes/MAC/Spring/build/Debug-iphonesimulator -I/Volumes/MAC/Spring/build/Debug-iphonesimulator/include -I/Volumes/MAC/Spring/build/Spring.build/Debug-iphonesimulator/Spring.build/DerivedSources/i386 -I/Volumes/MAC/Spring/build/Spring.build/Debug-iphonesimulator/Spring.build/DerivedSources -c /Volumes/MAC/Spring/Spring_Prefix.pch -o /var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Spring_Prefix-cvhbpjjtvjxyevasyaggwrbsrtbp/Spring_Prefix.pch.gch0#
+
+CTouch /Volumes/MAC/Spring/build/Debug-iphonesimulator/Spring.app
+s333585553.519380
+e333585553.521732
+r1
+xTouch
+x/Volumes/MAC/Spring/build/Debug-iphonesimulator/Spring.app
+lSLF07#2@64"Touch /Volumes/MAC/Spring/build/Debug-iphonesimulator/Spring.app333585553#333585553#0(0"0(0#0#0"8607516544#239"    cd /Volumes/MAC/Spring    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Volumes/MAC/Spring/build/Debug-iphonesimulator/Spring.app0#
+
