@@ -49,11 +49,13 @@
 					 @"station3.png",
 					 nil
 					 ];
+	[stationImages retain];
 	
 	a = [[NSMutableArray alloc] init];
 	
 	[a addObject: [[StationController alloc]
 				   initWithTitle: [stationNames objectAtIndex: 0]
+				   easternNeighbor: stationNames.count > 1
 				   ]];
 	
 	//Put the first station in the navigation controller.
@@ -79,6 +81,7 @@
 		//This station is being pushed for the first time.
 		[a addObject: [[StationController alloc]
 					   initWithTitle: [stationNames objectAtIndex: i]
+					   easternNeighbor: i < stationNames.count - 1
 					   ]];
 	}
 	
@@ -93,7 +96,7 @@
 		[c release];
 	}
 	[a release];
-	
+	[stationImages release];
 	[stationNames release];
 	[super dealloc];
 }

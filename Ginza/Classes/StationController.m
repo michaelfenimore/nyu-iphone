@@ -12,11 +12,19 @@
 
 @implementation StationController
 
-- (id) initWithTitle: (NSString *) title {
+- (id) initWithTitle: (NSString *) title easternNeighbor: (BOOL) b {
 	self = [super initWithNibName: nil bundle: nil];
 	if (self != nil) {
 		// Custom initialization
 		self.title = title;
+		if (b) {
+			self.navigationItem.rightBarButtonItem =
+			[[UIBarButtonItem alloc] initWithTitle: @"Next"
+											 style: UIBarButtonItemStylePlain
+											target: self
+											action: @selector(nextStation)
+			 ];
+		}
 	}
 	return self;
 }

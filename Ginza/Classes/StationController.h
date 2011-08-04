@@ -13,7 +13,8 @@
 
 }
 
-- (id) initWithTitle: (NSString *) title;
+- (id) initWithTitle: (NSString *) title easternNeighbor: (BOOL) b;
+
 - (void) nextStation;
 
 @end
