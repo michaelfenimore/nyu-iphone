@@ -1,0 +1,11 @@
+/* 1) Remove float layout 
+ * 2) Remove width value, and reset them to auto
+ * 3) Image grid remains at 3x3 cause of fluid-ness of the grid
+ */
+.mast,
+.intro,
+.main,
+.footer {
+	float:none;
+	width:auto;
+}

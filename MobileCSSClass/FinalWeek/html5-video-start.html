@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Exercise: Adding video</title>
+		<style>
+			video {
+				width: 480px;
+				height: 270px;
+				display: block;
+			}
+		</style>
+	</head>
+	<body>
+		<!--
+		1) Flash video URL: 	http://www.youtube.com/v/YE7VzlLtp-4
+		2) Ogg video URL: 		http://clips.vorwaerts-gmbh.de/big_buck_bunny.ogv
+		3) H.264 video URL: 	http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4
+		4) VP8 video URL: 	 	http://clips.vorwaerts-gmbh.de/big_buck_bunny.webm           
+		-->
+		<h1>Adding multiple formats for cross-browser compatibility:</h1>
+        <video controls>
+        	<source src="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4" type="video/mp4" />
+            <source src="http://clips.vorwaerts-gmbh.de/big_buck_bunny.ogv" type="video/ogg" />
+            <source src="http://clips.vorwaerts-gmbh.de/big_buck_bunny.webm" type="vieo/webm" />
+            <p>This browser doesn't support the HTML5 video element</p>
+        </video>
+	</body>
+</html>

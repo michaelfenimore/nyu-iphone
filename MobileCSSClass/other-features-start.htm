@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<title>Webkit Reflection</title>
+		<meta charset="utf-8" />
+		<style>
+			* {margin:0;padding:0;}
+			body {font-family: Helvetica, sans-serif;}
+			h1 { 
+				margin: 50px 0;
+				text-align: center; 
+				line-height: 1;
+				font-size: 64px;
+				-webkit-box-reflect: below -10px -webkit-gradient(linear, 0 0, 0 100%, from(transparent), to(#000));
+				-webkit-text-stroke: 2px #69f;
+				-webkit-text-fill-color: transparent;
+				-webkit-background-clip: text;
+				background-image: -webkit-gradient(linear, 0 0, 0 100%, from(red), to(blue));}
+			.box { width:100px;
+				height:100px;
+				background:red;
+				color:#000;
+				font-family:Arial, Helvetica, sans-serif;
+				font-weight:bold;
+				text-align:center;
+				/* -webkit-transition: background-color .5s, color .5s, opacity .5s;}
+				 The following is an overwrite */
+				-webkit-transition: all .5s;}
+			.box:hover {background:blue; color:#000; opacity: .5; -webkit-border-radius:50px}
+			
+		</style>
+	</head>
+	<body>
+		<h1>CSS 3 is fun!</h1>
+        <div class="box">
+        	Transition Here
+        </div>
+	</body>
+</html>

@@ -1,0 +1,14 @@
+/*
+ * 1) Change the 3x3 grid to a 2x2 when view with a browser with small width (max-width: 400px;)
+ */
+ 
+.figure,
+#f-mycroft {
+	margin-right:3.3175%; /*21px / 633px */
+	width: 48.3412%; /*306px / 633px */
+}
+
+#f-watson,
+#f-moriarty {
+	margin-right:0;
+}

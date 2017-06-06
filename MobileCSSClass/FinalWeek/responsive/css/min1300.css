@@ -1,0 +1,11 @@
+/* Ignore this
+ * 1) Remove float layout ???? might not be needed
+ * 2) Remove width value, and reset them to auto
+ * 3) Image grid remains at 3x3 cause of fluid-ness of the grid
+ */
+
+.figure,
+#f-mycroft {
+	margin-right:3.3175%; /* 21px / 633px */
+	width: 13.9021%; /* 88px / 633px */
+}

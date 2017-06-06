@@ -1,0 +1,256 @@
+Tnib
+v7
+r0
+t334193689.733261
+cCheck dependencies
+cProcessInfoPlistFile /Volumes/MAC/nib/build/Debug-iphonesimulator/nib.app/Info.plist nib-Info.plist
+cCompileXIB /Volumes/MAC/nib/MainWindow.xib
+cCompileXIB /Volumes/MAC/nib/Classes/ViewController.xib
+cProcessPCH /var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/nib_Prefix-fhdcudanghejcaepegwqoowtlptg/nib_Prefix.pch.gch nib_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/nib.build/Debug-iphonesimulator/nib.build/Objects-normal/i386/main.o /Volumes/MAC/nib/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/nib.build/Debug-iphonesimulator/nib.build/Objects-normal/i386/nibAppDelegate.o /Volumes/MAC/nib/Classes/nibAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/nib.build/Debug-iphonesimulator/nib.build/Objects-normal/i386/ViewController.o /Volumes/MAC/nib/Classes/ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Volumes/MAC/nib/build/Debug-iphonesimulator/nib.app/nib normal i386
+cGenerateDSYMFile /Volumes/MAC/nib/build/Debug-iphonesimulator/nib.app.dSYM /Volumes/MAC/nib/build/Debug-iphonesimulator/nib.app/nib
+cTouch /Volumes/MAC/nib/build/Debug-iphonesimulator/nib.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Volumes/MAC/nib/Classes/ViewController.h
+c000000004E3B2ABC0000000000000158
+t1312500412
+s344
+i<UIKit/UIKit.h>
+
+N/Volumes/MAC/nib/Classes/ViewController.m
+c000000004E3B2AE40000000000000607
+t1312500452
+s1543
+i"ViewController.h"
+
+N/Volumes/MAC/nib/Classes/ViewController.xib
+c000000004E3B2AF20000000000004900
+t1312500466
+s18688
+
+N/Volumes/MAC/nib/Classes/nibAppDelegate.h
+c000000004E3B299000000000000001BF
+t1312500112
+s447
+i<UIKit/UIKit.h>
+
+N/Volumes/MAC/nib/Classes/nibAppDelegate.m
+c000000004E3B29A80000000000000A24
+t1312500136
+s2596
+i"nibAppDelegate.h"
+i"ViewController.h"
+
+N/Volumes/MAC/nib/MainWindow.xib
+c000000004E3B2C92000000000000662D
+t1312500882
+s26157
+
+N/Volumes/MAC/nib/build/Debug-iphonesimulator/nib.app
+t1312500888
+s4096
+
+N/Volumes/MAC/nib/build/Debug-iphonesimulator/nib.app.dSYM
+t1312500454
+s4096
+
+N/Volumes/MAC/nib/build/Debug-iphonesimulator/nib.app/Info.plist
+t1312498596
+s575
+
+N/Volumes/MAC/nib/build/Debug-iphonesimulator/nib.app/MainWindow.nib
+t1312500888
+s3567
+
+N/Volumes/MAC/nib/build/Debug-iphonesimulator/nib.app/PkgInfo
+t1312498596
+s8
+
+N/Volumes/MAC/nib/build/Debug-iphonesimulator/nib.app/ViewController.nib
+t1312500472
+s2293
+
+N/Volumes/MAC/nib/build/Debug-iphonesimulator/nib.app/nib
+t1312500454
+s17264
+
+N/Volumes/MAC/nib/build/nib.build/Debug-iphonesimulator/nib.build/Objects-normal/i386/ViewController.o
+t1312500454
+s39976
+
+N/Volumes/MAC/nib/build/nib.build/Debug-iphonesimulator/nib.build/Objects-normal/i386/main.o
+t1312499510
+s6268
+
+N/Volumes/MAC/nib/build/nib.build/Debug-iphonesimulator/nib.build/Objects-normal/i386/nib.LinkFileList
+c000000004E3B27360000000000000128
+t1312499510
+s296
+
+N/Volumes/MAC/nib/build/nib.build/Debug-iphonesimulator/nib.build/Objects-normal/i386/nibAppDelegate.o
+t1312500454
+s50996
+
+N/Volumes/MAC/nib/main.m
+c000000004E3B21DA000000000000016B
+t1312498138
+s363
+i<UIKit/UIKit.h>
+
+N/Volumes/MAC/nib/nib_Prefix.pch
+c000000004E3B21DA00000000000000AF
+t1312498138
+s175
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/nib_Prefix-fhdcudanghejcaepegwqoowtlptg/nib_Prefix.pch.gch
+t1312498597
+s15814064
+
+Nnib-Info.plist
+c000000004E3B21DA000000000000038D
+t1312498138
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies334193689#334193689#0(0"0(0#1#0"8619073024#0"0#
+
+CCompileC build/nib.build/Debug-iphonesimulator/nib.build/Objects-normal/i386/ViewController.o /Volumes/MAC/nib/Classes/ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s334193254.340456
+e334193254.542143
+r1
+xCompileC
+xbuild/nib.build/Debug-iphonesimulator/nib.build/Objects-normal/i386/ViewController.o
+x/Volumes/MAC/nib/Classes/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Volumes/MAC/nib/Classes/ViewController.m334193254#334193254#0(0"0(0#0#41"/Volumes/MAC/nib/Classes/ViewController.m8612540864#1620"    cd /Volumes/MAC/nib    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Volumes/MAC/nib/build/nib.build/Debug-iphonesimulator/nib.build/nib-generated-files.hmap -I/Volumes/MAC/nib/build/nib.build/Debug-iphonesimulator/nib.build/nib-own-target-headers.hmap -I/Volumes/MAC/nib/build/nib.build/Debug-iphonesimulator/nib.build/nib-all-target-headers.hmap -iquote /Volumes/MAC/nib/build/nib.build/Debug-iphonesimulator/nib.build/nib-project-headers.hmap -F/Volumes/MAC/nib/build/Debug-iphonesimulator -I/Volumes/MAC/nib/build/Debug-iphonesimulator/include -I/Volumes/MAC/nib/build/nib.build/Debug-iphonesimulator/nib.build/DerivedSources/i386 -I/Volumes/MAC/nib/build/nib.build/Debug-iphonesimulator/nib.build/DerivedSources -include /var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/nib_Prefix-fhdcudanghejcaepegwqoowtlptg/nib_Prefix.pch -c /Volumes/MAC/nib/Classes/ViewController.m -o /Volumes/MAC/nib/build/nib.build/Debug-iphonesimulator/nib.build/Objects-normal/i386/ViewController.o0#
+
+CCompileC build/nib.build/Debug-iphonesimulator/nib.build/Objects-normal/i386/main.o /Volumes/MAC/nib/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s334192311.561525
+e334192311.636437
+r1
+xCompileC
+xbuild/nib.build/Debug-iphonesimulator/nib.build/Objects-normal/i386/main.o
+x/Volumes/MAC/nib/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Compile /Volumes/MAC/nib/main.m334192311#334192311#0(0"0(0#0#23"/Volumes/MAC/nib/main.m8607404576#1592"    cd /Volumes/MAC/nib    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Volumes/MAC/nib/build/nib.build/Debug-iphonesimulator/nib.build/nib-generated-files.hmap -I/Volumes/MAC/nib/build/nib.build/Debug-iphonesimulator/nib.build/nib-own-target-headers.hmap -I/Volumes/MAC/nib/build/nib.build/Debug-iphonesimulator/nib.build/nib-all-target-headers.hmap -iquote /Volumes/MAC/nib/build/nib.build/Debug-iphonesimulator/nib.build/nib-project-headers.hmap -F/Volumes/MAC/nib/build/Debug-iphonesimulator -I/Volumes/MAC/nib/build/Debug-iphonesimulator/include -I/Volumes/MAC/nib/build/nib.build/Debug-iphonesimulator/nib.build/DerivedSources/i386 -I/Volumes/MAC/nib/build/nib.build/Debug-iphonesimulator/nib.build/DerivedSources -include /var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/nib_Prefix-fhdcudanghejcaepegwqoowtlptg/nib_Prefix.pch -c /Volumes/MAC/nib/main.m -o /Volumes/MAC/nib/build/nib.build/Debug-iphonesimulator/nib.build/Objects-normal/i386/main.o0#
+
+CCompileC build/nib.build/Debug-iphonesimulator/nib.build/Objects-normal/i386/nibAppDelegate.o /Volumes/MAC/nib/Classes/nibAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s334193254.339424
+e334193254.541928
+r1
+xCompileC
+xbuild/nib.build/Debug-iphonesimulator/nib.build/Objects-normal/i386/nibAppDelegate.o
+x/Volumes/MAC/nib/Classes/nibAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Volumes/MAC/nib/Classes/nibAppDelegate.m334193254#334193254#0(0"0(0#0#41"/Volumes/MAC/nib/Classes/nibAppDelegate.m8613125696#1620"    cd /Volumes/MAC/nib    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Volumes/MAC/nib/build/nib.build/Debug-iphonesimulator/nib.build/nib-generated-files.hmap -I/Volumes/MAC/nib/build/nib.build/Debug-iphonesimulator/nib.build/nib-own-target-headers.hmap -I/Volumes/MAC/nib/build/nib.build/Debug-iphonesimulator/nib.build/nib-all-target-headers.hmap -iquote /Volumes/MAC/nib/build/nib.build/Debug-iphonesimulator/nib.build/nib-project-headers.hmap -F/Volumes/MAC/nib/build/Debug-iphonesimulator -I/Volumes/MAC/nib/build/Debug-iphonesimulator/include -I/Volumes/MAC/nib/build/nib.build/Debug-iphonesimulator/nib.build/DerivedSources/i386 -I/Volumes/MAC/nib/build/nib.build/Debug-iphonesimulator/nib.build/DerivedSources -include /var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/nib_Prefix-fhdcudanghejcaepegwqoowtlptg/nib_Prefix.pch -c /Volumes/MAC/nib/Classes/nibAppDelegate.m -o /Volumes/MAC/nib/build/nib.build/Debug-iphonesimulator/nib.build/Objects-normal/i386/nibAppDelegate.o0#
+
+CCompileXIB /Volumes/MAC/nib/Classes/ViewController.xib
+s334193272.953877
+e334193273.341322
+r1
+xCompileXIB
+x/Volumes/MAC/nib/Classes/ViewController.xib
+lSLF07#2@37"CompileXIB Classes/ViewController.xib334193272#334193273#0(0"0(0#0#43"/Volumes/MAC/nib/Classes/ViewController.xib8618772768#516"    cd /Volumes/MAC/nib    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Volumes/MAC/nib/build/Debug-iphonesimulator/nib.app/ViewController.nib /Volumes/MAC/nib/Classes/ViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Volumes/MAC/nib/MainWindow.xib
+s334193689.340895
+e334193689.730409
+r1
+xCompileXIB
+x/Volumes/MAC/nib/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib334193689#334193689#0(0"0(0#0#31"/Volumes/MAC/nib/MainWindow.xib8618699840#500"    cd /Volumes/MAC/nib    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Volumes/MAC/nib/build/Debug-iphonesimulator/nib.app/MainWindow.nib /Volumes/MAC/nib/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Volumes/MAC/nib/build/Debug-iphonesimulator/nib.app.dSYM /Volumes/MAC/nib/build/Debug-iphonesimulator/nib.app/nib
+s334193254.621524
+e334193254.690870
+r1
+xGenerateDSYMFile
+x/Volumes/MAC/nib/build/Debug-iphonesimulator/nib.app.dSYM
+x/Volumes/MAC/nib/build/Debug-iphonesimulator/nib.app/nib
+lSLF07#2@97"GenerateDSYMFile build/Debug-iphonesimulator/nib.app.dSYM build/Debug-iphonesimulator/nib.app/nib334193254#334193254#0(0"0(0#0#56"/Volumes/MAC/nib/build/Debug-iphonesimulator/nib.app/nib8619054464#305"    cd /Volumes/MAC/nib    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Volumes/MAC/nib/build/Debug-iphonesimulator/nib.app/nib -o /Volumes/MAC/nib/build/Debug-iphonesimulator/nib.app.dSYM0#
+
+CLd /Volumes/MAC/nib/build/Debug-iphonesimulator/nib.app/nib normal i386
+s334193254.542244
+e334193254.621273
+r1
+xLd
+x/Volumes/MAC/nib/build/Debug-iphonesimulator/nib.app/nib
+xnormal
+xi386
+lSLF07#2@61"Link /Volumes/MAC/nib/build/Debug-iphonesimulator/nib.app/nib334193254#334193254#0(0"0(0#0#0"8619142272#770"    cd /Volumes/MAC/nib    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Volumes/MAC/nib/build/Debug-iphonesimulator -F/Volumes/MAC/nib/build/Debug-iphonesimulator -filelist /Volumes/MAC/nib/build/nib.build/Debug-iphonesimulator/nib.build/Objects-normal/i386/nib.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Volumes/MAC/nib/build/Debug-iphonesimulator/nib.app/nib0#
+
+CProcessInfoPlistFile /Volumes/MAC/nib/build/Debug-iphonesimulator/nib.app/Info.plist nib-Info.plist
+s334191396.438797
+e334191396.504010
+r1
+xProcessInfoPlistFile
+x/Volumes/MAC/nib/build/Debug-iphonesimulator/nib.app/Info.plist
+xnib-Info.plist
+lSLF07#2@22"Process nib-Info.plist334191396#334191396#0(0"0(0#0#31"/Volumes/MAC/nib/nib-Info.plist13229753409208424#401"    cd /Volumes/MAC/nib    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility nib-Info.plist -genpkginfo /Volumes/MAC/nib/build/Debug-iphonesimulator/nib.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Volumes/MAC/nib/build/Debug-iphonesimulator/nib.app/Info.plist0#
+
+CProcessPCH /var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/nib_Prefix-fhdcudanghejcaepegwqoowtlptg/nib_Prefix.pch.gch nib_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s334191396.904540
+e334191397.853462
+r1
+xProcessPCH
+x/var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/nib_Prefix-fhdcudanghejcaepegwqoowtlptg/nib_Prefix.pch.gch
+xnib_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@25"Precompile nib_Prefix.pch334191396#334191397#0(0"0(0#0#31"/Volumes/MAC/nib/nib_Prefix.pch8610978016#1510"    cd /Volumes/MAC/nib    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Volumes/MAC/nib/build/nib.build/Debug-iphonesimulator/nib.build/nib-generated-files.hmap -I/Volumes/MAC/nib/build/nib.build/Debug-iphonesimulator/nib.build/nib-own-target-headers.hmap -I/Volumes/MAC/nib/build/nib.build/Debug-iphonesimulator/nib.build/nib-all-target-headers.hmap -iquote /Volumes/MAC/nib/build/nib.build/Debug-iphonesimulator/nib.build/nib-project-headers.hmap -F/Volumes/MAC/nib/build/Debug-iphonesimulator -I/Volumes/MAC/nib/build/Debug-iphonesimulator/include -I/Volumes/MAC/nib/build/nib.build/Debug-iphonesimulator/nib.build/DerivedSources/i386 -I/Volumes/MAC/nib/build/nib.build/Debug-iphonesimulator/nib.build/DerivedSources -c /Volumes/MAC/nib/nib_Prefix.pch -o /var/folders/it/itMbky4uFrSmENvfyJri-k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/nib_Prefix-fhdcudanghejcaepegwqoowtlptg/nib_Prefix.pch.gch0#
+
+CTouch /Volumes/MAC/nib/build/Debug-iphonesimulator/nib.app
+s334193689.730904
+e334193689.733086
+r1
+xTouch
+x/Volumes/MAC/nib/build/Debug-iphonesimulator/nib.app
+lSLF07#2@58"Touch /Volumes/MAC/nib/build/Debug-iphonesimulator/nib.app334193689#334193689#0(0"0(0#0#0"8617793856#230"    cd /Volumes/MAC/nib    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Volumes/MAC/nib/build/Debug-iphonesimulator/nib.app0#
+

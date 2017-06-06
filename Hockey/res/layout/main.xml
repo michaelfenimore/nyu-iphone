@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    >
+    <Button	android:id="@+id/newGoalie"
+    		android:layout_width="wrap_content"
+    		android:layout_height="wrap_content"
+    		android:background="@drawable/button_stick"
+    		android:textColor="#FFFFFF"
+    		android:text="@string/newGoalie"
+    		android:paddingTop="46dp"
+    		android:layout_marginTop="75dp"
+    		android:textSize="18px"
+    		android:textStyle="bold">
+    </Button>
+    
+    <Button	android:id="@+id/editGoalie"
+    		android:layout_width="wrap_content"
+    		android:layout_height="wrap_content"
+    		android:background="@drawable/button_stick"
+    		android:textColor="#FFFFFF"
+    		android:text="@string/editGoalie"
+    		android:paddingTop="46dp"
+    		android:textSize="18px"
+    		android:textStyle="bold">
+    </Button>
+    
+    <Button	android:id="@+id/enterStats"
+    		android:layout_width="wrap_content"
+    		android:layout_height="wrap_content"
+    		android:background="@drawable/button_stick"
+    		android:textColor="#FFFFFF"
+    		android:text="@string/enterStats"
+    		android:paddingTop="46dp"
+    		android:layout_marginTop="25dp"
+    		android:textSize="18px"
+    		android:textStyle="bold">
+    </Button>
+    
+    <Button	android:id="@+id/editStats"
+    		android:layout_width="wrap_content"
+    		android:layout_height="wrap_content"
+    		android:background="@drawable/button_stick"
+    		android:textColor="#FFFFFF"
+    		android:text="@string/editStats"
+    		android:paddingTop="46dp"
+    		android:textSize="18px"
+    		android:textStyle="bold">
+    </Button>
+
+</LinearLayout>

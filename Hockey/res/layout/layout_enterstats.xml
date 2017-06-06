@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:id="@+id/layout_enterstats"
+  android:background="@drawable/background">
+    
+    <TextView
+    	android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:textSize="18dp"
+    	android:text="xx/xx/xxxx"
+    	android:textColor="#000000"
+    	android:id="@+id/textDate"
+    	android:layout_alignParentTop="true"
+    	android:layout_marginLeft="15dp"
+    	android:layout_marginTop="85dp">
+    </TextView>
+    
+    <Button
+    	android:layout_width="wrap_content"
+    	android:id="@+id/btn_dateChange"
+    	android:text="Change Date"
+    	android:layout_height="34dp"
+    	android:textSize="12dp"
+    	android:layout_alignLeft="@+id/textDate"
+    	android:layout_alignParentTop="true"
+    	android:layout_marginLeft="115dp"
+    	android:layout_marginTop="80dp">
+    </Button>
+    
+    <TextView android:id="@+id/periodText"
+    		android:textSize="18dp"
+    		android:layout_height="wrap_content"
+    		android:layout_width="wrap_content"
+    		android:text="Period:"
+    		android:textColor="#000000"
+    		android:layout_below="@+id/textDate"
+    		android:layout_marginLeft="15dp"
+    		android:layout_marginTop="30dp">
+    </TextView>
+    
+    <Spinner android:id="@+id/periodSpinner"
+   		android:layout_height="wrap_content"
+   		android:layout_width="wrap_content"
+   		android:layout_below="@+id/textDate"
+   		android:layout_marginLeft="90dp"
+   		android:layout_marginTop="25dp">
+    </Spinner>
+    
+    <TextView android:id="@+id/shotsText"
+    		android:textSize="18dp"
+    		android:layout_height="wrap_content"
+    		android:layout_width="wrap_content"
+    		android:text="Shots:"
+    		android:textColor="#000000"
+    		android:layout_below="@+id/periodText"
+    		android:layout_marginLeft="15dp"
+    		android:layout_marginTop="55dp">
+    </TextView>
+    
+    <Button android:id="@+id/btn_addShot"
+    		android:text="+"
+    		android:textColor="#006600"
+    		android:textStyle="bold"
+    		android:textSize="19dp"
+    		android:layout_height="wrap_content"
+    		android:layout_width="50dp"
+    		android:layout_below="@+id/periodSpinner"
+    		android:layout_marginTop="20dp"
+    		android:layout_alignLeft="@+id/periodSpinner">
+    </Button>
+    
+    <EditText android:id="@+id/txt_Shots"
+    		android:layout_height="wrap_content"
+    		android:layout_width="wrap_content"
+    		android:inputType="number"
+    		android:text="0"
+    		android:layout_alignBaseline="@+id/btn_addShot"
+    		android:layout_toRightOf="@+id/btn_addShot"
+    		android:minWidth="40dp">
+        <requestFocus></requestFocus>
+    </EditText>
+    
+    <Button android:id="@+id/btn_minusShot"
+    		android:text="-"
+    		android:textColor="#000000"
+    		android:textStyle="bold"
+    		android:textSize="19dp"
+    		android:layout_height="wrap_content"
+    		android:layout_width="50dp"
+    		android:layout_below="@+id/periodSpinner"
+    		android:layout_marginTop="20dp"
+			android:layout_toRightOf="@+id/txt_Shots">
+    </Button>
+    
+    <Button android:id="@+id/btn_goalScored"
+    		android:text="Goal Scored"
+    		android:textColor="#660000"
+    		android:textStyle="bold"
+    		android:layout_height="wrap_content"
+    		android:layout_width="150dp"
+    		android:layout_below="@+id/btn_addShot"
+    		android:layout_marginTop="30dp"
+    		android:layout_centerInParent="true">
+    </Button>
+    
+    <Button android:id="@+id/btn_save"
+    		android:text="Save"
+    		android:layout_height="wrap_content"
+    		android:layout_width="150dp"
+    		android:layout_below="@+id/btn_goalScored"
+    		android:layout_marginTop="30dp"
+    		android:layout_marginLeft="5dp">
+    </Button>
+    
+    <Button android:id="@+id/btn_cancel"
+    		android:text="Cancel"
+    		android:layout_height="wrap_content"
+    		android:layout_width="150dp"
+    		android:layout_below="@+id/btn_goalScored"
+    		android:layout_marginTop="30dp"
+    		android:layout_marginLeft="160dp">
+    </Button>
+    
+</RelativeLayout>

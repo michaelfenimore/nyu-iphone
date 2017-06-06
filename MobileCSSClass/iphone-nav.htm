@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0;" />
+		<title>iPhone App Top Navbar</title>
+		<style>
+			* {margin:0; padding:0;}
+			body { font-family:Arial, Helvetica, sans-serif;}
+			/* Not workign on a droid. Research */
+			a { -webkit-tap-highlight-color: transparent; -webkit-touch-callout: none;}
+			.head { height:44px;
+			background-color:#000;
+			background-image:
+			/* Add for FireFox */
+					-webkit-gradient(
+									  linear,
+									  0 0,
+									  0 100%,
+									  from(rgba(255,255,255,.35)),
+									  color-stop(.5, rgba(255,255,255,.15)),
+									  color-stop(.5, transparent),
+									  to(transparent)
+									  )
+			;}
+			.head .col {padding:7px 5px 0;}
+			.head .left {float: left;}
+			.head .right {float: right;}
+			.head .title { font-size: 19px;
+				color:#FFF;
+				text-shadow: 0 -1px 1px rgba(0,0,0,.35);
+				text-align:center;
+				line-height:44px;
+				text-overflow: elipsis;
+				margin:0 1em;
+				white-space:nowrap;
+				}
+			.button:active { background: red;}
+			.button { background: #333;
+			color:#FFF;
+			padding:0 8px;
+			font-size:14px;
+			font-weight:bold;
+			display:inline-block; /*Helpus add dimensions to it */
+			border:1px solid #000;
+			height:20px; line-height:20px;
+			text-decoration:none;
+			max-width:70px;
+			white-space:nowrap /* Keeps everything on one line, prevents wrapping text to two lines */;
+			text-overflow: ellipses;
+			overflow:hidden;
+			border-radius: 4px;
+			-webkit-box-shadow: 0 1px rgba(255,255,255,.2),
+			inset 0 1px rgba(0,0,0,.3),
+			text-shadow:0 -1px 1px rgba(0,0,0,.25);
+			}
+			.button:hover {background-image:
+					-webkit-gradient( linear,
+									  0 0,
+									  0 100%,
+									  from(rgba(255,255,255,.35)),
+									  color-stop(.5, rgba(255,255,255,.15)),
+									  color-stop(.5, transparent),
+									  to(transparent)
+									  );}
+									  
+			.back.button {
+				-webkit-border-image: url(images/back_button.png) 1 5 1 13/1px 5px 1px 13px;
+				-webkit-background-clip: padding-box;
+				/* background-clip makes the padding transparent*/ 
+			}
+		</style>
+	</head>
+	<body>
+    	<div class="head">
+        	<div class="left col">
+   				<!-- ontouchstart activates the backgorund color for ".button:active" -->
+            	<a href="#" class="back button" ontouchstart>Back More</a>
+            </div>
+            <div class="right col">
+            	<a href="#" class="button" ontouchstart>Edit</a>
+            </div>
+            <h1 class="title">New York CBS</h1>
+        </div>
+	</body>
+</html>

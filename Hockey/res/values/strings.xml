@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Goalie Statistics</string>
+    <string name="newGoalie">New Goalie</string>
+    <string name="editGoalie">Edit Goalie</string>
+    <string name="enterStats">Enter Stats</string>
+    <string name="editStats">Edit Stats</string>
+    <string-array name="catch_array">
+    	<item>Left</item>
+    	<item>Right</item>
+    </string-array>
+    <string-array name="period_array">
+    	<item>1st Period</item>
+    	<item>2nd Period</item>
+    	<item>3rd Period</item>
+    	<item>4th Period / OT</item>
+    </string-array>
+    <string-array name="location_array">
+    	<item>Top Right</item>
+    	<item>Top Left</item>
+    	<item>Bottom Right</item>
+    	<item>Bottom Left</item>
+    	<item>Middle Top</item>
+    	<item>Middle Bottom</item>
+    </string-array>
+    <string-array name="position_array">
+    	<item>Standing Center</item>
+    	<item>Standing Left-Post</item>
+    	<item>Standing Right-Post</item>
+    	<item>Down Center</item>
+    	<item>Down Left-Post</item>
+    	<item>Down Right-Post</item>
+    	<item>Behind Net</item>
+    	<item>Out of Crease</item>
+    </string-array>
+    <string-array name="team_array">
+    	<item>Even Strength</item>
+    	<item>Down a Player (Penalty Kill)</item>
+    	<item>Up a Player (Power Play)</item>
+    	<item>Down Two Player</item>
+    	<item>Up Two Player</item>
+    </string-array>
+    <string-array name="goalkind_array">
+    	<item>Clean Shot</item>
+    	<item>Rebound</item>
+    	<item>Scramble at Net</item>
+    	<item>Breakaway</item>
+    	<item>Screened</item>
+    </string-array>
+</resources>

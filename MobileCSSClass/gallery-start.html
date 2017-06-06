@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0;" />
+		<title>iPhone App Top Navbar</title>
+		<style>
+			* {
+				margin: 0;
+				padding: 0;
+				/* disable select text */
+				-wekbit-user-select: none;
+			}
+			body {
+				font: 1em sans-serif;
+			}
+			a {
+				-webkit-touch-callout: none;
+				-webkit-tap-highlight-color: transparent;
+			}
+			.page {
+				min-height: 416px;
+				display: -webkit-box;
+				-webkit-box-orient: vertical;
+			}
+			.page > .body {
+				-webkit-box-flex: 1;
+			}
+			.head {
+				height: 2.75em;
+				background-color: #000;
+				background-image: 
+					-webkit-gradient(
+						linear,
+						0 0, 
+						0 100%,
+						from(hsla(0,0%,100%,.35)),
+						color-stop(.5, hsla(0,0%,100%,.15)),
+						color-stop(.5, transparent),
+						to(transparent)
+					);
+			}
+			.head .col {
+				padding: 7px 5px 0;
+			}
+			.head .left {
+				float: left;
+			}
+			.head .right {
+				float: right;
+			}
+			.head .title {
+				font-size: 1.25em;
+				color: #fff;
+				text-shadow: 0 -1px 1px rgba(0,0,0,.35);
+				line-height: 2.2em;
+				text-align: center;
+
+				margin: 0 5em;
+				text-overflow: ellipsis;
+				white-space: nowrap;
+			}
+			.button {
+				background-color: #000;
+				color: #fff;
+				padding: 0 8px;
+				display: inline-block;
+				font-size: .75em;
+				font-weight: bold;
+				border: 1px solid #000;
+				border-radius: 4px;
+				height: 2.333em;
+				line-height: 2.333em;
+				text-decoration: none;
+				text-shadow: 0 -1px 1px rgba(0,0,0,.25);
+
+				max-width: 70px;
+				white-space: nowrap;
+				text-overflow: ellipsis;
+				overflow: hidden;
+
+				-webkit-box-shadow:
+					0 1px rgba(255,255,255,.29),
+					inset 0 1px rgba(255,255,255,.29);
+				background-image:
+					-webkit-gradient(
+						linear,
+						0 0,
+						0 100%,
+						from(rgba(255,255,255,.35)),
+						color-stop(.5, rgba(255,255,255,.15)),
+						color-stop(.5, rgba(0,0,0,0)),
+						to(rgba(0,0,0,0))
+					);
+			}
+			.button:active {
+				background-image:
+					-webkit-gradient(
+						linear, 
+						0 0,
+						0 100%,
+						from(rgba(0,0,0,.1)),
+						color-stop(.65, rgba(0,0,0,.3)),
+						to(rgba(0,0,0,.3))
+					);
+				-webkit-box-shadow:
+					0 1px rgba(255,255,255,.29),
+					inset 0 1px 1px rgba(0,0,0,.71);
+			}
+			.back.button {
+				background: #000;
+				border-radius: 0;
+				background-clip: padding-box;
+				-webkit-box-shadow: none;
+				-webkit-border-image: url(../images/back_button.png) 1 5 1 13/1px 5px 1px 13px;
+				padding: 0 2px;
+			}
+			.back.button:active {
+				-webkit-border-image: url(../images/back_button_clicked.png) 1 5 1 13/1px 5px 1px 13px;
+			}
+
+		</style>
+	</head>
+	<body>
+			<div class="head">
+				<h1 class="title">Image Gallery</h1>
+			</div>
+			<div class="body">
+				<div class="content">
+					<div class="item">
+						<img src="http://placekitten.com/75/75" />
+					</div>
+					<div class="item">
+						<img src="http://placekitten.com/75/75" />
+					</div>
+					<div class="item">
+						<img src="http://placekitten.com/75/75" />
+					</div>
+					<div class="item">
+						<img src="http://placekitten.com/75/75" />
+					</div>
+					<div class="item">
+						<img src="http://placehold.it/75/75" />
+					</div>
+					<div class="item">
+						<img src="http://placehold.it/75/75" />
+					</div>
+					<div class="item">
+						<img src="http://placehold.it/75/75" />
+					</div>
+					<div class="item">
+						<img src="http://placehold.it/75/75" />
+					</div>
+					<div class="item">
+						<img src="http://placedog.com/75/75" />
+					</div>
+					<div class="item">
+						<img src="http://placedog.com/75/75" />
+					</div>
+					<div class="item">
+						<img src="http://placedog.com/75/75" />
+					</div>
+					<div class="item">
+						<img src="http://placedog.com/75/75" />
+					</div>
+				</div>
+			</div>
+		<script>
+			if (location.hash == '#frame') {
+				location.hash = '';
+			}
+			function setPic() {
+				var picHolder = document.querySelector('#frame .body'); 
+				var newPicLoc = this.src.split('/75/75')[0] + '/600/600';
+				picHolder.style.backgroundImage = 'url(' + newPicLoc + ')';
+				location.hash = "#frame";
+			}
+			document.addEventListener('DOMContentLoaded', function () {
+				var images = document.querySelectorAll('#gallery .item img');
+				images = Array.prototype.slice.call(images, null);
+				images.forEach(function (img) {
+					img.addEventListener('click', setPic, false);
+				});
+			}, false);
+		</script>
+	</body>
+</html>

@@ -1,0 +1,18 @@
+CACHE MANIFEST
+# Version 1.0
+css/gallery-start.css
+js/gallery.js
+images/back_button_clicked.png
+images/back_button.png
+images/kitten1-thumb.jpg
+images/kitten1.jpg
+images/kitten2-thumb.jpg
+images/kitten2.jpg
+images/ph-thumb.gif
+images/ph.gif
+
+NETWORK:
+*
+
+FALLBACK:
+/images notfound.gif

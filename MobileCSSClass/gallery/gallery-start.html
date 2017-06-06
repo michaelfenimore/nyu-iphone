@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en" manifest="gallery.appcache">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0;" />
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<!--
+		<link rel="apple-touch-icon" href="images/icon-iphone.jpeg" />
+		<link rel="apple-touch-icon" sizes="72x72" href="./images/icon-ipad.jpeg" />
+		<link rel="apple-touch-icon" sizes="114x114" href="./images/icon-iphone4.jpeg" />
+		-->
+		<!-- splash image 
+			on iPhone and iPod Touch:
+			1) must be 320x460 in portrait orientation
+			2) must be png format
+
+			on iPad and iPhone Retina? Can't find any documentation on apple site, but somone has tried to document all this: https://gist.github.com/472519
+		<link rel="apple-touch-startup-image" href="images/splash.png" />
+		-->
+
+		<title> Photo Gallery </title>
+		<link rel="stylesheet" href="css/gallery-start.css" />
+		<script src="js/gallery.js"></script>
+	</head>
+	<body>
+         <div class="page" id="frame">
+         	<div class="head" ontouchstart>
+                <div class="left col"> <a class="back button" href="#gallery"> Back </a> </div>
+                <div class="right col"> <div class="button"> Email </div> </div>
+                <h1 class="title"> Image </h1>
+            </div>
+            <div class="body"></div>
+         </div>
+         <div id="gallery" class="page">
+            <div class="head">
+                <h1 class="title"> My Photo Gallery </h1>
+            </div>
+            <div class="body">
+                <div class="thumbnails">
+                    <div class="item"><img src="images/kitten1-thumb.jpg" /></div>
+                    <div class="item"><img src="images/kitten2-thumb.jpg" /></div>
+                    <div class="item"><img src="images/ph-thumb.gif" /></div>
+                </div>
+            </div>
+         </div>
+	</body>
+</html>
